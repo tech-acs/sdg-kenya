@@ -1,0 +1,819 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>Disaggregation: Composite breakdown - SDG data build documentation</title>
+
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
+                }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
+            </style>
+        </head>
+        <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="/sdg-kenya/data-docs/index.html">SDG data build documentation</a>
+                </div>
+            </nav>
+            <main id="main-content" role="main">
+                <div class="container">
+                    <h1 style="margin:20px 0">Disaggregation: Composite breakdown</h1>
+                    <div>
+                        
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="values--disaggregation--composite-breakdown.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--composite-breakdown">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--composite-breakdown" class="download-info">Size: 6.3 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">115</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Value</th>
+      <th>Disaggregation combinations using this value</th>
+      <th>Number of indicators</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="disaggregation-value--abt2-status-national-target-reflecting-abt2-exists-and-progress-is-on-track-to.html">ABT2 status: National target reflecting ABT2 exists and progress is on track to achieve it</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--deviation-level-extreme-75-100.html">Deviation Level: Extreme (75-100%)</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--deviation-level-high-50-75.html">Deviation Level: High (50-75%)</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--deviation-level-low-0-25.html">Deviation Level: Low (0-25%)</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--deviation-level-medium-25-50.html">Deviation Level: Medium (25-50%)</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--elevation-10001500-meters-and-slope-5-or-local-elevation-range-ler-7-kilometer.html">Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--elevation-15002500-meters-and-slope-2.html">Elevation 1.500–2.500 meters and slope > 2</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--elevation-25003500-meters.html">Elevation 2.500–3.500 meters</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--elevation-3001000-meters-and-local-elevation-range-7-kilometer-radius-300-mete.html">Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--food-waste-sector-households.html">Food Waste Sector: Households</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--food-waste-sector-out-of-home-consumption.html">Food Waste Sector: Out-of-home consumption</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--food-waste-sector-retail.html">Food Waste Sector: Retail</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--grounds-of-discrimination-age.html">Grounds of discrimination: Age</a></td>
+      <td>30</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--grounds-of-discrimination-born-out-of-wedlock.html">Grounds of discrimination: Born out of wedlock</a></td>
+      <td>30</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--grounds-of-discrimination-disability.html">Grounds of discrimination: Disability</a></td>
+      <td>30</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--grounds-of-discrimination-ethnic-or-immigration-status.html">Grounds of discrimination: Ethnic or immigration status</a></td>
+      <td>30</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--grounds-of-discrimination-marital-and-family-status.html">Grounds of discrimination: Marital and family status</a></td>
+      <td>30</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--grounds-of-discrimination-other.html">Grounds of discrimination: Other</a></td>
+      <td>30</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--grounds-of-discrimination-political-opinion.html">Grounds of discrimination: Political opinion</a></td>
+      <td>30</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--grounds-of-discrimination-pregnancy.html">Grounds of discrimination: Pregnancy</a></td>
+      <td>10</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--grounds-of-discrimination-religion.html">Grounds of discrimination: Religion</a></td>
+      <td>30</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--grounds-of-discrimination-sex.html">Grounds of discrimination: Sex</a></td>
+      <td>30</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ihr-capacity-chemical-events.html">IHR Capacity: Chemical events</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ihr-capacity-coordination-and-national-focal-point-communications.html">IHR Capacity: Coordination and National Focal Point communications</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ihr-capacity-food-safety.html">IHR Capacity: Food safety</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ihr-capacity-human-resources.html">IHR Capacity: Human resources</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ihr-capacity-laboratory.html">IHR Capacity: Laboratory</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ihr-capacity-national-legislation-policy-and-financing.html">IHR Capacity: National legislation, policy and financing</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ihr-capacity-points-of-entry.html">IHR Capacity: Points of entry</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ihr-capacity-preparedness.html">IHR Capacity: Preparedness</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ihr-capacity-radionuclear-emergencies.html">IHR Capacity: Radionuclear emergencies</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ihr-capacity-response.html">IHR Capacity: Response</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ihr-capacity-risk-communication.html">IHR Capacity: Risk communication</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ihr-capacity-surveillance.html">IHR Capacity: Surveillance</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ihr-capacity-zoonotic-events.html">IHR Capacity: Zoonotic events</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--international-organisation-african-development-bank.html">International Organisation: African Development Bank</a></td>
+      <td>36</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--international-organisation-international-bank-for-reconstruction-and-developme.html">International Organisation: International Bank for Reconstruction and Development</a></td>
+      <td>40</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--international-organisation-international-finance-corporation.html">International Organisation: International Finance Corporation</a></td>
+      <td>40</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--international-organisation-international-monetary-fund.html">International Organisation: International Monetary Fund</a></td>
+      <td>40</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--international-organisation-un-economic-and-social-council.html">International Organisation: UN Economic and Social Council</a></td>
+      <td>16</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--international-organisation-un-general-assembly.html">International Organisation: UN General Assembly</a></td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--international-organisation-world-trade-organisation.html">International Organisation: World Trade Organisation</a></td>
+      <td>28</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--internet-speed-10-mbits-or-above.html">Internet speed: 10 Mbit/s or above</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--internet-speed-2-mbits-to-less-than-10-mbits.html">Internet speed: 2 Mbit/s to less than 10 Mbit/s</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--internet-speed-256-kbits-to-less-than-2-mbits.html">Internet speed: 256 kbit/s to less than 2 Mbit/s</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mode-of-transport-air.html">Mode of Transport: Air</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mode-of-transport-inland-waterway-transport.html">Mode of transport: Inland waterway transport</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mode-of-transport-rail.html">Mode of Transport: Rail</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mode-of-transport-road.html">Mode of Transport: Road</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--non-communicable-disease-cancer.html">Non-communicable disease: Cancer</a></td>
+      <td>15</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--non-communicable-disease-cardiovascular-disease.html">Non-communicable disease: Cardiovascular disease</a></td>
+      <td>15</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--non-communicable-disease-chronic-respiratory-disease.html">Non-communicable disease: Chronic respiratory disease</a></td>
+      <td>15</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--non-communicable-disease-diabetes.html">Non-communicable disease: Diabetes</a></td>
+      <td>15</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--parliamentary-committee-defence.html">Parliamentary committee: Defence</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--parliamentary-committee-finance.html">Parliamentary committee: Finance</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--parliamentary-committee-foreign-affairs.html">Parliamentary committee: Foreign Affairs</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--parliamentary-committee-gender-equality.html">Parliamentary committee: Gender Equality</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--parliamentary-committee-human-rights.html">Parliamentary committee: Human Rights</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--policy-domain-1-migrant-rights.html">Policy Domain 1. Migrant rights</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--policy-domain-2-whole-of-government-evidence-based-policies.html">Policy Domain 2. Whole-of-government/ Evidence-based policies</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--policy-domain-3-cooperation-and-partnerships.html">Policy Domain 3. Cooperation and partnerships</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--policy-domain-4-socioeconomic-well-being.html">Policy Domain 4. Socioeconomic well-being</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--policy-domain-5-mobility-dimensions-of-crises.html">Policy Domain 5. Mobility dimensions of crises</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--policy-domain-6-safe-orderly-and-regular-migration.html">Policy Domain 6. Safe, orderly and regular migration</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill-ict-skill-changing-privacy-settings-on-your-device-account-or-app-to-lim.html">Skill: ICT Skill: Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill-ict-skill-connecting-and-installing-new-devices.html">Skill: ICT Skill: connecting and installing new devices</a></td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill-ict-skill-copying-or-moving-a-file-or-folder.html">Skill: ICT Skill: Copying or moving a file or folder</a></td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill-ict-skill-creating-electronic-presentations-with-presentation-software.html">Skill: ICT Skill: Creating electronic presentations with presentation software</a></td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill-ict-skill-finding-downloading-installing-and-configuring-software.html">Skill: ICT Skill: Finding, downloading, installing and configuring software</a></td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill-ict-skill-sending-e-mails-with-attached-files.html">Skill: ICT Skill: Sending e-mails with attached files</a></td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill-ict-skill-setting-up-effective-security-measures-eg-strong-passwords-log.html">Skill: ICT Skill: Setting up effective security measures (e.g. strong passwords, log-in attempt notification) to protect devices and online accounts</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill-ict-skill-transferring-files-between-a-computer-and-other-devices.html">Skill: ICT Skill: Transferring files between a computer and other devices</a></td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill-ict-skill-using-basic-arithmetic-formula-in-a-spreadsheet.html">Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet</a></td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill-ict-skill-using-copy-and-paste-tools-to-duplicate-or-move-information-wi.html">Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document</a></td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill-ict-skill-writing-a-computer-program-using-a-specialized-programming-lan.html">Skill: ICT Skill: Writing a computer program using a specialized programming language</a></td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill-mathematics.html">Skill: Mathematics</a></td>
+      <td>13</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill-reading.html">Skill: Reading</a></td>
+      <td>13</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-chemical-events.html">State Party Annual Report 2: Chemical events</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-financing.html">State Party Annual Report 2: Financing</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-food-safety.html">State Party Annual Report 2: Food safety</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-health-emergency-management.html">State Party Annual Report 2: Health emergency management</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-health-services-provision.html">State Party Annual Report 2: Health services provision</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-human-resources.html">State Party Annual Report 2: Human resources</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-ihr-coordination-national-ihr-focal-point-function.html">State Party Annual Report 2: IHR Coordination, National IHR Focal Point functions and advocacy</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-infection-prevention-and-control-ipc.html">State Party Annual Report 2: Infection prevention and control (IPC)</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-laboratory.html">State Party Annual Report 2: Laboratory</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-points-of-entry-poes-and-border-health.html">State Party Annual Report 2: Points of entry (PoEs) and border health</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-policy-legal-and-normative-instruments-to-implemen.html">State Party Annual Report 2: Policy, Legal and normative Instruments to implement IHR</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-radiation-emergencies.html">State Party Annual Report 2: Radiation emergencies</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-risk-communication-and-community-engagement-rcce.html">State Party Annual Report 2: Risk communication and community engagement (RCCE)</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-surveillance.html">State Party Annual Report 2: Surveillance</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-2-zoonotic-diseases.html">State Party Annual Report 2: Zoonotic diseases</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-chemical-events.html">State Party Annual Report: Chemical events </a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-food-safety.html">State Party Annual Report: Food safety </a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-health-service-provision.html">State Party Annual Report: Health Service Provision </a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-human-resources.html">State Party Annual Report: Human resources </a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-ihr-coordination-and-national-ihr-focal-point-functi.html">State Party Annual Report: IHR Coordination and National IHR Focal Point Functions </a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-laboratory.html">State Party Annual Report: Laboratory </a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-legislation-and-financing.html">State Party Annual Report: Legislation and Financing</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-national-health-emergency-framework.html">State Party Annual Report: National Health Emergency Framework </a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-points-of-entry.html">State Party Annual Report: Points of entry </a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-radiation-emergencies.html">State Party Annual Report: Radiation emergencies </a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-risk-communication.html">State Party Annual Report: Risk Communication </a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-surveillance.html">State Party Annual Report: Surveillance </a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--state-party-annual-report-zoonotic-events-and-the-humananimal-interface.html">State Party Annual Report: Zoonotic events and the human–animal interface </a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--type-of-renewable-technology-bioenergy.html">Type of renewable technology: Bioenergy</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--type-of-renewable-technology-hydropower.html">Type of renewable technology: Hydropower</a></td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--type-of-renewable-technology-multiple-renewables.html">Type of renewable technology: Multiple renewables</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--type-of-renewable-technology-solar-energy.html">Type of renewable technology: Solar energy</a></td>
+      <td>5</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--waste-treatment-composting.html">Waste treatment: Composting</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--waste-treatment-incineration-to-generate-energy.html">Waste Treatment: Incineration to generate energy</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--waste-treatment-incineration.html">Waste treatment: Incineration</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--waste-treatment-landfilling-controlled.html">Waste treatment: Landfilling, controlled</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--waste-treatment-landfilling.html">Waste treatment: Landfilling</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--waste-treatment-other-type-of-waste-management.html">Waste treatment: Other type of waste management</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--abt2-status-national-target-reflecting-abt2-exists-and-progress-is-on-track-to.html\">ABT2 status: National target reflecting ABT2 exists and progress is on track to achieve it<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--deviation-level-extreme-75-100.html\">Deviation Level: Extreme (75-100%)<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--deviation-level-high-50-75.html\">Deviation Level: High (50-75%)<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--deviation-level-low-0-25.html\">Deviation Level: Low (0-25%)<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--deviation-level-medium-25-50.html\">Deviation Level: Medium (25-50%)<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--elevation-10001500-meters-and-slope-5-or-local-elevation-range-ler-7-kilometer.html\">Elevation 1.000\u20131.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--elevation-15002500-meters-and-slope-2.html\">Elevation 1.500\u20132.500 meters and slope > 2<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--elevation-25003500-meters.html\">Elevation 2.500\u20133.500 meters<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--elevation-3001000-meters-and-local-elevation-range-7-kilometer-radius-300-mete.html\">Elevation 300\u20131.000 meters and local elevation range (7 kilometer radius) > 300 meters<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--food-waste-sector-households.html\">Food Waste Sector: Households<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--food-waste-sector-out-of-home-consumption.html\">Food Waste Sector: Out-of-home consumption<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--food-waste-sector-retail.html\">Food Waste Sector: Retail<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--grounds-of-discrimination-age.html\">Grounds of discrimination: Age<\/a>","Disaggregation combinations using this value":30,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--grounds-of-discrimination-born-out-of-wedlock.html\">Grounds of discrimination: Born out of wedlock<\/a>","Disaggregation combinations using this value":30,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--grounds-of-discrimination-disability.html\">Grounds of discrimination: Disability<\/a>","Disaggregation combinations using this value":30,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--grounds-of-discrimination-ethnic-or-immigration-status.html\">Grounds of discrimination: Ethnic or immigration status<\/a>","Disaggregation combinations using this value":30,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--grounds-of-discrimination-marital-and-family-status.html\">Grounds of discrimination: Marital and family status<\/a>","Disaggregation combinations using this value":30,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--grounds-of-discrimination-other.html\">Grounds of discrimination: Other<\/a>","Disaggregation combinations using this value":30,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--grounds-of-discrimination-political-opinion.html\">Grounds of discrimination: Political opinion<\/a>","Disaggregation combinations using this value":30,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--grounds-of-discrimination-pregnancy.html\">Grounds of discrimination: Pregnancy<\/a>","Disaggregation combinations using this value":10,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--grounds-of-discrimination-religion.html\">Grounds of discrimination: Religion<\/a>","Disaggregation combinations using this value":30,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--grounds-of-discrimination-sex.html\">Grounds of discrimination: Sex<\/a>","Disaggregation combinations using this value":30,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--ihr-capacity-chemical-events.html\">IHR Capacity: Chemical events<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ihr-capacity-coordination-and-national-focal-point-communications.html\">IHR Capacity: Coordination and National Focal Point communications<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ihr-capacity-food-safety.html\">IHR Capacity: Food safety<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ihr-capacity-human-resources.html\">IHR Capacity: Human resources<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ihr-capacity-laboratory.html\">IHR Capacity: Laboratory<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ihr-capacity-national-legislation-policy-and-financing.html\">IHR Capacity: National legislation, policy and financing<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ihr-capacity-points-of-entry.html\">IHR Capacity: Points of entry<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ihr-capacity-preparedness.html\">IHR Capacity: Preparedness<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ihr-capacity-radionuclear-emergencies.html\">IHR Capacity: Radionuclear emergencies<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ihr-capacity-response.html\">IHR Capacity: Response<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ihr-capacity-risk-communication.html\">IHR Capacity: Risk communication<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ihr-capacity-surveillance.html\">IHR Capacity: Surveillance<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ihr-capacity-zoonotic-events.html\">IHR Capacity: Zoonotic events<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--international-organisation-african-development-bank.html\">International Organisation: African Development Bank<\/a>","Disaggregation combinations using this value":36,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--international-organisation-international-bank-for-reconstruction-and-developme.html\">International Organisation: International Bank for Reconstruction and Development<\/a>","Disaggregation combinations using this value":40,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--international-organisation-international-finance-corporation.html\">International Organisation: International Finance Corporation<\/a>","Disaggregation combinations using this value":40,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--international-organisation-international-monetary-fund.html\">International Organisation: International Monetary Fund<\/a>","Disaggregation combinations using this value":40,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--international-organisation-un-economic-and-social-council.html\">International Organisation: UN Economic and Social Council<\/a>","Disaggregation combinations using this value":16,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--international-organisation-un-general-assembly.html\">International Organisation: UN General Assembly<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--international-organisation-world-trade-organisation.html\">International Organisation: World Trade Organisation<\/a>","Disaggregation combinations using this value":28,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--internet-speed-10-mbits-or-above.html\">Internet speed: 10 Mbit\/s or above<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--internet-speed-2-mbits-to-less-than-10-mbits.html\">Internet speed: 2 Mbit\/s to less than 10 Mbit\/s<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--internet-speed-256-kbits-to-less-than-2-mbits.html\">Internet speed: 256 kbit\/s to less than 2 Mbit\/s<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--mode-of-transport-air.html\">Mode of Transport: Air<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--mode-of-transport-inland-waterway-transport.html\">Mode of transport: Inland waterway transport<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--mode-of-transport-rail.html\">Mode of Transport: Rail<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--mode-of-transport-road.html\">Mode of Transport: Road<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--non-communicable-disease-cancer.html\">Non-communicable disease: Cancer<\/a>","Disaggregation combinations using this value":15,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--non-communicable-disease-cardiovascular-disease.html\">Non-communicable disease: Cardiovascular disease<\/a>","Disaggregation combinations using this value":15,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--non-communicable-disease-chronic-respiratory-disease.html\">Non-communicable disease: Chronic respiratory disease<\/a>","Disaggregation combinations using this value":15,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--non-communicable-disease-diabetes.html\">Non-communicable disease: Diabetes<\/a>","Disaggregation combinations using this value":15,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--parliamentary-committee-defence.html\">Parliamentary committee: Defence<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--parliamentary-committee-finance.html\">Parliamentary committee: Finance<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--parliamentary-committee-foreign-affairs.html\">Parliamentary committee: Foreign Affairs<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--parliamentary-committee-gender-equality.html\">Parliamentary committee: Gender Equality<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--parliamentary-committee-human-rights.html\">Parliamentary committee: Human Rights<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--policy-domain-1-migrant-rights.html\">Policy Domain 1. Migrant rights<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--policy-domain-2-whole-of-government-evidence-based-policies.html\">Policy Domain 2. Whole-of-government\/ Evidence-based policies<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--policy-domain-3-cooperation-and-partnerships.html\">Policy Domain 3. Cooperation and partnerships<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--policy-domain-4-socioeconomic-well-being.html\">Policy Domain 4. Socioeconomic well-being<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--policy-domain-5-mobility-dimensions-of-crises.html\">Policy Domain 5. Mobility dimensions of crises<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--policy-domain-6-safe-orderly-and-regular-migration.html\">Policy Domain 6. Safe, orderly and regular migration<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--skill-ict-skill-changing-privacy-settings-on-your-device-account-or-app-to-lim.html\">Skill: ICT Skill: Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--skill-ict-skill-connecting-and-installing-new-devices.html\">Skill: ICT Skill: connecting and installing new devices<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--skill-ict-skill-copying-or-moving-a-file-or-folder.html\">Skill: ICT Skill: Copying or moving a file or folder<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--skill-ict-skill-creating-electronic-presentations-with-presentation-software.html\">Skill: ICT Skill: Creating electronic presentations with presentation software<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--skill-ict-skill-finding-downloading-installing-and-configuring-software.html\">Skill: ICT Skill: Finding, downloading, installing and configuring software<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--skill-ict-skill-sending-e-mails-with-attached-files.html\">Skill: ICT Skill: Sending e-mails with attached files<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--skill-ict-skill-setting-up-effective-security-measures-eg-strong-passwords-log.html\">Skill: ICT Skill: Setting up effective security measures (e.g. strong passwords, log-in attempt notification) to protect devices and online accounts<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--skill-ict-skill-transferring-files-between-a-computer-and-other-devices.html\">Skill: ICT Skill: Transferring files between a computer and other devices<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--skill-ict-skill-using-basic-arithmetic-formula-in-a-spreadsheet.html\">Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--skill-ict-skill-using-copy-and-paste-tools-to-duplicate-or-move-information-wi.html\">Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--skill-ict-skill-writing-a-computer-program-using-a-specialized-programming-lan.html\">Skill: ICT Skill: Writing a computer program using a specialized programming language<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--skill-mathematics.html\">Skill: Mathematics<\/a>","Disaggregation combinations using this value":13,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--skill-reading.html\">Skill: Reading<\/a>","Disaggregation combinations using this value":13,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-chemical-events.html\">State Party Annual Report 2: Chemical events<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-financing.html\">State Party Annual Report 2: Financing<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-food-safety.html\">State Party Annual Report 2: Food safety<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-health-emergency-management.html\">State Party Annual Report 2: Health emergency management<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-health-services-provision.html\">State Party Annual Report 2: Health services provision<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-human-resources.html\">State Party Annual Report 2: Human resources<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-ihr-coordination-national-ihr-focal-point-function.html\">State Party Annual Report 2: IHR Coordination, National IHR Focal Point functions and advocacy<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-infection-prevention-and-control-ipc.html\">State Party Annual Report 2: Infection prevention and control (IPC)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-laboratory.html\">State Party Annual Report 2: Laboratory<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-points-of-entry-poes-and-border-health.html\">State Party Annual Report 2: Points of entry (PoEs) and border health<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-policy-legal-and-normative-instruments-to-implemen.html\">State Party Annual Report 2: Policy, Legal and normative Instruments to implement IHR<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-radiation-emergencies.html\">State Party Annual Report 2: Radiation emergencies<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-risk-communication-and-community-engagement-rcce.html\">State Party Annual Report 2: Risk communication and community engagement (RCCE)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-surveillance.html\">State Party Annual Report 2: Surveillance<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-2-zoonotic-diseases.html\">State Party Annual Report 2: Zoonotic diseases<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-chemical-events.html\">State Party Annual Report: Chemical events\u00a0<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-food-safety.html\">State Party Annual Report: Food safety\u00a0<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-health-service-provision.html\">State Party Annual Report: Health Service Provision\u00a0<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-human-resources.html\">State Party Annual Report: Human resources\u00a0<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-ihr-coordination-and-national-ihr-focal-point-functi.html\">State Party Annual Report: IHR Coordination and National IHR Focal Point Functions\u00a0<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-laboratory.html\">State Party Annual Report: Laboratory\u00a0<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-legislation-and-financing.html\">State Party Annual Report: Legislation and Financing<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-national-health-emergency-framework.html\">State Party Annual Report: National Health Emergency Framework\u00a0<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-points-of-entry.html\">State Party Annual Report: Points of entry\u00a0<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-radiation-emergencies.html\">State Party Annual Report: Radiation emergencies\u00a0<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-risk-communication.html\">State Party Annual Report: Risk Communication\u00a0<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-surveillance.html\">State Party Annual Report: Surveillance\u00a0<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--state-party-annual-report-zoonotic-events-and-the-humananimal-interface.html\">State Party Annual Report: Zoonotic events and the human\u2013animal interface\u00a0<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--type-of-renewable-technology-bioenergy.html\">Type of renewable technology: Bioenergy<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--type-of-renewable-technology-hydropower.html\">Type of renewable technology: Hydropower<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--type-of-renewable-technology-multiple-renewables.html\">Type of renewable technology: Multiple renewables<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--type-of-renewable-technology-solar-energy.html\">Type of renewable technology: Solar energy<\/a>","Disaggregation combinations using this value":5,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--waste-treatment-composting.html\">Waste treatment: Composting<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--waste-treatment-incineration-to-generate-energy.html\">Waste Treatment: Incineration to generate energy<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--waste-treatment-incineration.html\">Waste treatment: Incineration<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--waste-treatment-landfilling-controlled.html\">Waste treatment: Landfilling, controlled<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--waste-treatment-landfilling.html\">Waste treatment: Landfilling<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--waste-treatment-other-type-of-waste-management.html\">Waste treatment: Other type of waste management<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1}];
+            </script>
+            
+        </div>
+        <div>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="indicators--disaggregation--composite-breakdown.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--composite-breakdown">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--composite-breakdown" class="download-info">Size: 169 Bytes</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">21</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>#10-3-1</td>
+    </tr>
+    <tr>
+      <td>#10-6-1</td>
+    </tr>
+    <tr>
+      <td>#10-7-2</td>
+    </tr>
+    <tr>
+      <td>#12-3-1</td>
+    </tr>
+    <tr>
+      <td>#12-4-2</td>
+    </tr>
+    <tr>
+      <td>#12-a-1</td>
+    </tr>
+    <tr>
+      <td>#15-4-2</td>
+    </tr>
+    <tr>
+      <td>#15-9-1</td>
+    </tr>
+    <tr>
+      <td>#16-7-1</td>
+    </tr>
+    <tr>
+      <td>#16-8-1</td>
+    </tr>
+    <tr>
+      <td>#16-b-1</td>
+    </tr>
+    <tr>
+      <td>#17-6-1</td>
+    </tr>
+    <tr>
+      <td>#3-4-1</td>
+    </tr>
+    <tr>
+      <td>#3-d-1</td>
+    </tr>
+    <tr>
+      <td>#4-1-1</td>
+    </tr>
+    <tr>
+      <td>#4-4-1</td>
+    </tr>
+    <tr>
+      <td>#4-5-1</td>
+    </tr>
+    <tr>
+      <td>#6-6-1</td>
+    </tr>
+    <tr>
+      <td>#7-a-1</td>
+    </tr>
+    <tr>
+      <td>#7-b-1</td>
+    </tr>
+    <tr>
+      <td>#9-1-2</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"#10-3-1"},{"Indicator":"#10-6-1"},{"Indicator":"#10-7-2"},{"Indicator":"#12-3-1"},{"Indicator":"#12-4-2"},{"Indicator":"#12-a-1"},{"Indicator":"#15-4-2"},{"Indicator":"#15-9-1"},{"Indicator":"#16-7-1"},{"Indicator":"#16-8-1"},{"Indicator":"#16-b-1"},{"Indicator":"#17-6-1"},{"Indicator":"#3-4-1"},{"Indicator":"#3-d-1"},{"Indicator":"#4-1-1"},{"Indicator":"#4-4-1"},{"Indicator":"#4-5-1"},{"Indicator":"#6-6-1"},{"Indicator":"#7-a-1"},{"Indicator":"#7-b-1"},{"Indicator":"#9-1-2"}];
+            </script>
+            
+        </div>
+        
+                    </div>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
+        </html>
+        

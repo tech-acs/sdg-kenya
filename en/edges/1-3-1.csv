@@ -1,0 +1,9 @@
+From,To
+NATURE,SOURCE_DETAIL
+SOURCE_DETAIL,SDG Series
+SDG Series,Nature of data points
+Source details,Sex
+Source details,Income or wealth quantile
+Nature of data points,Source details
+Source details,COMMENT_OBS
+COMMENT_OBS,Observation-level footnotes

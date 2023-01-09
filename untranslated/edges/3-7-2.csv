@@ -1,0 +1,4 @@
+From,To
+NATURE,SOURCE_DETAIL
+SOURCE_DETAIL,Age
+Age,Nature of data points

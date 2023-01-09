@@ -1,0 +1,8 @@
+From,To
+OBS_STATUS,NATURE
+NATURE,SOURCE_DETAIL
+SOURCE_DETAIL,SDG Series
+SDG Series,Unit of measure
+Unit of measure,Source details
+Source details,COMMENT_OBS
+COMMENT_OBS,Observation-level footnotes

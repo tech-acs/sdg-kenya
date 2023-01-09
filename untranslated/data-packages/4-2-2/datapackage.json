@@ -1,0 +1,78 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "C",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNESCO Institute for Statistics; Data extracted on 01 April 2022.",
+                "Annual Statistical Report for 2014 (http://mopse.co.zw/sites/default/files/public/downloads/2014-MoPSE-Annual-Statistical-Report.pdf); Data extracted on 01 April 2022.",
+                "Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.",
+                "Annual Statistical Report 2016 (http://mopse.co.zw/sites/default/files/public/downloads/2016%20Annual%20Statistics%20Report%20%281%29.pdf); Data extracted on 01 April 2022.",
+                "2017 Annual Education Statistics Profile (http://mopse.co.zw/sites/default/files/public/downloads/2017_National_Statistical_Profile.pdf); Data extracted on 01 April 2022.",
+                "2018 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/2018%20Annual%20Statistics%20Report.pdf); Data extracted on 01 April 2022.",
+                "2019 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/2019%20Annual%20Education%20Statistics%20Report%20pdf%20for%20UPLOADING.pdf); Data extracted on 01 April 2022.",
+                "2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.",
+                "Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-2-2",
+  "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
+}

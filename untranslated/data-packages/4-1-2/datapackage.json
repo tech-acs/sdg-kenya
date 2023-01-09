@@ -1,0 +1,158 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "C",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estimated using the Adjusted Bayesian Completion Rates estimation model using household survey data [https://osf.io/preprints/socarxiv/at368/]; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2005-06. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above.; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2009. World Inequality Database on Education (WIDE), June 2019.; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2010-11. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above.; Data extracted on 01 April 2022.",
+                "Zimbabwe IPUMS-International 2012. The census collected data on school attendance for age 3-24 and educational attainment for age 3 and above.; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2014. World Inequality Database on Education (WIDE), June 2019.; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above.; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above.; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2005-06. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2005-06. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2010-11. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2010-11. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Income or wealth quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estimated",
+                "Country Data",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estimated using the Adjusted Bayesian Completion Rates estimation model using household survey data [https://osf.io/preprints/socarxiv/at368/]; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above.; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation.",
+                "Obs_Value = 0;  This data point is NIL for the submitting nation.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-2",
+  "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
+}

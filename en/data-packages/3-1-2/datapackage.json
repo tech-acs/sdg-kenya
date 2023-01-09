@@ -1,0 +1,46 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Central Statistical Office (CSO) [Zimbabwe], Macro International Inc. Zimbabwe Demographic and Health Survey 2005-06. Calverton, Maryland, USA: CSO [Zimbabwe], Macro International Inc.; 2007.",
+                "Zimbabwe Multiple Indicator Monitoring Survey (MIMS) 2009. Harare: Zimbabwe National Statistics Agency (ZIMSTAT), United Nations Children's Fund (UNICEF); 2010.",
+                "Zimbabwe National Statistics Agency (ZIMSTAT), ICF International. Zimbabwe Demographic and Health Survey 2010-11. Calverton, Maryland: ZIMSTAT, ICF International Inc.; 2012.",
+                "Zimbabwe National Statistics Agency (ZIMSTAT), United Nations Children's Fund (UNICEF), United Nations Population Fund (UNFPA), United Nations Development Programme (UNDP), USAID. Zimbabwe Multiple Indicator Cluster Survey 2014, Final Report. Harare, Zimbabwe: ZIMSTAT, UNICEF, UNFPA, UNDP, USAID; 2015.",
+                "Zimbabwe National Statistics Agency, ICF International. Zimbabwe Demographic and Health Survey 2015: Final Report. Rockville, Maryland, USA: Zimbabwe National Statistics Agency (ZIMSTAT), ICF International; 2016.",
+                "Zimbabwe Multiple Indicator Cluster Survey 2019, Survey Findings Report. Harare: Zimbabwe National Statistics Agency (ZIMSTAT), UNICEF; 2019.",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-1-2",
+  "title": "Proportion of births attended by skilled health personnel"
+}

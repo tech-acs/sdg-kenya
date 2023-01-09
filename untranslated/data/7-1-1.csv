@@ -1,0 +1,64 @@
+Year,NATURE,Degree of urbanisation,Nature of data points,Value
+2000,M,,Country Data,33.65489
+2001,M,,Country Data,34.17284
+2002,C,,Country Data,34.2
+2003,M,,Country Data,35.18835
+2004,M,,Country Data,35.6906
+2005,M,,Country Data,36.19231
+2006,C,,Country Data,37.2
+2007,M,,Country Data,37.20401
+2008,M,,Country Data,37.71935
+2009,C,,Country Data,43.36908
+2010,M,,Country Data,38.78255
+2011,C,,Country Data,36.9
+2012,C,,Country Data,44.0
+2013,M,,Country Data,40.49837
+2014,C,,Country Data,32.3
+2015,C,,Country Data,33.7
+2016,M,,Country Data,42.56173
+2017,M,,Country Data,44.17863
+2018,M,,Country Data,45.57265
+2019,M,,Country Data,46.78148
+2020,C,,Country Data,52.74767
+2000,M,Rural,Modeled,7.27254
+2001,M,Rural,Modeled,7.60102
+2002,M,Rural,Modeled,7.18126
+2003,M,Rural,Modeled,8.84504
+2004,M,Rural,Modeled,9.84671
+2005,M,Rural,Modeled,10.83047
+2006,M,Rural,Modeled,9.37076
+2007,M,Rural,Modeled,12.75723
+2008,M,Rural,Modeled,13.7136
+2009,M,Rural,Modeled,19.57489
+2010,M,Rural,Modeled,15.64668
+2011,M,Rural,Modeled,14.08005
+2012,M,Rural,Modeled,23.74675
+2013,M,Rural,Modeled,18.69828
+2014,M,Rural,Modeled,7.69181
+2015,M,Rural,Modeled,10.94931
+2016,M,Rural,Modeled,22.08705
+2017,M,Rural,Modeled,24.53109
+2018,M,Rural,Modeled,26.61712
+2019,M,Rural,Modeled,28.40488
+2020,M,Rural,Modeled,37.06025
+2000,M,Urban,Country Data,85.42393
+2001,M,Urban,Country Data,85.36462
+2002,M,Urban,Country Data,85.30399
+2003,M,Urban,Country Data,85.24897
+2004,M,Urban,Country Data,85.20652
+2005,M,Urban,Country Data,85.18358
+2006,C,Urban,Country Data,91.4
+2007,M,Urban,Country Data,85.20716
+2008,M,Urban,Country Data,85.24442
+2009,C,Urban,Country Data,90.86194
+2010,M,Urban,Country Data,85.34143
+2011,C,Urban,Country Data,83.2
+2012,M,Urban,Country Data,85.43053
+2013,M,Urban,Country Data,85.45915
+2014,C,Urban,Country Data,83.4
+2015,C,Urban,Country Data,81.2
+2016,M,Urban,Country Data,85.48399
+2017,M,Urban,Country Data,85.47829
+2018,M,Urban,Country Data,85.46877
+2019,M,Urban,Country Data,85.45734
+2020,C,Urban,Country Data,85.71548

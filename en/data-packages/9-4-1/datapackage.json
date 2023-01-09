@@ -1,0 +1,132 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6",
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IEA (2021), Greenhouse gas emissions from energy. https://www.iea.org/statistics",
+                "UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2021), Greenhouse gas emissions from energy. https://www.iea.org/statistics",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Carbon dioxide emissions from fuel combustion [9.4.1]",
+                "Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant United States dollars) [9.4.1]",
+                "Carbon dioxide emissions per unit of manufacturing value added [9.4.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment",
+                "Manufacturing",
+                ""
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Metric Tons",
+                "Kilograms per constant USD",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IEA (2021), Greenhouse gas emissions from energy. https://www.iea.org/statistics",
+                "UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2021), Greenhouse gas emissions from energy. https://www.iea.org/statistics",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "BASE_PER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                "2015",
+                ""
+              ]
+            },
+            "title": "BASE_PER"
+          },
+          {
+            "name": "Base period",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                "2015",
+                ""
+              ]
+            },
+            "title": "Base period"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-4-1",
+  "title": "CO2 emission per unit of value added"
+}

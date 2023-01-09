@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Degree of integrated water resources management implementation (%) [6.5.1]",
+                "Degree of integrated water resources management implementation, enabling environment (%) [6.5.1]",
+                "Degree of integrated water resources management implementation, financing (%) [6.5.1]",
+                "Degree of integrated water resources management implementation, institutions and participation (%) [6.5.1]",
+                "Degree of integrated water resources management implementation, management instruments (%) [6.5.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-5-1",
+  "title": "Degree of integrated water resources management"
+}

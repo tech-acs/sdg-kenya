@@ -1,0 +1,130 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "C",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global Surface Water Explorer extraction for UN Environment Programme",
+                "Ramsar National Report COP14",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lakes and rivers permanent water area change (%) [6.6.1]",
+                "Lakes and rivers permanent water area (square kilometres) [6.6.1]",
+                "Lakes and rivers permanent water area (% of total land area) [6.6.1]",
+                "Lakes and rivers seasonal water area change (%) [6.6.1]",
+                "Lakes and rivers seasonal water area (square kilometres) [6.6.1]",
+                "Lakes and rivers seasonal water area (% of total land area) [6.6.1]",
+                "Lake water quality turbidity (%) [6.6.1]",
+                "Lake water quality trophic state (%) [6.6.1]",
+                "Reservoir minimum water area (square kilometres) [6.6.1]",
+                "Reservoir minimum water area (% of total land area) [6.6.1]",
+                "Reservoir maximum water area (square kilometres) [6.6.1]",
+                "Reservoir maximum water area (% of total land area) [6.6.1]",
+                "Extent of human made wetlands (square kilometres) [6.6.1]",
+                "Extent of inland wetlands (square kilometres) [6.6.1]",
+                "Wetlands area (square kilometres) [6.6.1]",
+                "Wetlands area (% of total land area) [6.6.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deviation Level: Extreme (75-100%)",
+                "Deviation Level: High (50-75%)",
+                "Deviation Level: Low (0-25%)",
+                "Deviation Level: Medium (25-50%)",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Square kilometers",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estimated",
+                "Country Data",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global Surface Water Explorer extraction for UN Environment Programme",
+                "Ramsar National Report COP14",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-6-1",
+  "title": "Change in the extent of water-related ecosystems over time"
+}

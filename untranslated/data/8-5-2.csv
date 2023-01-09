@@ -1,0 +1,55 @@
+Year,COMMENT_OBS,SDG Series,Sex,Age,Disability status,Value
+2004,"Data reference period: June | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts",Unemployment rate [8.5.2],,15 years old and over,,4.4
+2011,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Unemployment rate [8.5.2],,15 years old and over,,5.4
+2014,Repository: ILO-STATISTICS - Micro data processing,Unemployment rate [8.5.2],,15 years old and over,,4.8
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Unemployment rate [8.5.2],,15 years old and over,,16.9
+2004,"Data reference period: June | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts",Unemployment rate [8.5.2],,25 years old and over,,2.7
+2011,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Unemployment rate [8.5.2],,25 years old and over,,3.9
+2014,Repository: ILO-STATISTICS - Micro data processing,Unemployment rate [8.5.2],,25 years old and over,,3.9
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Unemployment rate [8.5.2],,25 years old and over,,13.8
+2004,"Data reference period: June | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts",Unemployment rate [8.5.2],,15 to 24 years old,,7.6
+2011,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Unemployment rate [8.5.2],,15 to 24 years old,,8.7
+2014,Repository: ILO-STATISTICS - Micro data processing,Unemployment rate [8.5.2],,15 to 24 years old,,6.8
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Unemployment rate [8.5.2],,15 to 24 years old,,27.5
+2004,"Data reference period: June | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts",Unemployment rate [8.5.2],Female,15 years old and over,,4.5
+2011,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Unemployment rate [8.5.2],Female,15 years old and over,,6.0
+2014,Repository: ILO-STATISTICS - Micro data processing,Unemployment rate [8.5.2],Female,15 years old and over,,5.2
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Unemployment rate [8.5.2],Female,15 years old and over,,17.9
+2004,"Data reference period: June | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts",Unemployment rate [8.5.2],Female,25 years old and over,,2.7
+2011,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Unemployment rate [8.5.2],Female,25 years old and over,,4.4
+2014,Repository: ILO-STATISTICS - Micro data processing,Unemployment rate [8.5.2],Female,25 years old and over,,4.2
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Unemployment rate [8.5.2],Female,25 years old and over,,14.5
+2004,"Data reference period: June | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts",Unemployment rate [8.5.2],Female,15 to 24 years old,,8.1
+2011,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Unemployment rate [8.5.2],Female,15 to 24 years old,,9.8
+2014,Repository: ILO-STATISTICS - Micro data processing,Unemployment rate [8.5.2],Female,15 to 24 years old,,7.8
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Unemployment rate [8.5.2],Female,15 to 24 years old,,31.4
+2004,"Data reference period: June | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts",Unemployment rate [8.5.2],Male,15 years old and over,,4.3
+2011,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Unemployment rate [8.5.2],Male,15 years old and over,,4.7
+2014,Repository: ILO-STATISTICS - Micro data processing,Unemployment rate [8.5.2],Male,15 years old and over,,4.4
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Unemployment rate [8.5.2],Male,15 years old and over,,16.0
+2004,"Data reference period: June | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts",Unemployment rate [8.5.2],Male,25 years old and over,,2.8
+2011,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Unemployment rate [8.5.2],Male,25 years old and over,,3.4
+2014,Repository: ILO-STATISTICS - Micro data processing,Unemployment rate [8.5.2],Male,25 years old and over,,3.7
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Unemployment rate [8.5.2],Male,25 years old and over,,13.2
+2004,"Data reference period: June | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts",Unemployment rate [8.5.2],Male,15 to 24 years old,,7.1
+2011,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Unemployment rate [8.5.2],Male,15 to 24 years old,,7.7
+2014,Repository: ILO-STATISTICS - Micro data processing,Unemployment rate [8.5.2],Male,15 to 24 years old,,5.9
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Unemployment rate [8.5.2],Male,15 to 24 years old,,25.0
+2014,Repository: ILO-STATISTICS - Micro data processing,"Unemployment rate, by disability [8.5.2]",,,,4.8
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,"Unemployment rate, by disability [8.5.2]",,,,16.9
+2014,Repository: ILO-STATISTICS - Micro data processing,"Unemployment rate, by disability [8.5.2]",,,Persons with disability,3.1
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,"Unemployment rate, by disability [8.5.2]",,,Persons with disability,15.5
+2014,Repository: ILO-STATISTICS - Micro data processing,"Unemployment rate, by disability [8.5.2]",,,Persons without disability,5.1
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,"Unemployment rate, by disability [8.5.2]",,,Persons without disability,17.1
+2014,Repository: ILO-STATISTICS - Micro data processing,"Unemployment rate, by disability [8.5.2]",Female,,,5.2
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,"Unemployment rate, by disability [8.5.2]",Female,,,17.9
+2014,Repository: ILO-STATISTICS - Micro data processing,"Unemployment rate, by disability [8.5.2]",Female,,Persons with disability,2.9
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,"Unemployment rate, by disability [8.5.2]",Female,,Persons with disability,17.0
+2014,Repository: ILO-STATISTICS - Micro data processing,"Unemployment rate, by disability [8.5.2]",Female,,Persons without disability,5.6
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,"Unemployment rate, by disability [8.5.2]",Female,,Persons without disability,18.0
+2014,Repository: ILO-STATISTICS - Micro data processing,"Unemployment rate, by disability [8.5.2]",Male,,,4.4
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,"Unemployment rate, by disability [8.5.2]",Male,,,16.0
+2014,Repository: ILO-STATISTICS - Micro data processing,"Unemployment rate, by disability [8.5.2]",Male,,Persons with disability,3.4
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,"Unemployment rate, by disability [8.5.2]",Male,,Persons with disability,14.1
+2014,Repository: ILO-STATISTICS - Micro data processing,"Unemployment rate, by disability [8.5.2]",Male,,Persons without disability,4.5
+2019,Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised,"Unemployment rate, by disability [8.5.2]",Male,,Persons without disability,16.3

@@ -1,0 +1,198 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                "E",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimbabwe DHS 2005-06. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above.; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2009. World Inequality Database on Education (WIDE), June 2019.; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2010-11. The survey collected data on school attendance for age 5-24 and educatiol attainment for age 5 and above.; Data extracted on 01 April 2022.",
+                "Zimbabwe IPUMS-Intertiol 2012. The census collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above.; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2014. World Inequality Database on Education (WIDE), June 2019.; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above.; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above.; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2005-06. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2010-11. The survey collected data on school attendance for age 5-24 and educatiol attainment for age 5 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2010-11. The survey collected data on school attendance for age 5-24 and educatiol attainment for age 5 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2005-06. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
+                "Zimbabwe National Statistics Agency (ZIMSTAT)",
+                "UNESCO Institute for Statistics.  Data extracted on 01 April 2022.",
+                "Southern and Eastern Africa Consortium for Monitoring Educational Quality (SACMEQ). Students achieving at least proficiency Level 5. Grade 6 Data extracted on 01 April 2022.",
+                "Multiple Indicator Cluster Survey (MICS6); Children attending grade 2/3; Minimum proficiency level: Foundational numeracy skills. The minimum proficiency level alignment of this assessment is pending and subject to harmonization. Data extracted on 01 April 2022.",
+                "Multiple Indicator Cluster Survey (MICS6); Children attending grade 2/3; Minimum proficiency level: Foundational reading skills. The minimum proficiency level alignment of this assessment is pending and subject to harmonization. Data extracted on 01 April 2022.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
+                "Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
+                "Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
+                "Gender parity index for youth/adults with information and communications technology (ICT) skills [4.5.1]",
+                "Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio) [4.5.1]",
+                "Adjusted gender parity index for the proportion of teachers with the minimum required qualifications, by education level (ratio) [4.5.1]",
+                "Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]",
+                "Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]",
+                "Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Income or wealth quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
+                "Secondary education (lower and upper secondary education)",
+                "Pre-primary education",
+                "Some primary education, grades 2 or 3",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Skill: ICT Skill: Sending e-mails with attached files",
+                "Skill: ICT Skill: connecting and installing new devices",
+                "Skill: ICT Skill: Copying or moving a file or folder",
+                "Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document",
+                "Skill: ICT Skill: Writing a computer program using a specialized programming language",
+                "Skill: ICT Skill: Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)",
+                "Skill: ICT Skill: Creating electronic presentations with presentation software",
+                "Skill: ICT Skill: Setting up effective security measures (e.g. strong passwords, log-in attempt notification) to protect devices and online accounts",
+                "Skill: ICT Skill: Finding, downloading, installing and configuring software",
+                "Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet",
+                "Skill: ICT Skill: Transferring files between a computer and other devices",
+                "Skill: Mathematics",
+                "Skill: Reading",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above.; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
+                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Zimbabwe National Statistics Agency (ZIMSTAT)",
+                "UNESCO Institute for Statistics.  Data extracted on 01 April 2022.",
+                "Southern and Eastern Africa Consortium for Monitoring Educational Quality (SACMEQ). Students achieving at least proficiency Level 5. Grade 6 Data extracted on 01 April 2022.",
+                "Multiple Indicator Cluster Survey (MICS6); Children attending grade 2/3; Minimum proficiency level: Foundational numeracy skills. The minimum proficiency level alignment of this assessment is pending and subject to harmonization. Data extracted on 01 April 2022.",
+                "Multiple Indicator Cluster Survey (MICS6); Children attending grade 2/3; Minimum proficiency level: Foundational reading skills. The minimum proficiency level alignment of this assessment is pending and subject to harmonization. Data extracted on 01 April 2022.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  This data point is NIL for the submitting nation.",
+                "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1",
+  "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
+}

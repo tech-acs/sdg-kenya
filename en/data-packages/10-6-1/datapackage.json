@@ -1,0 +1,159 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "African Development Bank Group Annual Report 2000",
+                "African Development Bank Group Annual Report 2005",
+                "African Development Bank Group Annual Report 2010",
+                "African Development Bank Group Annual Report 2014",
+                "African Development Bank Group Annual Report 2015",
+                "African Development Bank Group Annual Report 2016",
+                "African Development Bank Group Annual Report 2017",
+                "African Development Bank Group Annual Report 2018",
+                "African Development Bank Group Annual Report 2019",
+                "Report of the Economic and Social Council for 2015 (A/70/3)",
+                "Report of the Economic and Social Council on its 2016 Session (A/71/3)",
+                "Report of the Economic and Social Council on its 2017 Session (A/72/3)",
+                "Report of the Economic and Social Council on its 2020 Session (A/75/3/Rev.1)",
+                "The World Bank Annual Report 2000: Financial Statement and Appendixes to the Annual Report",
+                "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2005",
+                "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2010",
+                "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2015",
+                "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2016",
+                "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2017",
+                "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2018",
+                "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2019 ",
+                "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2020",
+                "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2021",
+                "IFC 2000 Annual Report Volume 2",
+                "IFC 2005 Annual Report Volume 2",
+                "IFC 2010 Annual Report Volume 2",
+                "IFC 2015 Annual Report Volume 2",
+                "IFC 2016 Annual Report Volume 2",
+                "IFC 2017 Annual Report Volume 2",
+                "IFC 2018 Annual Report Volume 2",
+                "IFC 2019 Annual Report Volume 2",
+                "IFC 2020 Annual Report Volume 2",
+                "IFC 2021 Annual Report Volume 2",
+                "IMF Annual Report 2000",
+                "IMF Annual Report 2005",
+                "IMF Annual Report 2010",
+                "IMF Annual Report 2015",
+                "IMF Annual Report 2016",
+                "IMF Annual Report 2017",
+                "IMF Annual Report 2018",
+                "IMF Annual Report 2019",
+                "IMF Annual Report 2020",
+                "IMF Annual Report 2021",
+                "UN General Assembly website http://www.un.org/en/member-states/index.html",
+                "WTO Annual Report 2015",
+                "WTO Annual Report 2016",
+                "WTO Annual Report 2017",
+                "WTO Annual Report 2018",
+                "WTO Annual Report 2019",
+                "WTO Annual Report 2020",
+                "WTO Annual Report 2021",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of members of developing countries in international organizations, by organization [10.6.1, 16.8.1]",
+                "Proportion of voting rights of developing countries in international organizations, by organization [10.6.1, 16.8.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "International Organisation: African Development Bank",
+                "International Organisation: UN Economic and Social Council",
+                "International Organisation: International Bank for Reconstruction and Development",
+                "International Organisation: International Finance Corporation",
+                "International Organisation: International Monetary Fund",
+                "International Organisation: UN General Assembly",
+                "International Organisation: World Trade Organisation",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "African Development Bank Group Annual Report 2019",
+                "Report of the Economic and Social Council on its 2020 Session (A/75/3/Rev.1)",
+                "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2021",
+                "IFC 2021 Annual Report Volume 2",
+                "IMF Annual Report 2021",
+                "UN General Assembly website http://www.un.org/en/member-states/index.html",
+                "WTO Annual Report 2021",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  ",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  ",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-6-1",
+  "title": "Proportion of members and voting rights of developing countries in international organizations"
+}

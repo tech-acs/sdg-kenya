@@ -1,0 +1,85 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNESCO Institute for Statistics.  Data extracted on 01 April 2022.",
+                "Annual Statistical Report for 2014 (http://mopse.co.zw/sites/default/files/public/downloads/2014-MoPSE-Annual-Statistical-Report.pdf); Data extracted on 01 April 2022.",
+                "Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.",
+                "Annual Statistical Report 2016 (http://mopse.co.zw/sites/default/files/public/downloads/2016%20Annual%20Statistics%20Report%20%281%29.pdf); Data extracted on 01 April 2022.",
+                "2017 Annual Education Statistics Profile (http://mopse.co.zw/sites/default/files/public/downloads/2017_national_Statistical_Profile.pdf); Data extracted on 01 April 2022.",
+                "2018 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/2018%20Annual%20Statistics%20Report.pdf); Data extracted on 01 April 2022.",
+                "2019 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/2019%20Annual%20Education%20Statistics%20Report%20pdf%20for%20UPLOADING.pdf); Data extracted on 01 April 2022.",
+                "2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Secondary education (lower and upper secondary education)",
+                "Pre-primary education",
+                "Primary education",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.",
+                "UNESCO Institute for Statistics.  Data extracted on 01 April 2022.",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-c-1",
+  "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
+}

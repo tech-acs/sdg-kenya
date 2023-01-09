@@ -1,0 +1,109 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",
+                "International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",
+                "International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",
+                "World Bank, International Debt Statistics.",
+                "International Monetary Fund, International Financial Statistics and data files.",
+                "International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",
+                "World Bank national accounts data, and OECD National Accounts data files.",
+                "International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",
+                "World Trade Organization, and World Bank GDP estimates.",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Current account balance as a proportion of GDP (%) [17.13.1]",
+                "Portfolio investment, net (Balance of Payments, current United States dollars) [17.13.1]",
+                "Foreign direct investment, net inflows, as a proportion of GDP (%) [17.13.1]",
+                "External debt stocks as a proportion of GNI (%) [17.13.1]",
+                "Total reserves in months of imports (ratio) [17.13.1]",
+                "Broad money to total reserves ratio [17.13.1]",
+                "Annual broad money growth (%) [17.13.1]",
+                "Annual inflation, consumer prices (%) [17.13.1]",
+                "Cash surplus/deficit as a proportion of GDP [17.13.1]",
+                "Tax revenue as a proportion of GDP (%) [17.13.1]",
+                "Annual growth of the general government final consumption expenditure (%) [17.13.1]",
+                "Annual growth of households and NPISHs final consumption expenditure [17.13.1]",
+                "Annual growth of exports of goods and services (%) [17.13.1]",
+                "Annual growth of the gross capital formation (%) [17.13.1]",
+                "Annual growth of imports of goods and services (%) [17.13.1]",
+                "Annual GDP growth (%) [17.13.1]",
+                "DEC alternative conversion factor (in local currency unit per United States dollar) [17.13.1]",
+                "Merchandise trade as a proportion of GDP (%) [17.13.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "USD",
+                "Ratio",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",
+                "International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",
+                "International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",
+                "World Bank, International Debt Statistics.",
+                "International Monetary Fund, International Financial Statistics and data files.",
+                "International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",
+                "World Bank national accounts data, and OECD National Accounts data files.",
+                "International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",
+                "World Trade Organization, and World Bank GDP estimates.",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1",
+  "title": "Macroeconomic Dashboard"
+}

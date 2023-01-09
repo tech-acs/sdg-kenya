@@ -1,0 +1,12 @@
+From,To
+BASE_PER,COMMENT_OBS
+Source details,BASE_PER
+NATURE,SOURCE_DETAIL
+COMMENT_OBS,Base period
+SOURCE_DETAIL,SDG Series
+SDG Series,Nature of data points
+Source details,Sex
+Source details,Age
+Observation-level footnotes,Degree of urbanisation
+Base period,Observation-level footnotes
+Nature of data points,Source details

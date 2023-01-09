@@ -1,0 +1,33 @@
+Year,OBS_STATUS,Sex,Occupation,Observation status,Value
+2014,A,,,Normal value,2.14
+2014,A,,Armed forces occupations,Normal value,19.69
+2014,A,,Managers,Normal value,5.74
+2014,A,,Professionals,Normal value,4.06
+2014,A,,Technicians and associate professionals,Normal value,3.44
+2014,A,,Clerical support workers,Normal value,4.21
+2014,A,,Service and sales workers,Normal value,1.44
+2014,A,,"Skilled agricultural, forestry and fishery workers",Normal value,0.79
+2014,A,,Craft and related trades workers,Normal value,2.43
+2014,A,,"Plant and machine operators, and assemblers",Normal value,1.79
+2014,A,,Elementary occupations,Normal value,0.83
+2014,A,Female,,Normal value,1.87
+2014,A,Female,Managers,Normal value,5.22
+2014,A,Female,Professionals,Normal value,3.55
+2014,A,Female,Technicians and associate professionals,Normal value,3.24
+2014,A,Female,Clerical support workers,Normal value,4.12
+2014,A,Female,Service and sales workers,Normal value,1.23
+2014,A,Female,"Skilled agricultural, forestry and fishery workers",Normal value,0.86
+2014,A,Female,Craft and related trades workers,Normal value,0.83
+2014,U,Female,"Plant and machine operators, and assemblers",Low reliability,2.92
+2014,A,Female,Elementary occupations,Normal value,0.72
+2014,A,Male,,Normal value,2.29
+2014,A,Male,Armed forces occupations,Normal value,20.57
+2014,A,Male,Managers,Normal value,5.87
+2014,A,Male,Professionals,Normal value,4.63
+2014,A,Male,Technicians and associate professionals,Normal value,3.55
+2014,A,Male,Clerical support workers,Normal value,4.31
+2014,A,Male,Service and sales workers,Normal value,1.55
+2014,A,Male,"Skilled agricultural, forestry and fishery workers",Normal value,0.77
+2014,A,Male,Craft and related trades workers,Normal value,2.66
+2014,A,Male,"Plant and machine operators, and assemblers",Normal value,1.77
+2014,A,Male,Elementary occupations,Normal value,0.91

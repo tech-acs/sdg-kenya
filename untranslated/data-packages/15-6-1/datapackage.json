@@ -1,0 +1,92 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ABS measures reported refers to legislative, administrative and policy framework or measures reported to the ABS Clearing-House. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.",
+                "Parties  refers to Parties to the Convention on Biological Diversity that have ratified, accepted, approved or acceded the Nagoya Protocol, including those for which the Protocol has not yet entered into force following the 90 days period set out in Artic",
+                "Obs_Value = 0;  ",
+                "Cumulative value.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "https://absch.cbd.int/countries",
+                "https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International ",
+                "ITPGRFA Secretariat ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO) [15.6.1]",
+                "Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO) [15.6.1]",
+                "Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1]",
+                "Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1]",
+                "Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country [15.6.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ABS measures reported refers to legislative, administrative and policy framework or measures reported to the ABS Clearing-House. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.",
+                "Parties  refers to Parties to the Convention on Biological Diversity that have ratified, accepted, approved or acceded the Nagoya Protocol, including those for which the Protocol has not yet entered into force following the 90 days period set out in Artic",
+                "Obs_Value = 0;  ",
+                "Cumulative value.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "https://absch.cbd.int/countries",
+                "https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International ",
+                "ITPGRFA Secretariat ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-6-1",
+  "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
+}

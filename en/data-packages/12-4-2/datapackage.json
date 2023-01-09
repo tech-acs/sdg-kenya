@@ -1,0 +1,148 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNSD/UNEP Questionnaire on Environment Statistics",
+                "UNSD / UNITAR / WESR",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Electronic waste collected, per capita (KG) [12.4.2]",
+                "Electronic waste collection rate (%) [12.4.2]",
+                "Electronic waste collected (Tonnes) [12.4.2]",
+                "Electronic waste generated, per capita (Kg) [12.4.2]",
+                "Electronic waste generated (Tonnes) [12.4.2]",
+                "Municipal waste collected (Tonnes) [12.4.2]",
+                "Municipal waste treated, by type of treatment (%) [12.4.2]",
+                "Total waste generation, by activity (Tonnes) [12.4.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Waste treatment: Composting",
+                "Waste treatment: Incineration",
+                "Waste Treatment: Incineration to generate energy",
+                "Waste treatment: Landfilling",
+                "Waste treatment: Landfilling, controlled",
+                "Waste treatment: Other type of waste management",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing",
+                "Mining and quarrying",
+                "Manufacturing",
+                "Electricity, gas, steam and air conditioning supply",
+                "Construction",
+                "Other service activities",
+                "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
+                ""
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kilograms",
+                "Percent",
+                "Metric Tons",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNSD/UNEP Questionnaire on Environment Statistics",
+                "UNSD / UNITAR / WESR",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data refer to 31 local authourities,namely : Beitbridge, Bindura, Bulawayo, Chegutu, Chinhoyi, Chiredzi, Chirundu, Chitungwiza, Epworth, Gokwe, Gutu, Gwanda, Gweru, Harare, Hwange, Kadoma, Kariba, Karoi, Kwekwe, Masvingo, Mutare, Mvurwi, Nyanga, Plumtree, Redcliff, Rusape, Ruwa, Shurugwi, Triangle, Victoria Falls, Zvishavane.",
+                "Obs_Value = 0;  Data refer to 31 local authourities,namely : Beitbridge, Bindura, Bulawayo, Chegutu, Chinhoyi, Chiredzi, Chirundu, Chitungwiza, Epworth, Gokwe, Gutu, Gwanda, Gweru, Harare, Hwange, Kadoma, Kariba, Karoi, Kwekwe, Masvingo, Mutare, Mvurwi, Nyanga, Plumtree, Redcliff, Rusape, Ruwa, Shurugwi, Triangle, Victoria Falls, Zvishavane.",
+                "Data refer to 31 local authorities, namely : Beitbridge, Bindura, Bulawayo, Chegutu, Chinhoyi, Chiredzi, Chirundu, Chitungwiza, Epworth, Gokwe, Gutu, Gwanda, Gweru, Harare, Hwange, Kadoma, Kariba, Karoi, Kwekwe, Masvingo, Mutare, Mvurwi, Nyanga, Plumtree, Redcliff, Rusape, Ruwa, Shurugwi, Triangle, Victoria Falls, Zvishavane. Dumpsites rather than landfills.",
+                "Data refer to 31 local authourities,namely : Beitbridge, Bindura, Bulawayo, Chegutu, Chinhoyi, Chiredzi, Chirundu, Chitungwiza, Epworth, Gokwe, Gutu, Gwanda, Gweru, Harare, Hwange, Kadoma, Kariba, Karoi, Kwekwe, Masvingo, Mutare, Mvurwi, Nyanga, Plumtree, Redcliff, Rusape, Ruwa, Shurugwi, Triangle, Victoria Falls, Zvishavane. Data from forestry companies not included.",
+                "Data refer to 31 local authourities,namel : Beitbridge, Bindura, Bulawayo, Chegutu, Chinhoyi, Chiredzi, Chirundu, Chitungwiza, Epworth, Gokwe, Gutu, Gwanda, Gweru, Harare, Hwange, Kadoma, Kariba, Karoi, Kwekwe, Masvingo, Mutare, Mvurwi, Nyanga, Plumtree, Redcliff, Rusape, Ruwa, Shurugwi, Triangle, Victoria Falls, Zvishavane.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data refer to 31 local authourities,namely : Beitbridge, Bindura, Bulawayo, Chegutu, Chinhoyi, Chiredzi, Chirundu, Chitungwiza, Epworth, Gokwe, Gutu, Gwanda, Gweru, Harare, Hwange, Kadoma, Kariba, Karoi, Kwekwe, Masvingo, Mutare, Mvurwi, Nyanga, Plumtree, Redcliff, Rusape, Ruwa, Shurugwi, Triangle, Victoria Falls, Zvishavane.",
+                "Obs_Value = 0;  Data refer to 31 local authourities,namely : Beitbridge, Bindura, Bulawayo, Chegutu, Chinhoyi, Chiredzi, Chirundu, Chitungwiza, Epworth, Gokwe, Gutu, Gwanda, Gweru, Harare, Hwange, Kadoma, Kariba, Karoi, Kwekwe, Masvingo, Mutare, Mvurwi, Nyanga, Plumtree, Redcliff, Rusape, Ruwa, Shurugwi, Triangle, Victoria Falls, Zvishavane.",
+                "Data refer to 31 local authorities, namely : Beitbridge, Bindura, Bulawayo, Chegutu, Chinhoyi, Chiredzi, Chirundu, Chitungwiza, Epworth, Gokwe, Gutu, Gwanda, Gweru, Harare, Hwange, Kadoma, Kariba, Karoi, Kwekwe, Masvingo, Mutare, Mvurwi, Nyanga, Plumtree, Redcliff, Rusape, Ruwa, Shurugwi, Triangle, Victoria Falls, Zvishavane. Dumpsites rather than landfills.",
+                "Data refer to 31 local authourities,namely : Beitbridge, Bindura, Bulawayo, Chegutu, Chinhoyi, Chiredzi, Chirundu, Chitungwiza, Epworth, Gokwe, Gutu, Gwanda, Gweru, Harare, Hwange, Kadoma, Kariba, Karoi, Kwekwe, Masvingo, Mutare, Mvurwi, Nyanga, Plumtree, Redcliff, Rusape, Ruwa, Shurugwi, Triangle, Victoria Falls, Zvishavane. Data from forestry companies not included.",
+                "Data refer to 31 local authourities,namel : Beitbridge, Bindura, Bulawayo, Chegutu, Chinhoyi, Chiredzi, Chirundu, Chitungwiza, Epworth, Gokwe, Gutu, Gwanda, Gweru, Harare, Hwange, Kadoma, Kariba, Karoi, Kwekwe, Masvingo, Mutare, Mvurwi, Nyanga, Plumtree, Redcliff, Rusape, Ruwa, Shurugwi, Triangle, Victoria Falls, Zvishavane.",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-4-2",
+  "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+}

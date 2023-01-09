@@ -1,0 +1,297 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16076",
+                "20135",
+                "28244",
+                "27717",
+                "27148",
+                "11441",
+                "12564",
+                "14446",
+                "15650",
+                "17377",
+                "2993",
+                "3607",
+                "5238",
+                "5125",
+                "4904",
+                "3219",
+                "4366",
+                "6161",
+                "6349",
+                "6314",
+                "9239",
+                "12447",
+                "17134",
+                "16158",
+                "15524",
+                "5794",
+                "7459",
+                "9576",
+                "10330",
+                "11249",
+                "1513",
+                "1991",
+                "2938",
+                "2767",
+                "2585",
+                "1972",
+                "2859",
+                "3954",
+                "3969",
+                "3888",
+                "6837",
+                "7687",
+                "11110",
+                "11559",
+                "11625",
+                "5647",
+                "5106",
+                "4870",
+                "5320",
+                "6127",
+                "1481",
+                "1616",
+                "2300",
+                "2358",
+                "2319",
+                "1246",
+                "1506",
+                "2206",
+                "2380",
+                "2426",
+                "31.2",
+                "37",
+                "46.7",
+                "44.4",
+                "41.1",
+                "29.9",
+                "45.9",
+                "43.4",
+                "39.8",
+                "32.8",
+                "37.1",
+                "47.9",
+                "43",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6335",
+                "8028",
+                "11092",
+                "10661",
+                "10438",
+                "4592",
+                "5104",
+                "5680",
+                "5858",
+                "6293",
+                "1039",
+                "1171",
+                "1568",
+                "1424",
+                "1287",
+                "1227",
+                "1686",
+                "2351",
+                "2339",
+                "2305",
+                "3516",
+                "4977",
+                "6879",
+                "6297",
+                "6031",
+                "2080",
+                "2836",
+                "3648",
+                "3781",
+                "3966",
+                "435",
+                "549",
+                "729",
+                "604",
+                "508",
+                "720",
+                "1099",
+                "1515",
+                "1467",
+                "1423",
+                "2818",
+                "3051",
+                "4213",
+                "4364",
+                "4407",
+                "2512",
+                "2268",
+                "2032",
+                "2077",
+                "2328",
+                "605",
+                "622",
+                "840",
+                "820",
+                "780",
+                "507",
+                "587",
+                "836",
+                "872",
+                "882",
+                "13.6",
+                "16.6",
+                "21.8",
+                "19.8",
+                "17.8",
+                "11.7",
+                "15.7",
+                "20.8",
+                "18.7",
+                "16.5",
+                "15.9",
+                "23.2",
+                "21.6",
+                "19.7",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deaths attributed non-communicable diseases (number) [3.4.1]",
+                "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "30 to exact 70 years old",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-communicable disease: Cardiovascular disease",
+                "Non-communicable disease: Cancer",
+                "Non-communicable disease: Chronic respiratory disease",
+                "Non-communicable disease: Diabetes",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Percent",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "27148",
+                "17377",
+                "4904",
+                "6314",
+                "15524",
+                "11249",
+                "2585",
+                "3888",
+                "11625",
+                "6127",
+                "2319",
+                "2426",
+                "41.1",
+                "39.8",
+                "43",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10438",
+                "6293",
+                "1287",
+                "2305",
+                "6031",
+                "3966",
+                "508",
+                "1423",
+                "4407",
+                "2328",
+                "780",
+                "882",
+                "17.8",
+                "16.5",
+                "19.7",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-4-1",
+  "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+}

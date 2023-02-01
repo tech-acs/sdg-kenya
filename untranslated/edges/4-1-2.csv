@@ -3,8 +3,9 @@ NATURE,SOURCE_DETAIL
 SOURCE_DETAIL,Education level
 Source details,Sex
 Source details,Degree of urbanisation
+Degree of urbanisation,Observation-level footnotes
 Source details,Income or wealth quantile
+Income or wealth quantile,Observation-level footnotes
 Education level,Nature of data points
 Nature of data points,Source details
-Source details,Observation-level footnotes
 Observation-level footnotes,COMMENT_OBS

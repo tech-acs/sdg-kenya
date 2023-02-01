@@ -30,13 +30,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimbabwe 2009 Multiple Indicator Cluster Survey",
-                "Zimbabwe 2015 Demographic and Health Survey",
-                "Zimbabwe 2005-2006 Demographic and Health Survey",
-                "Zimbabwe 2010-2011 Demographic and Health Survey",
-                "Zimbabwe 2014 Multiple Indicator Cluster Survey",
-                "Zimbabwe 2019 Multiple Indicator Cluster Survey",
-                "Zimbabwe 2002 Census",
+                "Registration UNSD & WPP2019",
+                "Kenya 2008-2009 Demographic and Health Survey",
+                "Kenya 2003 Demographic and Health Survey",
+                "Kenya 2014 Demographic and Health Survey",
+                "Kenya 2015 Malaria Indicators Survey",
+                "Kenya 2020 Malaria Indicators Survey",
+                "Kenya 2016 PMA2020 Round 5",
                 ""
               ]
             }
@@ -53,12 +53,12 @@
             }
           },
           {
-            "name": "Nature of data points",
+            "name": "Source details",
             "type": "string",
             "constraints": {
               "enum": [
-                "Country Adjusted",
-                "Country Data",
+                "Registration UNSD & WPP2019",
+                "Kenya 2020 Malaria Indicators Survey",
                 ""
               ]
             }

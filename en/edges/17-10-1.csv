@@ -1,4 +1,4 @@
 From,To
 SDG Series,Type of product
-Type of product,Observation-level footnotes
-Observation-level footnotes,COMMENT_OBS
+Type of product,COMMENT_OBS
+COMMENT_OBS,Observation-level footnotes

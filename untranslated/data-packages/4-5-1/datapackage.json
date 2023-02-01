@@ -30,26 +30,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimbabwe DHS 2005-06. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above.; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2009. World Inequality Database on Education (WIDE), June 2019.; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2010-11. The survey collected data on school attendance for age 5-24 and educatiol attainment for age 5 and above.; Data extracted on 01 April 2022.",
-                "Zimbabwe IPUMS-Intertiol 2012. The census collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above.; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2014. World Inequality Database on Education (WIDE), June 2019.; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above.; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above.; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2005-06. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2010-11. The survey collected data on school attendance for age 5-24 and educatiol attainment for age 5 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2010-11. The survey collected data on school attendance for age 5-24 and educatiol attainment for age 5 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2005-06. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
-                "Zimbabwe National Statistics Agency (ZIMSTAT)",
+                "Kenya MICS 2000. World Inequality Database on Education (WIDE), June 2019.; Data extracted on 01 April 2022.",
+                "Kenya DHS 2003. The survey collected data on school attendance for age 4-24 and educatiol attainment for age 4 and above.; Data extracted on 01 April 2022.",
+                "Kenya DHS 2008-09. The survey collected data on school attendance for age 4-24 and educatiol attainment for age 4 and above.; Data extracted on 01 April 2022.",
+                "Kenya Population and Housing Census 2009. IPUMS-Intertiol, tiol Bureau of Statistics.; Data extracted on 01 April 2022.",
+                "Kenya DHS 2014. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above.; Data extracted on 01 April 2022.",
+                "Kenya DHS 2003. The survey collected data on school attendance for age 4-24 and educatiol attainment for age 4 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
+                "Kenya DHS 2008-09. The survey collected data on school attendance for age 4-24 and educatiol attainment for age 4 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
+                "Kenya DHS 2003. The survey collected data on school attendance for age 4-24 and educatiol attainment for age 4 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Kenya DHS 2008-09. The survey collected data on school attendance for age 4-24 and educatiol attainment for age 4 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
                 "UNESCO Institute for Statistics.  Data extracted on 01 April 2022.",
-                "Southern and Eastern Africa Consortium for Monitoring Educational Quality (SACMEQ). Students achieving at least proficiency Level 5. Grade 6 Data extracted on 01 April 2022.",
-                "Multiple Indicator Cluster Survey (MICS6); Children attending grade 2/3; Minimum proficiency level: Foundational numeracy skills. The minimum proficiency level alignment of this assessment is pending and subject to harmonization. Data extracted on 01 April 2022.",
-                "Multiple Indicator Cluster Survey (MICS6); Children attending grade 2/3; Minimum proficiency level: Foundational reading skills. The minimum proficiency level alignment of this assessment is pending and subject to harmonization. Data extracted on 01 April 2022.",
+                "National Assessment System for Monitoring Learner Achievement (NASMLA); Grade 7; Minimum proficiency level: 50% levels. Mathematics Data extracted on 01 April 2022.",
+                "National Learning Assessment (NLA): National Assessment Systems for Monitoring Learner Achievement (NASMLA); Grade 3; Minimum proficiency level: Level 3 Data extracted on 01 April 2022.",
                 ""
               ]
             }
@@ -62,12 +54,10 @@
                 "Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
                 "Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
                 "Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
-                "Gender parity index for youth/adults with information and communications technology (ICT) skills [4.5.1]",
                 "Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio) [4.5.1]",
                 "Adjusted gender parity index for the proportion of teachers with the minimum required qualifications, by education level (ratio) [4.5.1]",
                 "Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]",
                 "Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]",
-                "Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]",
                 ""
               ]
             }
@@ -128,19 +118,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Skill: ICT Skill: Sending e-mails with attached files",
-                "Skill: ICT Skill: connecting and installing new devices",
-                "Skill: ICT Skill: Copying or moving a file or folder",
-                "Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document",
-                "Skill: ICT Skill: Writing a computer program using a specialized programming language",
-                "Skill: ICT Skill: Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)",
-                "Skill: ICT Skill: Creating electronic presentations with presentation software",
-                "Skill: ICT Skill: Setting up effective security measures (e.g. strong passwords, log-in attempt notification) to protect devices and online accounts",
-                "Skill: ICT Skill: Finding, downloading, installing and configuring software",
-                "Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet",
-                "Skill: ICT Skill: Transferring files between a computer and other devices",
                 "Skill: Mathematics",
                 "Skill: Reading",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Country Data",
+                "Estimated",
                 ""
               ]
             }
@@ -150,25 +140,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above.; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
-                "Zimbabwe National Statistics Agency (ZIMSTAT)",
+                "Kenya DHS 2014. The survey collected data on school attendance for age 3-24 and educatiol attainment for age 3 and above.; Data extracted on 01 April 2022.",
                 "UNESCO Institute for Statistics.  Data extracted on 01 April 2022.",
-                "Southern and Eastern Africa Consortium for Monitoring Educational Quality (SACMEQ). Students achieving at least proficiency Level 5. Grade 6 Data extracted on 01 April 2022.",
-                "Multiple Indicator Cluster Survey (MICS6); Children attending grade 2/3; Minimum proficiency level: Foundational numeracy skills. The minimum proficiency level alignment of this assessment is pending and subject to harmonization. Data extracted on 01 April 2022.",
-                "Multiple Indicator Cluster Survey (MICS6); Children attending grade 2/3; Minimum proficiency level: Foundational reading skills. The minimum proficiency level alignment of this assessment is pending and subject to harmonization. Data extracted on 01 April 2022.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation.",
+                "National Assessment System for Monitoring Learner Achievement (NASMLA); Grade 7; Minimum proficiency level: 50% levels. Mathematics Data extracted on 01 April 2022.",
+                "National Learning Assessment (NLA): National Assessment Systems for Monitoring Learner Achievement (NASMLA); Grade 3; Minimum proficiency level: Level 3 Data extracted on 01 April 2022.",
                 ""
               ]
             }
@@ -178,7 +153,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Obs_Value = 0;  This data point is NIL for the submitting nation.",
+                "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation.",
                 ""
               ]

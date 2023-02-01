@@ -1,16 +1,16 @@
 Value,Disaggregation combinations using this value,Number of indicators
 Agriculture products,5,3
-Arms,7,3
+Arms,6,3
 Biomass (material flows),6,2
 Clothing,5,3
 Coal (material flows),6,2
 Crop residues (material flows),6,2
 Crops (material flows),6,2
-Ferrous ores (material flows),6,2
+Ferrous ores (material flows),12,2
 Fossil fuels (material flows),6,2
 Grazed biomass and fodder crops (material flows),6,2
 Industrial products,5,3
-Maize,1,1
+Maize,2,1
 Metal ores (material flows),6,2
 Natural gas (material flows),6,2
 Non-ferrous ores (material flows),6,2
@@ -18,10 +18,8 @@ Non-metallic minerals - construction dominant (material flows),6,2
 Non-metallic minerals - industrial or agricultural dominant (material flows),6,2
 Non-metallic minerals (material flows),6,2
 Oil shale and tar sands (material flows),6,2
-Oil,3,1
+Oil,3,2
 Petroleum (material flows),6,2
-Rice,1,1
 Textiles,5,3
-Wheat,1,1
 Wild catch and harvest (material flows),6,2
 Wood (material flows),6,2

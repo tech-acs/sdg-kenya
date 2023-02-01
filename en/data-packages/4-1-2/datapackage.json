@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "E",
                 "C",
+                "E",
                 ""
               ]
             },
@@ -32,22 +32,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Kenya MICS 2000. World Inequality Database on Education (WIDE), June 2019.; Data extracted on 01 April 2022.",
                 "Estimated using the Adjusted Bayesian Completion Rates estimation model using household survey data [https://osf.io/preprints/socarxiv/at368/]; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2005-06. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above.; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2009. World Inequality Database on Education (WIDE), June 2019.; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2010-11. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above.; Data extracted on 01 April 2022.",
-                "Zimbabwe IPUMS-International 2012. The census collected data on school attendance for age 3-24 and educational attainment for age 3 and above.; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2014. World Inequality Database on Education (WIDE), June 2019.; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above.; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above.; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2005-06. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2005-06. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2010-11. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2010-11. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
+                "Kenya DHS 2003. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.; Data extracted on 01 April 2022.",
+                "Kenya DHS 2008-09. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above.; Data extracted on 01 April 2022.",
+                "Kenya Population and Housing Census 2009. IPUMS-International, national Bureau of Statistics.; Data extracted on 01 April 2022.",
+                "Kenya DHS 2014. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above.; Data extracted on 01 April 2022.",
+                "Kenya DHS 2003. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
+                "Kenya DHS 2008-09. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Kenya DHS 2003. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Kenya DHS 2008-09. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
                 ""
               ]
             },
@@ -123,10 +117,7 @@
             "constraints": {
               "enum": [
                 "Estimated using the Adjusted Bayesian Completion Rates estimation model using household survey data [https://osf.io/preprints/socarxiv/at368/]; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above.; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
-                "Zimbabwe MICS 2019. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value based on 25-49 unweighted observations in sample.; Data extracted on 01 April 2022.",
-                "Zimbabwe DHS 2015. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Under Coverage (Students or individuals): Value suppressed (less than 25 unweighted observations in sample).; Data extracted on 01 April 2022.",
+                "Kenya DHS 2014. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above.; Data extracted on 01 April 2022.",
                 ""
               ]
             },
@@ -149,7 +140,6 @@
             "constraints": {
               "enum": [
                 "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation.",
-                "Obs_Value = 0;  This data point is NIL for the submitting nation.",
                 ""
               ]
             },

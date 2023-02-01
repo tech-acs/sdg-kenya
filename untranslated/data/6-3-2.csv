@@ -1,5 +1,9 @@
-Year,SDG Series,Value
-2017,Proportion of river water bodies with good ambient water quality [6.3.2],76.47
-2020,Proportion of river water bodies with good ambient water quality [6.3.2],83.33
-2017,Proportion of bodies of water with good ambient water quality [6.3.2],76.47
-2020,Proportion of bodies of water with good ambient water quality [6.3.2],83.33
+Year,SDG Series,COMMENT_OBS,Observation-level footnotes,Value
+2017,Proportion of groundwater bodies with good ambient water quality [6.3.2],,,42.18
+2020,Proportion of groundwater bodies with good ambient water quality [6.3.2],,,90.32
+2017,Proportion of open water bodies with good ambient water quality [6.3.2],Obs_Value = 0;  ,Obs_Value = 0;  ,0.0
+2020,Proportion of open water bodies with good ambient water quality [6.3.2],,Obs_Value = 0;  ,33.33
+2017,Proportion of river water bodies with good ambient water quality [6.3.2],,,30.52
+2020,Proportion of river water bodies with good ambient water quality [6.3.2],,,90.38
+2017,Proportion of bodies of water with good ambient water quality [6.3.2],,,35.5
+2020,Proportion of bodies of water with good ambient water quality [6.3.2],,,86.52

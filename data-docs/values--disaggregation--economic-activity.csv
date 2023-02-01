@@ -1,15 +1,10 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Activities by households,1,1
-Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,1,1
-"Agriculture, forestry and fishing",10,2
 Agriculture (ISIC4 A01 A0210 A0322),2,2
-"Arts, entertainment and recreation",1,1
-Construction,2,2
+Construction,1,1
 "Electricity, gas, steam and air conditioning supply",1,1
-Industries,3,3
+Industries,2,2
+Information and communication,1,1
 Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1,1
-Manufacturing,3,3
+Manufacturing,2,2
 Mining and quarrying,1,1
-Non-agriculture,9,1
-Other service activities,1,1
 Services (G to T),2,2

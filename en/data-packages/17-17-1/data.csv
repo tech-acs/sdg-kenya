@@ -5,39 +5,39 @@ Year,COMMENT_OBS,SDG Series,Unit of measure,BASE_PER,Base period,Value
 2003,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
 2004,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
 2005,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
-2006,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
-2007,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
-2008,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
-2009,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
+2006,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,334.5
+2007,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,390.0
+2008,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,205.0
+2009,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,22.0
 2010,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
-2011,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,48.5
-2012,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
-2013,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
-2014,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
+2011,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,4.7
+2012,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,360.0
+2013,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,533.97
+2014,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,800.94
 2015,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
-2016,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
-2017,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,65.7
-2018,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
-2019,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
-2020,Obs_Value = 0;  ,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,0.0
+2016,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,5.6
+2017,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,96.89
+2018,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,513.92
+2019,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,220.2
+2020,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",USD,,,723.13
 2000,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
 2001,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
 2002,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
 2003,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
 2004,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
 2005,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
-2006,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
-2007,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
-2008,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
-2009,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
+2006,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,424.211
+2007,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,480.8779
+2008,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,243.4239
+2009,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,26.2168
 2010,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
-2011,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,55.1233
-2012,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
-2013,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
-2014,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
+2011,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,5.3418
+2012,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,400.8672
+2013,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,586.0023
+2014,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,864.9554
 2015,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
-2016,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
-2017,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,68.5245
-2018,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
-2019,Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
-2020,Obs_Value = 0;  ,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,0.0
+2016,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,5.9652
+2017,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,101.0554
+2018,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,523.2333
+2019,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,220.2
+2020,,"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",Constant USD,2020,2020,723.13

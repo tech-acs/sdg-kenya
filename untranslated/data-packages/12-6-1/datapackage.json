@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Arts, entertainment and recreation",
+                "Information and communication",
                 ""
               ]
             }

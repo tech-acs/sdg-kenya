@@ -43,10 +43,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Accessed September 14, 2022. Based on data from ICES. Estimated from grouped consumption data. ",
-                "Accessed September 14, 2022. Based on data from PICES. Estimated from unit-record consumption data. ",
-                "Accessed September 14, 2022. Based on data from PICES. Estimated from imputed unit-record consumption data. ",
-                "Accessed September 14, 2022. Survey name: PICES. Uses a consumption aggregate, which is not spatially deflated.",
+                "Accessed September 14, 2022. Based on data from WMS-I. Estimated from grouped consumption data. ",
+                "Accessed September 14, 2022. Based on data from WMS-II. Estimated from unit-record consumption data. ",
+                "Accessed September 14, 2022. Based on data from WMS-III. Estimated from unit-record consumption data. ",
+                "Accessed September 14, 2022. Based on data from IHBS. Estimated from unit-record consumption data. ",
+                "Accessed September 14, 2022. Survey name: IHBS. Uses a consumption aggregate, which is not spatially deflated.",
                 ""
               ]
             },
@@ -144,8 +145,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Accessed September 14, 2022. Based on data from PICES. Estimated from imputed unit-record consumption data. ",
-                "Accessed September 14, 2022. Survey name: PICES. Uses a consumption aggregate, which is not spatially deflated.",
+                "Accessed September 14, 2022. Based on data from IHBS. Estimated from unit-record consumption data. ",
+                "Accessed September 14, 2022. Survey name: IHBS. Uses a consumption aggregate, which is not spatially deflated.",
                 ""
               ]
             },

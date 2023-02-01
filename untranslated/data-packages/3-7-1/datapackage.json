@@ -19,10 +19,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimbabwe 2005-2006 Demographic and Health Survey",
-                "Zimbabwe 2010-2011 Demographic and Health Survey",
-                "Zimbabwe 2014 Multiple Indicator Cluster Survey",
-                "Zimbabwe 2015 Demographic and Health Survey",
+                "Kenya 2003 Demographic and Health Survey",
+                "Kenya 2008-2009 Demographic and Health Survey",
+                "Kenya 2014 Demographic and Health Survey",
+                "Kenya 2015 PMA2020 Round 4",
+                "Kenya 2016 PMA2020 Round 5",
+                "Kenya 2017 PMA2020 Round 6",
+                "Kenya 2018 PMA2020 Round 7",
+                "Kenya 2019 PMA Survey Phase 1",
                 ""
               ]
             }

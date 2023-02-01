@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Municipal Solid Waste (MSW) collection coverage is defined as the amount of MSQ collected as a proportion of total MSW generated.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

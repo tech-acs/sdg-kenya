@@ -16,15 +16,52 @@
             "title": "Year"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CHM / WESR ",
+                "UNSD/UNEP Questionnaire on Environment Statistics",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1]",
+                "Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
             "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "ABT2 status: National target reflecting ABT2 exists and progress is on track to achieve it",
+                "ABT2 status: National target reflecting ABT2  exists and progress is there, but at as insufficient rate",
+                "Level/Status: Regular compilation and dissemination",
                 ""
               ]
             },
             "title": "Composite breakdown"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CHM / WESR ",
+                "UNSD/UNEP Questionnaire on Environment Statistics",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",

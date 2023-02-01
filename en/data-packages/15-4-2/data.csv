@@ -1,21 +1,29 @@
 Year,Composite breakdown,Value
-2000,,98.48
-2010,,98.5
-2015,,98.5
-2018,,98.48
-2000,Elevation 2.500–3.500 meters,100.0
-2010,Elevation 2.500–3.500 meters,100.0
-2015,Elevation 2.500–3.500 meters,100.0
-2018,Elevation 2.500–3.500 meters,100.0
-2000,Elevation 1.500–2.500 meters and slope > 2,96.15
-2010,Elevation 1.500–2.500 meters and slope > 2,96.12
-2015,Elevation 1.500–2.500 meters and slope > 2,96.09
-2018,Elevation 1.500–2.500 meters and slope > 2,96.06
-2000,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,97.96
-2010,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,98.01
-2015,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,98.0
-2018,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,98.03
-2000,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,99.25
-2010,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,99.26
-2015,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,99.26
-2018,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,99.21
+2000,,96.41
+2010,,96.66
+2015,,96.65
+2018,,96.62
+2000,Elevation > 4.500 meters,15.56
+2010,Elevation > 4.500 meters,15.56
+2015,Elevation > 4.500 meters,15.56
+2018,Elevation > 4.500 meters,15.56
+2000,Elevation 3.500–4.500 meters,96.38
+2010,Elevation 3.500–4.500 meters,96.38
+2015,Elevation 3.500–4.500 meters,96.38
+2018,Elevation 3.500–4.500 meters,96.38
+2000,Elevation 2.500–3.500 meters,99.99
+2010,Elevation 2.500–3.500 meters,99.99
+2015,Elevation 2.500–3.500 meters,99.99
+2018,Elevation 2.500–3.500 meters,99.99
+2000,Elevation 1.500–2.500 meters and slope > 2,99.95
+2010,Elevation 1.500–2.500 meters and slope > 2,99.91
+2015,Elevation 1.500–2.500 meters and slope > 2,99.86
+2018,Elevation 1.500–2.500 meters and slope > 2,99.86
+2000,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,98.02
+2010,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,98.05
+2015,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,98.05
+2018,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,98.05
+2000,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,90.19
+2010,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,91.02
+2015,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,91.04
+2018,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,90.94

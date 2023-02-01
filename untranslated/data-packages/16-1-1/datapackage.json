@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "World Health Organization (WHO)",
-                "World Health Organization Mortality Database",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SDG Series",
             "type": "string",
             "constraints": {
@@ -54,17 +43,6 @@
               "enum": [
                 "Per 100,000 population",
                 "Number",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "World Health Organization (WHO)",
-                "World Health Organization Mortality Database",
                 ""
               ]
             }

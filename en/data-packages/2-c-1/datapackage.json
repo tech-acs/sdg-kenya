@@ -21,9 +21,8 @@
             "constraints": {
               "enum": [
                 "Abnormally high defined as IFPA>=1; Moderately high defined as 0.5=<IFPA< 1; Twelve month average of monthly price anomalies",
-                "Harare, Wheat (flour), Retail price",
-                "Harare, Maize meal, Retail price",
-                "Harare, Rice, Retail price",
+                "Obs_Value = 0;  Nairobi, Maize, Wholesale price",
+                "Nairobi, Maize, Wholesale price",
                 ""
               ]
             },
@@ -58,13 +57,47 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wheat",
                 "Maize",
-                "Rice",
                 ""
               ]
             },
             "title": "Type of product"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Not Available",
+                "Global monitoring data",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = NaN;  NaN = A figure was not provided",
+                "Nairobi, Maize, Wholesale price",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NA",
+                "Food Price Monitoring and Analysis (FPMA) online database: https://fpma.apps.fao.org/giews/food-prices/tool/public/#/dataset/domestic.",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",

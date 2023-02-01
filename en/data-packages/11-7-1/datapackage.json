@@ -12,8 +12,76 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "City: Eldoret; An open public space (OPS) is defined as an area that openly and freely accessible space for all (without any cost implication) for enjoyment of social services such as recreation. Identification of open public spaces is  based on data compiled from city land use plans and open sources including OpenStreetMap and GoogleEarth; Data used to estimate population with access to open public spaces is based on grid level population disaggregation directly from city/country data, or from the HRSL (facebook and CIESIN) and WorldPop;  City/urban area used in the analyis has been generated using a classification approach based on the Urban Extent or the Degree of Urbanization concepts to city definition. As a result, the urban/city area used for the indicator computation in this data table may be larger or smaller than the official municipality boundaries.",
+                "City: Kisumu; An open public space (OPS) is defined as an area that openly and freely accessible space for all (without any cost implication) for enjoyment of social services such as recreation. Identification of open public spaces is  based on data compiled from city land use plans and open sources including OpenStreetMap and GoogleEarth; Data used to estimate population with access to open public spaces is based on grid level population disaggregation directly from city/country data, or from the HRSL (facebook and CIESIN) and WorldPop;  City/urban area used in the analyis has been generated using a classification approach based on the Urban Extent or the Degree of Urbanization concepts to city definition. As a result, the urban/city area used for the indicator computation in this data table may be larger or smaller than the official municipality boundaries.",
+                "City: Malaba; An open public space (OPS) is defined as an area that openly and freely accessible space for all (without any cost implication) for enjoyment of social services such as recreation. Identification of open public spaces is  based on data compiled from city land use plans and open sources including OpenStreetMap and GoogleEarth; Data used to estimate population with access to open public spaces is based on grid level population disaggregation directly from city/country data, or from the HRSL (facebook and CIESIN) and WorldPop;  City/urban area used in the analyis has been generated using a classification approach based on the Urban Extent or the Degree of Urbanization concepts to city definition. As a result, the urban/city area used for the indicator computation in this data table may be larger or smaller than the official municipality boundaries.",
+                "City: Meru; An open public space (OPS) is defined as an area that openly and freely accessible space for all (without any cost implication) for enjoyment of social services such as recreation. Identification of open public spaces is  based on data compiled from city land use plans and open sources including OpenStreetMap and GoogleEarth; Data used to estimate population with access to open public spaces is based on grid level population disaggregation directly from city/country data, or from the HRSL (facebook and CIESIN) and WorldPop;  City/urban area used in the analyis has been generated using a classification approach based on the Urban Extent or the Degree of Urbanization concepts to city definition. As a result, the urban/city area used for the indicator computation in this data table may be larger or smaller than the official municipality boundaries.",
+                "City: Nairobi; An open public space (OPS) is defined as an area that openly and freely accessible space for all (without any cost implication) for enjoyment of social services such as recreation. Identification of open public spaces is  based on data compiled from city land use plans and open sources including OpenStreetMap and GoogleEarth; Data used to estimate population with access to open public spaces is based on grid level population disaggregation directly from city/country data, or from the HRSL (facebook and CIESIN) and WorldPop;  City/urban area used in the analyis has been generated using a classification approach based on the Urban Extent or the Degree of Urbanization concepts to city definition. As a result, the urban/city area used for the indicator computation in this data table may be larger or smaller than the official municipality boundaries.",
+                "City: Nakuru; An open public space (OPS) is defined as an area that openly and freely accessible space for all (without any cost implication) for enjoyment of social services such as recreation. Identification of open public spaces is  based on data compiled from city land use plans and open sources including OpenStreetMap and GoogleEarth; Data used to estimate population with access to open public spaces is based on grid level population disaggregation directly from city/country data, or from the HRSL (facebook and CIESIN) and WorldPop;  City/urban area used in the analyis has been generated using a classification approach based on the Urban Extent or the Degree of Urbanization concepts to city definition. As a result, the urban/city area used for the indicator computation in this data table may be larger or smaller than the official municipality boundaries.",
+                "City: Nyeri; An open public space (OPS) is defined as an area that openly and freely accessible space for all (without any cost implication) for enjoyment of social services such as recreation. Identification of open public spaces is  based on data compiled from city land use plans and open sources including OpenStreetMap and GoogleEarth; Data used to estimate population with access to open public spaces is based on grid level population disaggregation directly from city/country data, or from the HRSL (facebook and CIESIN) and WorldPop;  City/urban area used in the analyis has been generated using a classification approach based on the Urban Extent or the Degree of Urbanization concepts to city definition. As a result, the urban/city area used for the indicator computation in this data table may be larger or smaller than the official municipality boundaries.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Custom Breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Custom code 01",
+                "Custom code 02",
+                "Custom code 03",
+                "Custom code 04",
+                "Custom code 05",
+                "Custom code 06",
+                "Custom code 07",
+                ""
+              ]
+            },
+            "title": "Custom Breakdown"
+          },
+          {
+            "name": "Label for custom breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C01",
+                "C02",
+                "C03",
+                "C04",
+                "C05",
+                "C06",
+                "C07",
+                ""
+              ]
+            },
+            "title": "Label for custom breakdown"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "City: Eldoret; An open public space (OPS) is defined as an area that openly and freely accessible space for all (without any cost implication) for enjoyment of social services such as recreation. Identification of open public spaces is  based on data compiled from city land use plans and open sources including OpenStreetMap and GoogleEarth; Data used to estimate population with access to open public spaces is based on grid level population disaggregation directly from city/country data, or from the HRSL (facebook and CIESIN) and WorldPop;  City/urban area used in the analyis has been generated using a classification approach based on the Urban Extent or the Degree of Urbanization concepts to city definition. As a result, the urban/city area used for the indicator computation in this data table may be larger or smaller than the official municipality boundaries.",
+                "City: Kisumu; An open public space (OPS) is defined as an area that openly and freely accessible space for all (without any cost implication) for enjoyment of social services such as recreation. Identification of open public spaces is  based on data compiled from city land use plans and open sources including OpenStreetMap and GoogleEarth; Data used to estimate population with access to open public spaces is based on grid level population disaggregation directly from city/country data, or from the HRSL (facebook and CIESIN) and WorldPop;  City/urban area used in the analyis has been generated using a classification approach based on the Urban Extent or the Degree of Urbanization concepts to city definition. As a result, the urban/city area used for the indicator computation in this data table may be larger or smaller than the official municipality boundaries.",
+                "City: Malaba; An open public space (OPS) is defined as an area that openly and freely accessible space for all (without any cost implication) for enjoyment of social services such as recreation. Identification of open public spaces is  based on data compiled from city land use plans and open sources including OpenStreetMap and GoogleEarth; Data used to estimate population with access to open public spaces is based on grid level population disaggregation directly from city/country data, or from the HRSL (facebook and CIESIN) and WorldPop;  City/urban area used in the analyis has been generated using a classification approach based on the Urban Extent or the Degree of Urbanization concepts to city definition. As a result, the urban/city area used for the indicator computation in this data table may be larger or smaller than the official municipality boundaries.",
+                "City: Meru; An open public space (OPS) is defined as an area that openly and freely accessible space for all (without any cost implication) for enjoyment of social services such as recreation. Identification of open public spaces is  based on data compiled from city land use plans and open sources including OpenStreetMap and GoogleEarth; Data used to estimate population with access to open public spaces is based on grid level population disaggregation directly from city/country data, or from the HRSL (facebook and CIESIN) and WorldPop;  City/urban area used in the analyis has been generated using a classification approach based on the Urban Extent or the Degree of Urbanization concepts to city definition. As a result, the urban/city area used for the indicator computation in this data table may be larger or smaller than the official municipality boundaries.",
+                "City: Nairobi; An open public space (OPS) is defined as an area that openly and freely accessible space for all (without any cost implication) for enjoyment of social services such as recreation. Identification of open public spaces is  based on data compiled from city land use plans and open sources including OpenStreetMap and GoogleEarth; Data used to estimate population with access to open public spaces is based on grid level population disaggregation directly from city/country data, or from the HRSL (facebook and CIESIN) and WorldPop;  City/urban area used in the analyis has been generated using a classification approach based on the Urban Extent or the Degree of Urbanization concepts to city definition. As a result, the urban/city area used for the indicator computation in this data table may be larger or smaller than the official municipality boundaries.",
+                "City: Nakuru; An open public space (OPS) is defined as an area that openly and freely accessible space for all (without any cost implication) for enjoyment of social services such as recreation. Identification of open public spaces is  based on data compiled from city land use plans and open sources including OpenStreetMap and GoogleEarth; Data used to estimate population with access to open public spaces is based on grid level population disaggregation directly from city/country data, or from the HRSL (facebook and CIESIN) and WorldPop;  City/urban area used in the analyis has been generated using a classification approach based on the Urban Extent or the Degree of Urbanization concepts to city definition. As a result, the urban/city area used for the indicator computation in this data table may be larger or smaller than the official municipality boundaries.",
+                "City: Nyeri; An open public space (OPS) is defined as an area that openly and freely accessible space for all (without any cost implication) for enjoyment of social services such as recreation. Identification of open public spaces is  based on data compiled from city land use plans and open sources including OpenStreetMap and GoogleEarth; Data used to estimate population with access to open public spaces is based on grid level population disaggregation directly from city/country data, or from the HRSL (facebook and CIESIN) and WorldPop;  City/urban area used in the analyis has been generated using a classification approach based on the Urban Extent or the Degree of Urbanization concepts to city definition. As a result, the urban/city area used for the indicator computation in this data table may be larger or smaller than the official municipality boundaries.",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

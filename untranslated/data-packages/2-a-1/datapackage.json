@@ -15,40 +15,19 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "E",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "C",
-                "E",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "FAO calculation based on UNSD national account estimates",
-                "FAO calculation based on WB national account data and FAO imputation",
+                "FAO calculation based on WB national account data",
+                "IMF data. UNSD national account estimates.",
                 "FAO Questionnaire and IMF data. UNSD national account estimates.",
-                "IMF data and FAO Imputation. UNSD national account estimates",
-                "FAO Imputation. World Bank national accounts data.",
+                "FAO Questionnaire. UNSD national account estimates.",
+                "FAO Questionnaire. World Bank national accounts data.",
+                "IMF data.",
                 "FAO Questionnaire and IMF data.",
-                "IMF data and FAO Imputation.",
-                "FAO Imputation.",
+                "FAO Questionnaire.",
                 ""
               ]
             }
@@ -81,9 +60,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "FAO calculation based on WB national account data and FAO imputation",
-                "FAO Imputation. World Bank national accounts data.",
-                "FAO Imputation.",
+                "FAO calculation based on WB national account data",
+                "FAO Questionnaire. World Bank national accounts data.",
+                "FAO Questionnaire.",
                 ""
               ]
             }
@@ -93,7 +72,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Consolidated General Government Expenditure",
                 "Budgetary Central Government Expenditure",
                 ""
               ]

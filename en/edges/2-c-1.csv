@@ -1,4 +1,7 @@
 From,To
 COMMENT_OBS,SOURCE_DETAIL
 SOURCE_DETAIL,SDG Series
-SDG Series,Type of product
+SDG Series,Nature of data points
+Source details,Type of product
+Nature of data points,Observation-level footnotes
+Observation-level footnotes,Source details

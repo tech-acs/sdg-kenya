@@ -31,8 +31,12 @@
             "constraints": {
               "enum": [
                 "Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",
-                "Postal and Telecommunications Regulatory Authority",
-                "POTRAZ",
+                "Communication Commission of Kenya",
+                "Communications Commission of Kenya",
+                "Communications Commission of Kenya-ITU1",
+                "Communications Authority  of Kenya",
+                "COMMUNICATIONS AUTHORITY OF KENYA",
+                "ITU estimate",
                 ""
               ]
             }
@@ -45,6 +49,29 @@
                 "Proportion of population covered by at least a 2G mobile network [9.c.1]",
                 "Proportion of population covered by at least a 3G mobile network [9.c.1]",
                 "Proportion of population covered by at least a 4G mobile network [9.c.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ITU estimate",
+                "2G Population coverage is 95.4",
+                "Obs_Value = 0;  ITU estimate",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2G Population coverage is 95.4",
+                "ITU estimate",
                 ""
               ]
             }

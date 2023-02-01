@@ -1,33 +1,67 @@
-Year,OBS_STATUS,Sex,Occupation,Observation status,Value
-2014,A,,,Normal value,2.14
-2014,A,,Armed forces occupations,Normal value,19.69
-2014,A,,Managers,Normal value,5.74
-2014,A,,Professionals,Normal value,4.06
-2014,A,,Technicians and associate professionals,Normal value,3.44
-2014,A,,Clerical support workers,Normal value,4.21
-2014,A,,Service and sales workers,Normal value,1.44
-2014,A,,"Skilled agricultural, forestry and fishery workers",Normal value,0.79
-2014,A,,Craft and related trades workers,Normal value,2.43
-2014,A,,"Plant and machine operators, and assemblers",Normal value,1.79
-2014,A,,Elementary occupations,Normal value,0.83
-2014,A,Female,,Normal value,1.87
-2014,A,Female,Managers,Normal value,5.22
-2014,A,Female,Professionals,Normal value,3.55
-2014,A,Female,Technicians and associate professionals,Normal value,3.24
-2014,A,Female,Clerical support workers,Normal value,4.12
-2014,A,Female,Service and sales workers,Normal value,1.23
-2014,A,Female,"Skilled agricultural, forestry and fishery workers",Normal value,0.86
-2014,A,Female,Craft and related trades workers,Normal value,0.83
-2014,U,Female,"Plant and machine operators, and assemblers",Low reliability,2.92
-2014,A,Female,Elementary occupations,Normal value,0.72
-2014,A,Male,,Normal value,2.29
-2014,A,Male,Armed forces occupations,Normal value,20.57
-2014,A,Male,Managers,Normal value,5.87
-2014,A,Male,Professionals,Normal value,4.63
-2014,A,Male,Technicians and associate professionals,Normal value,3.55
-2014,A,Male,Clerical support workers,Normal value,4.31
-2014,A,Male,Service and sales workers,Normal value,1.55
-2014,A,Male,"Skilled agricultural, forestry and fishery workers",Normal value,0.77
-2014,A,Male,Craft and related trades workers,Normal value,2.66
-2014,A,Male,"Plant and machine operators, and assemblers",Normal value,1.77
-2014,A,Male,Elementary occupations,Normal value,0.91
+Year,OBS_STATUS,COMMENT_OBS,Sex,Occupation,Observation status,Observation-level footnotes,Value
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,,,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),50.13
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),,,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),100.1
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,,Armed forces occupations,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),81.3
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),,Armed forces occupations,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),391.67
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,,Managers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),286.49
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),,Managers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),481.8
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,,Professionals,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),174.49
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),,Professionals,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),244.42
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,,Technicians and associate professionals,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),81.98
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),,Technicians and associate professionals,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),242.21
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,,Clerical support workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),67.02
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),,Clerical support workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),270.65
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,,Service and sales workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),29.08
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),,Service and sales workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),62.38
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,,"Skilled agricultural, forestry and fishery workers",Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),14.91
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),,"Skilled agricultural, forestry and fishery workers",Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),29.42
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,,Craft and related trades workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,34.34
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,,"Plant and machine operators, and assemblers",Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),47.3
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),,"Plant and machine operators, and assemblers",Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),62.81
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,,Elementary occupations,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),21.22
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),,Elementary occupations,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),29.36
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,,Not elsewhere classified,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,9.4
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Female,,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),47.87
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Female,,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),94.77
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Female,Armed forces occupations,Low reliability,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),69.44
+2019,U,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Female,Armed forces occupations,Low reliability,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),634.0
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Female,Managers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),248.52
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Female,Managers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),332.35
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Female,Professionals,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),182.07
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Female,Professionals,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),210.84
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Female,Technicians and associate professionals,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),75.91
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Female,Technicians and associate professionals,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),157.87
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Female,Clerical support workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),70.86
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Female,Clerical support workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),214.33
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Female,Service and sales workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),24.91
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Female,Service and sales workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),60.91
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Female,"Skilled agricultural, forestry and fishery workers",Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),15.04
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Female,"Skilled agricultural, forestry and fishery workers",Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),25.6
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Female,Craft and related trades workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,15.84
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Female,"Plant and machine operators, and assemblers",Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),29.8
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Female,"Plant and machine operators, and assemblers",Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),84.71
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Female,Elementary occupations,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),17.56
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Female,Elementary occupations,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),26.81
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Female,Not elsewhere classified,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,8.37
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Male,,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),51.14
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Male,,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),103.15
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Male,Armed forces occupations,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),83.93
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Male,Armed forces occupations,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),330.03
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Male,Managers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),295.6
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Male,Managers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),549.47
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Male,Professionals,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),170.18
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Male,Professionals,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),279.63
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Male,Technicians and associate professionals,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),86.01
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Male,Technicians and associate professionals,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),264.98
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Male,Clerical support workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),63.13
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Male,Clerical support workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),325.62
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Male,Service and sales workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),32.14
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Male,Service and sales workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),63.8
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Male,"Skilled agricultural, forestry and fishery workers",Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),14.84
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Male,"Skilled agricultural, forestry and fishery workers",Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),32.56
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Male,Craft and related trades workers,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,38.08
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Male,"Plant and machine operators, and assemblers",Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),47.98
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Male,"Plant and machine operators, and assemblers",Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),61.31
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Male,Elementary occupations,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),22.75
+2019,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),Male,Elementary occupations,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES),30.99
+2006,A,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,Male,Not elsewhere classified,Normal value,Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised,10.08

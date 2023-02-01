@@ -1,4 +1,2 @@
 From,To
-NATURE,SOURCE_DETAIL
-SOURCE_DETAIL,Source details
-Source details,Sex
+NATURE,Sex

@@ -12,49 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  ",
-                "Obs_Value = 0;  Zimbabwe is currently working on its TSA. The compilation is being done with the help of UNWTO. As such, the information requested is currently not available. In the meantime, Zimbabwe is eagerly looking forward for the final completion of the TSA and the periodic availability of data for updating the 10 tables.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables) [12.b.1]",
-                "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables) [12.b.1]",
-                "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Total number of tables) [12.b.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  ",
-                "Obs_Value = 0;  Zimbabwe is currently working on its TSA. The compilation is being done with the help of UNWTO. As such, the information requested is currently not available. In the meantime, Zimbabwe is eagerly looking forward for the final completion of the TSA and the periodic availability of data for updating the 10 tables.",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

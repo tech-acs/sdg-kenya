@@ -12,8 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-performing loans to total gross loans (%) [10.5.1]",
+                "Return on assets (%) [10.5.1]",
+                "Regulatory capital to assets (%) [10.5.1]",
+                "Non-performing loans net of provisions to capital (%) [10.5.1]",
+                "Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1]",
+                "Net open position in foreign exchange to capital (%) [10.5.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",

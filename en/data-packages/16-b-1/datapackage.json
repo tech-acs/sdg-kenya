@@ -12,88 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "E",
-                "C",
-                ""
-              ]
-            },
-            "title": "NATURE"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Degree of urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rural",
-                "Urban",
-                ""
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
-            "name": "Composite breakdown",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Grounds of discrimination: Age",
-                "Grounds of discrimination: Disability",
-                "Grounds of discrimination: Ethnic or immigration status",
-                "Grounds of discrimination: Marital and family status",
-                "Grounds of discrimination: Other",
-                "Grounds of discrimination: Political opinion",
-                "Grounds of discrimination: Religion",
-                "Grounds of discrimination: Sex",
-                "Grounds of discrimination: Born out of wedlock",
-                "Grounds of discrimination: Pregnancy",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "Disability status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Persons with disability",
-                "Persons without disability",
-                ""
-              ]
-            },
-            "title": "Disability status"
-          },
-          {
-            "name": "Nature of data points",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Estimated",
-                "Country Data",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
           },
           {
             "name": "Value",

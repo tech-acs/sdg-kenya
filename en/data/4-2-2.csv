@@ -1,18 +1,28 @@
-Year,NATURE,SOURCE_DETAIL,Sex,Source details,Value
-2012,E,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,,2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.,45.55684
-2013,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,,2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.,40.698
-2014,C,Annual Statistical Report for 2014 (http://mopse.co.zw/sites/default/files/public/downloads/2014-MoPSE-Annual-Statistical-Report.pdf); Data extracted on 01 April 2022.,,2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.,41.78551
-2015,C,Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.,,2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.,49.5938
-2016,C,Annual Statistical Report 2016 (http://mopse.co.zw/sites/default/files/public/downloads/2016%20Annual%20Statistics%20Report%20%281%29.pdf); Data extracted on 01 April 2022.,,2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.,54.86186
-2017,C,2017 Annual Education Statistics Profile (http://mopse.co.zw/sites/default/files/public/downloads/2017_National_Statistical_Profile.pdf); Data extracted on 01 April 2022.,,2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.,54.6817
-2018,C,2018 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/2018%20Annual%20Statistics%20Report.pdf); Data extracted on 01 April 2022.,,2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.,53.92821
-2019,C,2019 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/2019%20Annual%20Education%20Statistics%20Report%20pdf%20for%20UPLOADING.pdf); Data extracted on 01 April 2022.,,2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.,54.6672
-2020,C,2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.,,2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.,57.22575
-2012,E,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Female,Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.,46.35769
-2013,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Female,Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.,41.50414
-2014,C,Annual Statistical Report for 2014 (http://mopse.co.zw/sites/default/files/public/downloads/2014-MoPSE-Annual-Statistical-Report.pdf); Data extracted on 01 April 2022.,Female,Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.,42.3206
-2015,C,Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.,Female,Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.,50.49871
-2012,E,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Male,Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.,44.75923
-2013,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Male,Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.,39.89698
-2014,C,Annual Statistical Report for 2014 (http://mopse.co.zw/sites/default/files/public/downloads/2014-MoPSE-Annual-Statistical-Report.pdf); Data extracted on 01 April 2022.,Male,Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.,41.25477
-2015,C,Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.,Male,Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.,48.69677
+Year,NATURE,Sex,Value
+2001,E,,46.0889
+2002,C,,43.54804
+2003,C,,44.74036
+2004,C,,43.3654
+2005,C,,43.23754
+2006,C,,43.34165
+2007,C,,44.61103
+2008,C,,42.45389
+2009,E,,46.27357
+2001,E,Female,46.56523
+2002,C,Female,43.82247
+2003,C,Female,46.11873
+2004,C,Female,43.90765
+2005,C,Female,43.74093
+2006,C,Female,42.99105
+2007,C,Female,43.93932
+2008,C,Female,42.39761
+2009,E,Female,46.19878
+2001,E,Male,45.61811
+2002,C,Male,43.27688
+2003,C,Male,43.37904
+2004,C,Male,42.8301
+2005,C,Male,42.74078
+2006,C,Male,43.68732
+2007,C,Male,45.27272
+2008,C,Male,42.50928
+2009,E,Male,46.34713

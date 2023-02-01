@@ -20,31 +20,61 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Higher-Level Courts include Court of Appeal, High Courts, Employment & Labour Court and Environment & Land Court. The Personnel at Lower-Level Courts include Magistrates and Kadhis. Working age in Kenya is 18 to 69 for Judges and 18-59 for the other cadres.",
+                "Bicameral: Lower chamber (National Assembly), Chair(s) presides over a committee which covers multuple themes (Foreign affairs, Defence), , Data valid as of 1 Jan of given year",
                 "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year",
-                "Bicameral: Lower chamber (National Assembly), No Age Data, Data valid as of 1 Jan of given year",
-                "Obs_Value = 0;  Bicameral: Upper chamber (Senate), No Committee, Data valid as of 1 Jan of given year",
-                "Bicameral: Upper chamber (Senate), No Age Data, Data valid as of 1 Jan of given year",
+                "Bicameral: Upper chamber (Senate), Chair(s) presides over a committee which covers multuple themes (Foreign affairs, Defence), , Data valid as of 1 Jan of given year",
+                "Bicameral: Upper chamber (Senate), Data valid as of 1 Jan of given year",
                 "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year; population figures used from United Nations Population Division, World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  \n-\t0 means no re",
                 "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year; 2020 population figures used from United Nations Population Division, World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  \n-\t0 means no representation at all of women in parliament \n-\t1 means perfectly proportional representation of women  in parliament \n-\t<1 means under-representation of women in parliament \n-\t>1 means over-representation of women in parliament ",
                 "Bicameral: Upper chamber (Senate), Data valid as of 1 Jan of given year; population figures used from United Nations Population Division, World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  \n-\t0 means no representatio",
                 "Bicameral: Upper chamber (Senate), Data valid as of 1 Jan of given year; 2020 population figures used from United Nations Population Division, World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  \n-\t0 means no representation at all of women in parliament \n-\t1 means perfectly proportional representation of women  in parliament \n-\t<1 means under-representation of women in parliament \n-\t>1 means over-representation of women in parliament ",
-                "Bicameral: Upper chamber (Senate), Data valid as of 1 Jan of given year",
+                "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election ",
+                "Bicameral: Upper chamber (Senate), Data valid as of 1 Jan of given year, based on available age data collected after each election ",
+                "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election",
+                "Bicameral: Upper chamber (Senate), Data valid as of 1 Jan of given year, based on available age data collected after each election",
+                "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year; population figures used from United Nations Population Division - World Population Prospects to calculate ratios; the ratio can be interpreted as follows:  \n-\t0 means no r",
+                "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year; 2020 population figures used from United Nations Population Division - World Population Prospects to calculate ratios; the ratio can be interpreted as follows:  \n-\t0 means no representation at all of ‘youth’ (45 years and below) in parliament \n-\t1 means perfectly proportional representation of ‘youth’ (45 years and below) in parliament \n-\t<1 means under-representation of ‘youth’ (45 years and below) in parliament \n-\t>1 means over-representation of ‘youth’ (45 years and below) in parliament ",
+                "Bicameral: Upper chamber (Senate), Data valid as of 1 Jan of given year; population figures used from United Nations Population Division - World Population Prospects to calculate ratios; the ratio can be interpreted as follows:  \n-\t0 means no representati",
+                "Bicameral: Upper chamber (Senate), Data valid as of 1 Jan of given year; 2020 population figures used from United Nations Population Division - World Population Prospects to calculate ratios; the ratio can be interpreted as follows:  \n-\t0 means no representation at all of ‘youth’ (45 years and below) in parliament \n-\t1 means perfectly proportional representation of ‘youth’ (45 years and below) in parliament \n-\t<1 means under-representation of ‘youth’ (45 years and below) in parliament \n-\t>1 means over-representation of ‘youth’ (45 years and below) in parliament ",
                 ""
               ]
             },
             "title": "COMMENT_OBS"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Judiciary; 2 19 KPH Census",
+                "Inter-Parliamentary Union (IPU), Parline Database",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
             "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportions of positions in the judiciary compared to national distributions [16.7.1]",
+                "Proportions of positions in the judiciary compared to national distributions, Constitutional Court [16.7.1]",
+                "Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",
+                "Proportions of positions in the judiciary compared to national distributions, Lower Courts [16.7.1]",
                 "Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral [16.7.1]",
                 "Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber [16.7.1]",
                 "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]",
                 "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",
                 "Number of speakers in parliament, by age and sex , Lower Chamber or Unicameral [16.7.1]",
                 "Number of speakers in parliament, by age and sex, Upper Chamber [16.7.1]",
+                "Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral [16.7.1]",
+                "Number of youth in parliament (age 45 or below), Upper Chamber [16.7.1]",
+                "Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral [16.7.1]",
+                "Proportion of youth in parliament (age 45 or below), Upper Chamber [16.7.1]",
+                "Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]",
+                "Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",
                 ""
               ]
             },
@@ -57,7 +87,6 @@
               "enum": [
                 "Female",
                 "Male",
-                "Not available",
                 ""
               ]
             },
@@ -68,23 +97,34 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "under 45 years old",
                 "46 years old and over",
-                "Unknown",
-                "Not available",
+                "under 46 years old",
                 ""
               ]
             },
             "title": "Age"
           },
           {
+            "name": "Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Judges",
+                "Registrars included in 2619 - Legal Professionals Not Elsewhere Classified",
+                ""
+              ]
+            },
+            "title": "Occupation"
+          },
+          {
             "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "Parliamentary committee: Gender Equality",
-                "Parliamentary committee: Foreign Affairs",
-                "Parliamentary committee: Defence",
+                "Parliamentary committee: Foreign Affairs and Defence",
                 "Parliamentary committee: Finance",
+                "Parliamentary committee: Gender Equality",
                 "Parliamentary committee: Human Rights",
                 ""
               ]
@@ -96,8 +136,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
                 "Ratio",
+                "Number",
+                "Percent",
                 ""
               ]
             },
@@ -108,17 +149,35 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Higher-Level Courts include Court of Appeal, High Courts, Employment & Labour Court and Environment & Land Court. The Personnel at Lower-Level Courts include Magistrates and Kadhis. Working age in Kenya is 18 to 69 for Judges and 18-59 for the other cadres.",
+                "Bicameral: Lower chamber (National Assembly), Chair(s) presides over a committee which covers multuple themes (Foreign affairs, Defence), , Data valid as of 1 Jan of given year",
                 "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year",
-                "Bicameral: Lower chamber (National Assembly), No Age Data, Data valid as of 1 Jan of given year",
-                "Obs_Value = 0;  Bicameral: Upper chamber (Senate), No Committee, Data valid as of 1 Jan of given year",
-                "Bicameral: Upper chamber (Senate), No Age Data, Data valid as of 1 Jan of given year",
+                "Bicameral: Upper chamber (Senate), Chair(s) presides over a committee which covers multuple themes (Foreign affairs, Defence), , Data valid as of 1 Jan of given year",
+                "Bicameral: Upper chamber (Senate), Data valid as of 1 Jan of given year",
                 "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year; 2020 population figures used from United Nations Population Division, World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  \n-\t0 means no representation at all of women in parliament \n-\t1 means perfectly proportional representation of women  in parliament \n-\t<1 means under-representation of women in parliament \n-\t>1 means over-representation of women in parliament ",
                 "Bicameral: Upper chamber (Senate), Data valid as of 1 Jan of given year; 2020 population figures used from United Nations Population Division, World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  \n-\t0 means no representation at all of women in parliament \n-\t1 means perfectly proportional representation of women  in parliament \n-\t<1 means under-representation of women in parliament \n-\t>1 means over-representation of women in parliament ",
-                "Bicameral: Upper chamber (Senate), Data valid as of 1 Jan of given year",
+                "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election ",
+                "Bicameral: Upper chamber (Senate), Data valid as of 1 Jan of given year, based on available age data collected after each election ",
+                "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election",
+                "Bicameral: Upper chamber (Senate), Data valid as of 1 Jan of given year, based on available age data collected after each election",
+                "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year; 2020 population figures used from United Nations Population Division - World Population Prospects to calculate ratios; the ratio can be interpreted as follows:  \n-\t0 means no representation at all of ‘youth’ (45 years and below) in parliament \n-\t1 means perfectly proportional representation of ‘youth’ (45 years and below) in parliament \n-\t<1 means under-representation of ‘youth’ (45 years and below) in parliament \n-\t>1 means over-representation of ‘youth’ (45 years and below) in parliament ",
+                "Bicameral: Upper chamber (Senate), Data valid as of 1 Jan of given year; 2020 population figures used from United Nations Population Division - World Population Prospects to calculate ratios; the ratio can be interpreted as follows:  \n-\t0 means no representation at all of ‘youth’ (45 years and below) in parliament \n-\t1 means perfectly proportional representation of ‘youth’ (45 years and below) in parliament \n-\t<1 means under-representation of ‘youth’ (45 years and below) in parliament \n-\t>1 means over-representation of ‘youth’ (45 years and below) in parliament ",
                 ""
               ]
             },
             "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Judiciary; 2 19 KPH Census",
+                "Inter-Parliamentary Union (IPU), Parline Database",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",

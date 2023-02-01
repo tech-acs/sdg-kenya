@@ -20,9 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Based on data from ICES. Estimated from grouped consumption data. ",
-                "Based on data from PICES. Estimated from unit-record consumption data. ",
-                "Based on data from PICES. Estimated from imputed unit-record consumption data. ",
+                "Based on data from WMS-I. Estimated from grouped consumption data. ",
+                "Based on data from WMS-II. Estimated from unit-record consumption data. ",
+                "Based on data from WMS-III. Estimated from unit-record consumption data. ",
+                "Based on data from IHBS. Estimated from unit-record consumption data. ",
                 ""
               ]
             },

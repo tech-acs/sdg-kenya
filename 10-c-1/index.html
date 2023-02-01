@@ -134,7 +134,7 @@ var translations = {
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/sdg-kenya/assets/css/style.css?v=20230109082634">
+        <link rel="stylesheet" href="/sdg-kenya/assets/css/style.css?v=20230201113735">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -401,7 +401,7 @@ data-event-label="high"
   data-graphtargetlines="null"
   data-graphseriesbreaks="null"
   data-indicatordownloads="null"
-  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Year&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
+  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Year&quot;},{&quot;name&quot;:&quot;NATURE&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;G&quot;,&quot;C&quot;,&quot;&quot;]},&quot;title&quot;:&quot;NATURE&quot;},{&quot;name&quot;:&quot;COMMENT_OBS&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Third quarter of the specified year.&quot;,&quot;Third quarter of the specified year. Global SmaRT Average: 5.20%.&quot;,&quot;Third quarter of the specified year. Global SmaRT Average: 5:80%.&quot;,&quot;Third quarter of the specified year. Global SmaRT Average: 4.65%.&quot;,&quot;Third quarter of the specified year. Global SmaRT Average: 4.47%.&quot;,&quot;&quot;]},&quot;title&quot;:&quot;COMMENT_OBS&quot;},{&quot;name&quot;:&quot;SOURCE_DETAIL&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;World Development Indicators database, World Bank.&quot;,&quot;Remittance Prices Worldwide database, World Bank.&quot;,&quot;&quot;]},&quot;title&quot;:&quot;SOURCE_DETAIL&quot;},{&quot;name&quot;:&quot;SDG Series&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted [10.c.1]&quot;,&quot;Average remittance costs of sending $200 in a corridor as a proportion of the amount remitted [10.c.1]&quot;,&quot;SmaRT average remittance costs of sending $200 in a corridor as a proportion of the amount remitted [10.c.1]&quot;,&quot;Average remittance costs of sending $200 for a sending country as a proportion of the amount remitted [10.c.1]&quot;,&quot;&quot;]},&quot;title&quot;:&quot;SDG Series&quot;},{&quot;name&quot;:&quot;Custom Breakdown&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Custom code 646&quot;,&quot;Custom code 728&quot;,&quot;Custom code 800&quot;,&quot;Custom code 834&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Custom Breakdown&quot;},{&quot;name&quot;:&quot;Nature of data points&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Global monitoring data&quot;,&quot;Country Data&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Nature of data points&quot;},{&quot;name&quot;:&quot;Observation-level footnotes&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Third quarter of the specified year.&quot;,&quot;Third quarter of the specified year. Global SmaRT Average: 4.47%.&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Observation-level footnotes&quot;},{&quot;name&quot;:&quot;Source details&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;World Development Indicators database, World Bank.&quot;,&quot;Remittance Prices Worldwide database, World Bank.&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Source details&quot;},{&quot;name&quot;:&quot;Label for custom breakdown&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Rwanda&quot;,&quot;South Sudan&quot;,&quot;Uganda&quot;,&quot;United Republic of Tanzania&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Label for custom breakdown&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
   data-compositebreakdownlabel=""
   data-precision="null"
 >
@@ -432,125 +432,15 @@ data-event-label="high"
   <div id="datatables">
 
     
-    <a href="/sdg-kenya/en/headline/10-c-1.csv" class="btn btn-primary btn-download" download="indicator_10-c-1.csv" tabindex="0" role="button">Download headline data (.csv)</a>
-    
     <a href="/sdg-kenya/en/data/10-c-1.csv" class="btn btn-primary btn-download" download='indicator_10-c-1.csv' tabindex='0' role='button'>Download source data (.csv)</a>
 
     <p class="no-js-disaggregation-hint">Download source data for disaggregations (.csv)</p>
 
     
-    <h3>Headline data</h3>
-    <table class="table-responsive table table-hover dataTable no-footer" role="grid">
-      <caption>Remittance costs as a proportion of the amount remitted</caption>
-      <thead>
-        
-        
-        <th scope="col">Year</th>
-        
-        
-        
-        <th scope="col" class="table-value">Value</th>
-        
-        
-      </thead>
-      <tbody>
-        
-        <tr>
-          
-          
-          <td>2011</td>
-          
-          
-          
-          <td class="table-value">13.71</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2015</td>
-          
-          
-          
-          <td class="table-value">11.89</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2017</td>
-          
-          
-          
-          <td class="table-value">11.23</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2018</td>
-          
-          
-          
-          <td class="table-value">10.57</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2019</td>
-          
-          
-          
-          <td class="table-value">10.62</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2020</td>
-          
-          
-          
-          <td class="table-value">9.93</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2021</td>
-          
-          
-          
-          <td class="table-value">10.99</td>
-          
-          
-        </tr>
-        
-      </tbody>
-    </table>
+    <h3>No headline data available</h3>
     
   </div>
 
-  
-  <div id="datatableFooter">
-    
-    
-    
-    
-  </div>
   
 
 </div>
@@ -1506,12 +1396,12 @@ data-event-label="Change to indicator.sources tab"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/sdg-kenya/assets/js/sdg.js?v=20230109082634'></script>
+<script src='/sdg-kenya/assets/js/sdg.js?v=20230201113735'></script>
 
 
     
     
-    <script src="/sdg-kenya/assets/js/custom.js?v=20230109082634"></script><script>
+    <script src="/sdg-kenya/assets/js/custom.js?v=20230201113735"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>

@@ -1,10 +1,15 @@
 From,To
-UNIT_MULT,COMMENT_OBS
+UNIT_MULT,NATURE
+NATURE,COMMENT_OBS
 COMMENT_OBS,UPPER_BOUND
 UPPER_BOUND,LOWER_BOUND
-LOWER_BOUND,SDG Series
+LOWER_BOUND,SOURCE_DETAIL
+SOURCE_DETAIL,SDG Series
 SDG Series,Unit of measure
 Sex,Age
-Lower bound value,Sex
-Unit of measure,Upper bound value
+Source details,Sex
+Unit of measure,Nature of data points
+Nature of data points,Observation-level footnotes
+Observation-level footnotes,Upper bound value
 Upper bound value,Lower bound value
+Lower bound value,Source details

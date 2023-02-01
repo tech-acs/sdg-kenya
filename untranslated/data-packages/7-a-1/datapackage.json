@@ -15,13 +15,27 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",
+                "Obs_Value = 0;  Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
+                "Type of renewable technology: Bioenergy",
+                "Type of renewable technology: Geothermal energy",
                 "Type of renewable technology: Hydropower",
                 "Type of renewable technology: Multiple renewables",
                 "Type of renewable technology: Solar energy",
+                "Type of renewable technology: Wind energy",
                 ""
               ]
             }

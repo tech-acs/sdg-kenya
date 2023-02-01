@@ -12,50 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total population is restricted to household head and wife due to data limitations.",
-                "Documented rights are issued either indivdiually or jointly. Total population is restricted to household head and wife due to data limitations.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2]",
-                "Proportion of people with secure tenure rights to land out of total adult population [1.4.2]",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total population is restricted to household head and wife due to data limitations.",
-                "Documented rights are issued either indivdiually or jointly. Total population is restricted to household head and wife due to data limitations.",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

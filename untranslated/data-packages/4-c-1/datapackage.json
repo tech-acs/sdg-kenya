@@ -15,18 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "SOURCE_DETAIL",
+            "name": "NATURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "UNESCO Institute for Statistics.  Data extracted on 01 April 2022.",
-                "Annual Statistical Report for 2014 (http://mopse.co.zw/sites/default/files/public/downloads/2014-MoPSE-Annual-Statistical-Report.pdf); Data extracted on 01 April 2022.",
-                "Annual Statistical Report 2015 (http://mopse.co.zw/sites/default/files/public/downloads/2015%20Annual%20Statistics%20Report_0.pdf); Data extracted on 01 April 2022.",
-                "Annual Statistical Report 2016 (http://mopse.co.zw/sites/default/files/public/downloads/2016%20Annual%20Statistics%20Report%20%281%29.pdf); Data extracted on 01 April 2022.",
-                "2017 Annual Education Statistics Profile (http://mopse.co.zw/sites/default/files/public/downloads/2017_national_Statistical_Profile.pdf); Data extracted on 01 April 2022.",
-                "2018 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/2018%20Annual%20Statistics%20Report.pdf); Data extracted on 01 April 2022.",
-                "2019 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/2019%20Annual%20Education%20Statistics%20Report%20pdf%20for%20UPLOADING.pdf); Data extracted on 01 April 2022.",
-                "2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.",
+                "E",
+                "C",
                 ""
               ]
             }
@@ -50,17 +44,19 @@
                 "Secondary education (lower and upper secondary education)",
                 "Pre-primary education",
                 "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
                 ""
               ]
             }
           },
           {
-            "name": "Source details",
+            "name": "Nature of data points",
             "type": "string",
             "constraints": {
               "enum": [
-                "2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.",
-                "UNESCO Institute for Statistics.  Data extracted on 01 April 2022.",
+                "Estimated",
+                "Country Data",
                 ""
               ]
             }

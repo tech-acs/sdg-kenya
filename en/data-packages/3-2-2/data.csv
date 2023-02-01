@@ -1,43 +1,43 @@
 Year,SDG Series,Unit of measure,Value
-2000,Neonatal mortality rate [3.2.2],"Per 1,000 live births",24.6
-2001,Neonatal mortality rate [3.2.2],"Per 1,000 live births",25.2
-2002,Neonatal mortality rate [3.2.2],"Per 1,000 live births",26.1
-2003,Neonatal mortality rate [3.2.2],"Per 1,000 live births",27.2
-2004,Neonatal mortality rate [3.2.2],"Per 1,000 live births",28.2
-2005,Neonatal mortality rate [3.2.2],"Per 1,000 live births",29.1
-2006,Neonatal mortality rate [3.2.2],"Per 1,000 live births",30.0
-2007,Neonatal mortality rate [3.2.2],"Per 1,000 live births",30.7
-2008,Neonatal mortality rate [3.2.2],"Per 1,000 live births",31.2
-2009,Neonatal mortality rate [3.2.2],"Per 1,000 live births",31.2
-2010,Neonatal mortality rate [3.2.2],"Per 1,000 live births",30.8
-2011,Neonatal mortality rate [3.2.2],"Per 1,000 live births",30.1
-2012,Neonatal mortality rate [3.2.2],"Per 1,000 live births",29.4
-2013,Neonatal mortality rate [3.2.2],"Per 1,000 live births",28.7
-2014,Neonatal mortality rate [3.2.2],"Per 1,000 live births",28.2
-2015,Neonatal mortality rate [3.2.2],"Per 1,000 live births",27.8
-2016,Neonatal mortality rate [3.2.2],"Per 1,000 live births",27.4
-2017,Neonatal mortality rate [3.2.2],"Per 1,000 live births",27.0
-2018,Neonatal mortality rate [3.2.2],"Per 1,000 live births",26.6
-2019,Neonatal mortality rate [3.2.2],"Per 1,000 live births",26.2
-2020,Neonatal mortality rate [3.2.2],"Per 1,000 live births",25.7
-2000,Neonatal deaths (number) [3.2.2],Number,9252.0
-2001,Neonatal deaths (number) [3.2.2],Number,9586.0
-2002,Neonatal deaths (number) [3.2.2],Number,10080.0
-2003,Neonatal deaths (number) [3.2.2],Number,10671.0
-2004,Neonatal deaths (number) [3.2.2],Number,11285.0
-2005,Neonatal deaths (number) [3.2.2],Number,11920.0
-2006,Neonatal deaths (number) [3.2.2],Number,12601.0
-2007,Neonatal deaths (number) [3.2.2],Number,13265.0
-2008,Neonatal deaths (number) [3.2.2],Number,13853.0
-2009,Neonatal deaths (number) [3.2.2],Number,14222.0
-2010,Neonatal deaths (number) [3.2.2],Number,14339.0
-2011,Neonatal deaths (number) [3.2.2],Number,14249.0
-2012,Neonatal deaths (number) [3.2.2],Number,14011.0
-2013,Neonatal deaths (number) [3.2.2],Number,13695.0
-2014,Neonatal deaths (number) [3.2.2],Number,13345.0
-2015,Neonatal deaths (number) [3.2.2],Number,12974.0
-2016,Neonatal deaths (number) [3.2.2],Number,12588.0
-2017,Neonatal deaths (number) [3.2.2],Number,12170.0
-2018,Neonatal deaths (number) [3.2.2],Number,11792.0
-2019,Neonatal deaths (number) [3.2.2],Number,11436.0
-2020,Neonatal deaths (number) [3.2.2],Number,11109.0
+2000,Neonatal mortality rate [3.2.2],"Per 1,000 live births",28.2
+2001,Neonatal mortality rate [3.2.2],"Per 1,000 live births",28.0
+2002,Neonatal mortality rate [3.2.2],"Per 1,000 live births",27.8
+2003,Neonatal mortality rate [3.2.2],"Per 1,000 live births",27.5
+2004,Neonatal mortality rate [3.2.2],"Per 1,000 live births",27.1
+2005,Neonatal mortality rate [3.2.2],"Per 1,000 live births",26.6
+2006,Neonatal mortality rate [3.2.2],"Per 1,000 live births",26.1
+2007,Neonatal mortality rate [3.2.2],"Per 1,000 live births",25.6
+2008,Neonatal mortality rate [3.2.2],"Per 1,000 live births",25.1
+2009,Neonatal mortality rate [3.2.2],"Per 1,000 live births",24.6
+2010,Neonatal mortality rate [3.2.2],"Per 1,000 live births",24.2
+2011,Neonatal mortality rate [3.2.2],"Per 1,000 live births",23.9
+2012,Neonatal mortality rate [3.2.2],"Per 1,000 live births",23.5
+2013,Neonatal mortality rate [3.2.2],"Per 1,000 live births",23.2
+2014,Neonatal mortality rate [3.2.2],"Per 1,000 live births",22.9
+2015,Neonatal mortality rate [3.2.2],"Per 1,000 live births",22.6
+2016,Neonatal mortality rate [3.2.2],"Per 1,000 live births",22.2
+2017,Neonatal mortality rate [3.2.2],"Per 1,000 live births",21.8
+2018,Neonatal mortality rate [3.2.2],"Per 1,000 live births",21.4
+2019,Neonatal mortality rate [3.2.2],"Per 1,000 live births",21.0
+2020,Neonatal mortality rate [3.2.2],"Per 1,000 live births",20.5
+2000,Neonatal deaths (number) [3.2.2],Number,36108.0
+2001,Neonatal deaths (number) [3.2.2],Number,36655.0
+2002,Neonatal deaths (number) [3.2.2],Number,37059.0
+2003,Neonatal deaths (number) [3.2.2],Number,37351.0
+2004,Neonatal deaths (number) [3.2.2],Number,37502.0
+2005,Neonatal deaths (number) [3.2.2],Number,37519.0
+2006,Neonatal deaths (number) [3.2.2],Number,37393.0
+2007,Neonatal deaths (number) [3.2.2],Number,37098.0
+2008,Neonatal deaths (number) [3.2.2],Number,36725.0
+2009,Neonatal deaths (number) [3.2.2],Number,36260.0
+2010,Neonatal deaths (number) [3.2.2],Number,35773.0
+2011,Neonatal deaths (number) [3.2.2],Number,35321.0
+2012,Neonatal deaths (number) [3.2.2],Number,34761.0
+2013,Neonatal deaths (number) [3.2.2],Number,34217.0
+2014,Neonatal deaths (number) [3.2.2],Number,33674.0
+2015,Neonatal deaths (number) [3.2.2],Number,33162.0
+2016,Neonatal deaths (number) [3.2.2],Number,32608.0
+2017,Neonatal deaths (number) [3.2.2],Number,32137.0
+2018,Neonatal deaths (number) [3.2.2],Number,31676.0
+2019,Neonatal deaths (number) [3.2.2],Number,31250.0
+2020,Neonatal deaths (number) [3.2.2],Number,30835.0

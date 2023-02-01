@@ -1,3 +1,20 @@
-Year,Value
-2000,50
-2001,50
+Year,NATURE,COMMENT_OBS,Value
+2000,E,"Obs_Value = 0;  Out of 10 local breeds, 70% are of unknown status",0
+2001,E,"Obs_Value = 0;  Out of 10 local breeds, 70% are of unknown status",0
+2002,E,"Obs_Value = 0;  Out of 10 local breeds, 70% are of unknown status",0
+2007,C,"Obs_Value = 0;  Out of 31 local breeds, 81% are of unknown status",0
+2008,E,"Obs_Value = 0;  Out of 31 local breeds, 81% are of unknown status",0
+2009,E,"Obs_Value = 0;  Out of 31 local breeds, 81% are of unknown status",0
+2010,C,"Obs_Value = 0;  Out of 32 local breeds, 75% are of unknown status",0
+2011,C,"Obs_Value = 0;  Out of 32 local breeds, 75% are of unknown status",0
+2012,C,"Obs_Value = 0;  Out of 32 local breeds, 75% are of unknown status",0
+2013,C,"Obs_Value = 0;  Out of 32 local breeds, 75% are of unknown status",0
+2014,C,"Obs_Value = 0;  Out of 32 local breeds, 75% are of unknown status",0
+2015,E,"Obs_Value = 0;  Out of 32 local breeds, 75% are of unknown status",0
+2016,E,"Obs_Value = 0;  Out of 32 local breeds, 75% are of unknown status",0
+2017,E,"Obs_Value = 0;  Out of 32 local breeds, 94% are of unknown status",0
+2018,E,"Obs_Value = 0;  Out of 32 local breeds, 94% are of unknown status",0
+2019,E,"Obs_Value = 0;  Out of 32 local breeds, 94% are of unknown status",0
+2020,E,"Obs_Value = 0;  Out of 32 local breeds, 97% are of unknown status",0
+2021,C,"Obs_Value = 0;  Out of 32 local breeds, 94% are of unknown status",0
+2022,E,"Obs_Value = 0;  Out of 32 local breeds, 94% are of unknown status",0

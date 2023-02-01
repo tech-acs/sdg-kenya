@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data provided by WB Economists.2007-2008 - Hyperinflation in the country",
-                "data provided by WB Economists.",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

@@ -16,20 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Source: Poverty Income and Consumption Expenditure Survey (PICES) 2001/02. Poverty line is absolute. Government estimate.",
-                "Source: Poverty Income and Consumption Expenditure Survey (PICES) 2011/12.. Poverty line is absolute. Government estimate.",
-                "Source: Poverty Income and Consumption Expenditure Survey (PICES) 2017.. Poverty line is absolute. Government estimate.",
-                "Source: Mini-PICES 2019 (April/ May 2019). Poverty line is absolute. Government estimate.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -53,8 +53,14 @@
                 "Reservoir minimum water area (% of total land area) [6.6.1]",
                 "Reservoir maximum water area (square kilometres) [6.6.1]",
                 "Reservoir maximum water area (% of total land area) [6.6.1]",
-                "Extent of human made wetlands (square kilometres) [6.6.1]",
                 "Extent of inland wetlands (square kilometres) [6.6.1]",
+                "Mangrove area baseline (square kilometres) [6.6.1]",
+                "Mangrove total area change (%) [6.6.1]",
+                "Mangrove area gain (square kilometres) [6.6.1]",
+                "Mangrove area gain (%) [6.6.1]",
+                "Mangrove area loss (square kilometres) [6.6.1]",
+                "Mangrove area loss (%) [6.6.1]",
+                "Mangrove area (square kilometres) [6.6.1]",
                 "Wetlands area (square kilometres) [6.6.1]",
                 "Wetlands area (% of total land area) [6.6.1]",
                 ""
@@ -103,6 +109,28 @@
               "enum": [
                 "Global Surface Water Explorer extraction for UN Environment Programme",
                 "Ramsar National Report COP14",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Represent 1996 proxy",
+                "Obs_Value = 0;  Represent 1996 proxy",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Represent 1996 proxy",
+                "Obs_Value = 0;  Represent 1996 proxy",
                 ""
               ]
             }

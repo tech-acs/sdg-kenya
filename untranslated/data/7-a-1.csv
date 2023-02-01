@@ -1,31 +1,89 @@
-Year,Composite breakdown,Value
-2000,,0.04
-2001,,0.28
-2003,,0.01
-2005,,0.5
-2009,,0.02
-2011,,1.08
-2013,,319.0
-2014,,17.83
-2016,,0.03
-2017,,5.57
-2018,,0.01
-2019,,0.25
-2013,Type of renewable technology: Hydropower,318.76
-2000,Type of renewable technology: Multiple renewables,0.04
-2003,Type of renewable technology: Multiple renewables,0.01
-2011,Type of renewable technology: Multiple renewables,0.03
-2014,Type of renewable technology: Multiple renewables,0.05
-2016,Type of renewable technology: Multiple renewables,0.01
-2017,Type of renewable technology: Multiple renewables,5.57
-2018,Type of renewable technology: Multiple renewables,0.01
-2019,Type of renewable technology: Multiple renewables,0.02
-2001,Type of renewable technology: Solar energy,0.28
-2005,Type of renewable technology: Solar energy,0.5
-2009,Type of renewable technology: Solar energy,0.02
-2011,Type of renewable technology: Solar energy,1.05
-2013,Type of renewable technology: Solar energy,0.23
-2014,Type of renewable technology: Solar energy,17.78
-2016,Type of renewable technology: Solar energy,0.02
-2017,Type of renewable technology: Solar energy,0.01
-2019,Type of renewable technology: Solar energy,0.23
+Year,COMMENT_OBS,Composite breakdown,Value
+2000,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,0.09
+2003,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,0.33
+2004,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,135.54
+2005,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,44.01
+2006,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,0.01
+2007,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,59.02
+2008,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,29.98
+2009,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,35.46
+2010,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,729.35
+2011,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,511.18
+2012,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,143.99
+2013,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,16.25
+2014,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,719.12
+2015,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,546.17
+2016,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,701.12
+2017,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,301.21
+2018,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,220.98
+2019,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",,165.78
+2008,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Bioenergy,29.94
+2009,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Bioenergy,0.29
+2010,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Bioenergy,0.21
+2012,"Obs_Value = 0;  Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Bioenergy,0.0
+2014,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Bioenergy,0.3
+2017,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Bioenergy,11.73
+2018,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Bioenergy,1.92
+2019,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Bioenergy,1.07
+2000,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Geothermal energy,0.03
+2004,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Geothermal energy,43.0
+2005,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Geothermal energy,43.9
+2009,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Geothermal energy,26.89
+2010,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Geothermal energy,573.96
+2011,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Geothermal energy,358.54
+2012,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Geothermal energy,1.82
+2014,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Geothermal energy,97.34
+2015,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Geothermal energy,403.17
+2016,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Geothermal energy,477.88
+2017,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Geothermal energy,0.85
+2018,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Geothermal energy,92.95
+2019,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Geothermal energy,35.99
+2004,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Hydropower,92.45
+2007,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Hydropower,50.56
+2010,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Hydropower,115.23
+2011,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Hydropower,1.15
+2015,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Hydropower,44.81
+2016,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Hydropower,0.11
+2017,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Hydropower,1.14
+2019,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Hydropower,21.27
+2000,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,0.05
+2004,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,0.06
+2006,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,0.01
+2007,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,8.24
+2008,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,0.05
+2009,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,0.21
+2010,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,39.1
+2011,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,149.91
+2012,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,2.45
+2013,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,11.4
+2014,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,5.13
+2015,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,86.53
+2016,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,6.77
+2017,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,48.45
+2018,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,2.28
+2019,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Multiple renewables,22.28
+2000,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Solar energy,0.01
+2003,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Solar energy,0.33
+2007,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Solar energy,0.23
+2009,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Solar energy,0.08
+2010,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Solar energy,0.85
+2012,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Solar energy,124.09
+2013,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Solar energy,0.17
+2014,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Solar energy,0.09
+2015,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Solar energy,9.58
+2016,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Solar energy,201.24
+2017,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Solar energy,225.21
+2018,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Solar energy,72.94
+2019,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Solar energy,85.12
+2004,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Wind energy,0.03
+2005,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Wind energy,0.11
+2009,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Wind energy,8.0
+2011,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Wind energy,1.58
+2012,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Wind energy,15.63
+2013,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Wind energy,4.69
+2014,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Wind energy,616.26
+2015,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Wind energy,2.07
+2016,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Wind energy,15.14
+2017,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Wind energy,13.83
+2018,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Wind energy,50.89
+2019,"Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)",Type of renewable technology: Wind energy,0.04

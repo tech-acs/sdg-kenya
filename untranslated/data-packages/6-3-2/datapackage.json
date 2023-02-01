@@ -19,8 +19,30 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of groundwater bodies with good ambient water quality [6.3.2]",
+                "Proportion of open water bodies with good ambient water quality [6.3.2]",
                 "Proportion of river water bodies with good ambient water quality [6.3.2]",
                 "Proportion of bodies of water with good ambient water quality [6.3.2]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  ",
                 ""
               ]
             }

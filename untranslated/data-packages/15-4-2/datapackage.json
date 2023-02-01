@@ -19,6 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Elevation > 4.500 meters",
+                "Elevation 3.500–4.500 meters",
                 "Elevation 2.500–3.500 meters",
                 "Elevation 1.500–2.500 meters and slope > 2",
                 "Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters",

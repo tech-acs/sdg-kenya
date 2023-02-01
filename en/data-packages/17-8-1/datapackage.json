@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "C",
                 "E",
+                "C",
                 ""
               ]
             },
@@ -32,25 +32,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PTC, ZISPA, ITU estimate.",
+                "Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",
                 "ITU estimate.",
-                "Zimbabwe National Statistics Agency (ZIMSTAT)",
-                "ITU Estimate.",
+                "Kenya National Bureau of Statistics",
+                "National Bureau of Statistics and Communications Commission of Kenya.",
+                "KENYA NATIONAL BUREAU OF STATISTICS",
+                "ITU",
                 ""
               ]
             },
             "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population age 3+.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

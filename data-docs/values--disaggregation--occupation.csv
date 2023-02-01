@@ -1,15 +1,18 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Armed forces occupations,2,1
-Clerical support workers,3,1
+Armed forces occupations,6,1
+Clerical support workers,6,1
 Craft and related trades workers,3,1
 Dentists,1,1
-Elementary occupations,3,1
-Managers,3,1
+Elementary occupations,6,1
+Judges,5,1
+Managers,6,1
 Medical doctors,3,1
+Not elsewhere classified,3,1
 Nursing and midwifery personnel,3,1
 Pharmacists,1,1
-"Plant and machine operators, and assemblers",3,1
-Professionals,3,1
-Service and sales workers,3,1
-"Skilled agricultural, forestry and fishery workers",3,1
-Technicians and associate professionals,3,1
+"Plant and machine operators, and assemblers",6,1
+Professionals,6,1
+Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,5,1
+Service and sales workers,6,1
+"Skilled agricultural, forestry and fishery workers",6,1
+Technicians and associate professionals,6,1

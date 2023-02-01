@@ -33,9 +33,12 @@
             "constraints": {
               "enum": [
                 "Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",
-                "Post and Telecommunications Regulatory Authority (POTRAZ).",
-                "Postal and Telecommunications Regulatory Authority",
-                "POTRAZ",
+                "Communications Commission of Kenya (CCK).",
+                "Communications Commission of Kenya",
+                "CCK.",
+                "Communications Authority  of Kenya",
+                "COMMUNICATIONS AUTHORITY OF KENYA",
+                "Communications Commission of Kenya-ITU1",
                 ""
               ]
             },
@@ -96,11 +99,44 @@
             "constraints": {
               "enum": [
                 "Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",
-                "POTRAZ",
+                "Communications Authority  of Kenya",
                 ""
               ]
             },
             "title": "Source details"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  ",
+                "Decline was due to subscribers switching to wireless technologies.",
+                "Increased fibre connections during the period",
+                "There has been increased demand for higher broadband speeds",
+                "The increase is as a result of increased roll out of fibre in the country",
+                "*Data is collected for speeds = or above 2Mbps",
+                "Obs_Value = 0;  included in i4213_2to10",
+                "this speeds are already covered under the indicator above and the one below",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  ",
+                "Increased fibre connections during the period",
+                "There has been increased demand for higher broadband speeds",
+                "*Data is collected for speeds = or above 2Mbps",
+                "this speeds are already covered under the indicator above and the one below",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

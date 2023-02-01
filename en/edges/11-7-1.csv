@@ -1,1 +1,4 @@
 From,To
+COMMENT_OBS,Custom Breakdown
+Custom Breakdown,Label for custom breakdown
+Label for custom breakdown,Observation-level footnotes

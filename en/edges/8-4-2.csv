@@ -1,7 +1,7 @@
 From,To
 SDG Series,Unit of measure
 Unit of measure,Type of product
-Type of product,COMMENT_OBS
+Type of product,Observation-level footnotes
 Unit of measure,BASE_PER
-COMMENT_OBS,Observation-level footnotes
+Observation-level footnotes,COMMENT_OBS
 BASE_PER,Base period

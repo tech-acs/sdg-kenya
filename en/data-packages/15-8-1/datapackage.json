@@ -20,10 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Obs_Value = 0;  Responses to a set of key questons have been included in this dataset. ",
+                "Obs_Value = 0;  ",
                 "2020 dataset disaggregated into relevant themes",
-                "Responses to a set of key questons have been included in this dataset. ",
-                "Reference to Target 9 was a requirement",
+                "Obs_Value = 0;  Reference to Target 9 was a requirement",
                 ""
               ]
             },
@@ -34,7 +33,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Data gathered as a result of a survey",
                 "Data gathered through a literature search (primary sources ECOLEX, FAOLEX) and consultation with country experts",
                 "Data gathered from the latest version of NBSAP",
                 ""
@@ -47,9 +45,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species  management (1 = YES, 0 = NO) [15.8.1]",
                 "Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO) [15.8.1]",
-                "Countries with an allocation from the national budget to manage the threat of invasive alien species (1 = YES, 0 = NO) [15.8.1]",
                 "National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1 = YES, 0 = NO) [15.8.1]",
                 ""
               ]
@@ -61,26 +57,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Obs_Value = 0;  Responses to a set of key questons have been included in this dataset. ",
                 "2020 dataset disaggregated into relevant themes",
-                "Responses to a set of key questons have been included in this dataset. ",
-                "Reference to Target 9 was a requirement",
+                "Obs_Value = 0;  Reference to Target 9 was a requirement",
                 ""
               ]
             },
             "title": "Observation-level footnotes"
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data gathered as a result of a survey",
-                "Data gathered from the latest version of NBSAP",
-                ""
-              ]
-            },
-            "title": "Source details"
           },
           {
             "name": "Value",

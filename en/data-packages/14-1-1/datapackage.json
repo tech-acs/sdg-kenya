@@ -12,8 +12,130 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "E",
+                "C",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global Model for Monitoring Marine Litter",
+                "Plastic Pollution (MLW, MDMAP, ICC)",
+                "World Environment Situation Room",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beach litter originating from national land-based sources that ends in the beach (%) [14.1.1]",
+                "Beach litter originating from national land-based sources that ends in the beach (Tonnes) [14.1.1]",
+                "Exported beach litter originating from national land-based sources (Tonnes) [14.1.1]",
+                "Beach litter originating from national land-based sources that ends in the ocean (%) [14.1.1]",
+                "Beach litter originating from national land-based sources that ends in the ocean (Tonnes) [14.1.1]",
+                "Beach litter per square kilometer (Number) [14.1.1]",
+                "Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",
+                "Chlorophyll-a deviations, remote sensing  [14.1.1]",
+                "Floating plastic debris density (count per km2) [14.1.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frequency of Chlorophyll-a concentration: High",
+                "Frequency of Chlorophyll-a concentration: Moderate",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Metric Tons",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Modeled",
+                "Estimated",
+                "Country Data",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global Model for Monitoring Marine Litter",
+                "Plastic Pollution (MLW, MDMAP, ICC)",
+                "World Environment Situation Room",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The series has been backcasted to include territorial waters.",
+                "Data is collected from Diani, Tiwi, Shimoni, Vanga, Gazi - December 2019. ",
+                "Data is collected from the North and South coasts - May to June 2020. ",
+                "Data is collected from Kilifi, Kwale and Mombasa - February to October 2021. ",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The series has been backcasted to include territorial waters.",
+                "Data is collected from Kilifi, Kwale and Mombasa - February to October 2021. ",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

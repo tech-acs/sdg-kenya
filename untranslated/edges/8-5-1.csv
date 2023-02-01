@@ -1,3 +1,5 @@
 From,To
-OBS_STATUS,Sex
-OBS_STATUS,Occupation
+OBS_STATUS,COMMENT_OBS
+COMMENT_OBS,Observation-level footnotes
+Observation-level footnotes,Sex
+Observation-level footnotes,Occupation

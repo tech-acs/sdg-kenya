@@ -29,9 +29,8 @@
                 "African Development Bank Group Annual Report 2017",
                 "African Development Bank Group Annual Report 2018",
                 "African Development Bank Group Annual Report 2019",
-                "Report of the Economic and Social Council for 2015 (A/70/3)",
-                "Report of the Economic and Social Council on its 2016 Session (A/71/3)",
-                "Report of the Economic and Social Council on its 2017 Session (A/72/3)",
+                "Report of the Economic and Social Council for 2005 (A/60/3)",
+                "Report of the Economic and Social Council on its 2019 Session (A/74/3)",
                 "Report of the Economic and Social Council on its 2020 Session (A/75/3/Rev.1)",
                 "The World Bank Annual Report 2000: Financial Statement and Appendixes to the Annual Report",
                 "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2005",
@@ -121,28 +120,6 @@
               ]
             },
             "title": "Source details"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  ",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  ",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

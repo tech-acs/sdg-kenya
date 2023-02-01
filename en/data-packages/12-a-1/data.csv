@@ -1,67 +1,88 @@
 Year,COMMENT_OBS,Composite breakdown,Value
-2000,Year-end value for installed capacity (watts) and mid-year for population ,,61.423
-2001,Year-end value for installed capacity (watts) and mid-year for population ,,61.204
-2002,Year-end value for installed capacity (watts) and mid-year for population ,,62.722
-2003,Year-end value for installed capacity (watts) and mid-year for population ,,62.576
-2004,Year-end value for installed capacity (watts) and mid-year for population ,,62.379
-2005,Year-end value for installed capacity (watts) and mid-year for population ,,62.086
-2006,Year-end value for installed capacity (watts) and mid-year for population ,,61.684
-2007,Year-end value for installed capacity (watts) and mid-year for population ,,61.178
-2008,Year-end value for installed capacity (watts) and mid-year for population ,,67.353
-2009,Year-end value for installed capacity (watts) and mid-year for population ,,66.6
-2010,Year-end value for installed capacity (watts) and mid-year for population ,,65.791
-2011,Year-end value for installed capacity (watts) and mid-year for population ,,66.198
-2012,Year-end value for installed capacity (watts) and mid-year for population ,,65.138
-2013,Year-end value for installed capacity (watts) and mid-year for population ,,64.441
-2014,Year-end value for installed capacity (watts) and mid-year for population ,,63.376
-2015,Year-end value for installed capacity (watts) and mid-year for population ,,63.536
-2016,Year-end value for installed capacity (watts) and mid-year for population ,,62.883
-2017,Year-end value for installed capacity (watts) and mid-year for population ,,62.326
-2018,Year-end value for installed capacity (watts) and mid-year for population ,,82.532
-2019,Year-end value for installed capacity (watts) and mid-year for population ,,81.399
-2020,Year-end value for installed capacity (watts) and mid-year for population ,,80.606
-2000,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,5.176
-2001,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,5.158
-2002,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,6.818
-2003,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,6.802
-2004,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,6.78
-2005,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,6.749
-2006,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,6.705
-2007,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,6.65
-2008,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,6.583
-2009,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,6.546
-2010,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,6.458
-2011,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,7.755
-2012,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,7.625
-2013,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,7.49
-2014,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,7.36
-2015,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,7.239
-2016,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,7.127
-2017,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,7.024
-2018,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,6.926
-2019,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,6.828
-2020,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,6.728
-2000,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,56.247
-2001,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,56.047
-2002,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,55.904
-2003,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,55.774
-2004,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,55.599
-2005,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,55.338
-2006,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,54.979
-2007,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,54.528
-2008,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,60.769
-2009,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,60.054
-2010,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,59.333
-2011,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,58.428
-2012,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,57.445
-2013,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,56.803
-2014,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,55.817
-2015,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,55.984
-2016,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,55.391
-2017,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,54.862
-2018,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,74.871
-2019,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,73.815
-2020,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,72.735
+2000,Year-end value for installed capacity (watts) and mid-year for population ,,24.065
+2001,Year-end value for installed capacity (watts) and mid-year for population ,,23.417
+2002,Year-end value for installed capacity (watts) and mid-year for population ,,22.791
+2003,Year-end value for installed capacity (watts) and mid-year for population ,,22.182
+2004,Year-end value for installed capacity (watts) and mid-year for population ,,23.551
+2005,Year-end value for installed capacity (watts) and mid-year for population ,,22.916
+2006,Year-end value for installed capacity (watts) and mid-year for population ,,22.346
+2007,Year-end value for installed capacity (watts) and mid-year for population ,,21.736
+2008,Year-end value for installed capacity (watts) and mid-year for population ,,22.654
+2009,Year-end value for installed capacity (watts) and mid-year for population ,,23.191
+2010,Year-end value for installed capacity (watts) and mid-year for population ,,24.735
+2011,Year-end value for installed capacity (watts) and mid-year for population ,,24.107
+2012,Year-end value for installed capacity (watts) and mid-year for population ,,24.702
+2013,Year-end value for installed capacity (watts) and mid-year for population ,,24.324
+2014,Year-end value for installed capacity (watts) and mid-year for population ,,27.375
+2015,Year-end value for installed capacity (watts) and mid-year for population ,,32.944
+2016,Year-end value for installed capacity (watts) and mid-year for population ,,32.88
+2017,Year-end value for installed capacity (watts) and mid-year for population ,,32.564
+2018,Year-end value for installed capacity (watts) and mid-year for population ,,39.494
+2019,Year-end value for installed capacity (watts) and mid-year for population ,,41.669
+2020,Year-end value for installed capacity (watts) and mid-year for population ,,40.743
+2000,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,0.945
+2001,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,0.919
+2002,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,0.895
+2003,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,0.871
+2004,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,0.847
+2005,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,0.825
+2006,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,0.855
+2007,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,0.832
+2008,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,0.809
+2009,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,0.787
+2010,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,1.599
+2011,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,1.557
+2012,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,1.516
+2013,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,1.477
+2014,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,1.441
+2015,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,1.84
+2016,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,1.796
+2017,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,1.754
+2018,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,1.714
+2019,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,1.675
+2020,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Bioenergy,1.638
+2000,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,1.815
+2001,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,1.766
+2002,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,1.718
+2003,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,1.672
+2004,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,3.592
+2005,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,3.495
+2006,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,3.4
+2007,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,3.307
+2008,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,3.217
+2009,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,3.985
+2010,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,4.711
+2011,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,4.586
+2012,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,4.634
+2013,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,4.515
+2014,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,7.839
+2015,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,12.613
+2016,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,13.005
+2017,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,12.901
+2018,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,12.916
+2019,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,15.669
+2020,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Geothermal energy,15.32
+2000,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,21.293
+2001,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,20.72
+2002,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,20.166
+2003,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,19.627
+2004,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,19.1
+2005,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,18.585
+2006,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,18.08
+2007,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,17.586
+2008,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,18.614
+2009,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,18.404
+2010,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,18.287
+2011,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,17.801
+2012,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,18.348
+2013,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,18.049
+2014,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,17.611
+2015,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,17.303
+2016,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,16.897
+2017,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,16.609
+2018,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,16.28
+2019,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,15.914
+2020,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Hydropower,15.559
 2000,Obs_Value = 0;  Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.0
 2001,Obs_Value = 0;  Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.0
 2002,Obs_Value = 0;  Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.0
@@ -70,16 +91,37 @@ Year,COMMENT_OBS,Composite breakdown,Value
 2005,Obs_Value = 0;  Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.0
 2006,Obs_Value = 0;  Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.0
 2007,Obs_Value = 0;  Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.0
-2008,Obs_Value = 0;  Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.0
-2009,Obs_Value = 0;  Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.0
-2010,Obs_Value = 0;  Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.0
-2011,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.014
-2012,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.069
-2013,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.148
-2014,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.199
-2015,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.313
-2016,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.364
-2017,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.439
-2018,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.735
-2019,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.756
-2020,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,1.143
+2008,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.004
+2009,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.005
+2010,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.005
+2011,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.033
+2012,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.076
+2013,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.159
+2014,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.358
+2015,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.643
+2016,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.651
+2017,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,0.778
+2018,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,2.045
+2019,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,2.018
+2020,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Solar energy,1.975
+2000,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.013
+2001,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.012
+2002,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.012
+2003,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.012
+2004,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.011
+2005,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.011
+2006,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.011
+2007,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.01
+2008,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.01
+2009,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.01
+2010,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.134
+2011,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.131
+2012,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.127
+2013,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.124
+2014,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.125
+2015,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.545
+2016,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.532
+2017,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,0.522
+2018,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,6.54
+2019,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,6.393
+2020,Year-end value for installed capacity (watts) and mid-year for population ,Type of renewable technology: Wind energy,6.251

@@ -19,10 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Southern and Eastern Africa Consortium for Monitoring Educational Quality (SACMEQ). Students achieving at least proficiency Level 5. Grade 6",
                 "NA",
-                "Multiple Indicator Cluster Survey (MICS6); Children attending grade 2/3; Minimum proficiency level: Foundational numeracy skills. The minimum proficiency level alignment of this assessment is pending and subject to harmonization.",
-                "Multiple Indicator Cluster Survey (MICS6); Children attending grade 2/3; Minimum proficiency level: Foundational reading skills. The minimum proficiency level alignment of this assessment is pending and subject to harmonization.",
+                "National Learning Assessment (NLA): National Assessment Systems for Monitoring Learner Achievement (NASMLA); Grade 3; Minimum proficiency level: Level 3",
                 ""
               ]
             }
@@ -66,8 +64,7 @@
             "constraints": {
               "enum": [
                 "NA",
-                "Multiple Indicator Cluster Survey (MICS6); Children attending grade 2/3; Minimum proficiency level: Foundational numeracy skills. The minimum proficiency level alignment of this assessment is pending and subject to harmonization.",
-                "Multiple Indicator Cluster Survey (MICS6); Children attending grade 2/3; Minimum proficiency level: Foundational reading skills. The minimum proficiency level alignment of this assessment is pending and subject to harmonization.",
+                "National Learning Assessment (NLA): National Assessment Systems for Monitoring Learner Achievement (NASMLA); Grade 3; Minimum proficiency level: Level 3",
                 ""
               ]
             }

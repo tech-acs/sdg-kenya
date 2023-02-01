@@ -64,7 +64,7 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "Observation-level footnotes",
             "type": "string",
             "constraints": {
               "enum": [
@@ -74,7 +74,7 @@
             }
           },
           {
-            "name": "Observation-level footnotes",
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [

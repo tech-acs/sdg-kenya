@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2018,2020],"UPPER_BOUND":["6.33","2.79","3.27"],"LOWER_BOUND":["2.92","1.84","2.26"],"Value":[4.38,2.27,2.74]},"edges":{"From":["UPPER_BOUND"],"To":["LOWER_BOUND"]}}
+{"data":{"Year":[2015,2018,2020],"UPPER_BOUND":["1.22","0.6","0.48"],"LOWER_BOUND":["0.6","0.41","0.33"],"Value":[0.86,0.5,0.4]},"edges":{"From":["UPPER_BOUND"],"To":["LOWER_BOUND"]}}

@@ -44,8 +44,9 @@
                 "Proportion of population covered by at least one social protection benefit [1.3.1]",
                 "Proportion of children/households receiving child/family cash benefit [1.3.1]",
                 "Proportion of population with severe disabilities receiving disability cash benefit [1.3.1]",
-                "Proportion of population covered by labour market programs [1.3.1]",
+                "Proportion of mothers with newborns receiving maternity cash benefit [1.3.1]",
                 "Proportion of population above statutory pensionable age receiving a pension [1.3.1]",
+                "Proportion of poor population receiving social assistance cash benefit [1.3.1]",
                 "Proportion of population covered by social assistance programs [1.3.1]",
                 "Proportion of population covered by social insurance programs [1.3.1]",
                 "Proportion of unemployed persons receiving unemployment cash benefit [1.3.1]",
@@ -103,7 +104,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Obs_Value = 0;  ",
                 "Obs_Value = 0;  No unemployment protection programme anchored in national legislation",
                 ""
               ]
@@ -114,7 +114,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Obs_Value = 0;  ",
                 "Obs_Value = 0;  No unemployment protection programme anchored in national legislation",
                 ""
               ]

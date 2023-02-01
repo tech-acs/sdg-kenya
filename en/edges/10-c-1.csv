@@ -1,1 +1,9 @@
 From,To
+NATURE,COMMENT_OBS
+COMMENT_OBS,SOURCE_DETAIL
+SOURCE_DETAIL,SDG Series
+SDG Series,Nature of data points
+Source details,Custom Breakdown
+Custom Breakdown,Label for custom breakdown
+Nature of data points,Observation-level footnotes
+Observation-level footnotes,Source details

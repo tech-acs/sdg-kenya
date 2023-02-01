@@ -16,47 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Observation value represents the number of countries with national statistical plans with funding from donors",
-                "Obs_Value = 0;  Observation value represents the number of countries with national statistical plans that are fully funded",
-                "Observation value represents the number of countries with national statistical plans that are under implementation",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Countries with national statistical plans with funding from donors (1 = YES; 0 = NO) [17.18.3]",
-                "Countries with national statistical plans with funding from Government (1 = YES; 0 = NO) [17.18.3]",
-                "Countries with national statistical plans that are fully funded (1 = YES; 0 = NO) [17.18.3]",
-                "Countries with national statistical plans that are under implementation (1 = YES; 0 = NO) [17.18.3]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = NaN;  Observation value represents the number of countries with national statistical plans with funding from donors",
-                "Observation value represents the number of countries with national statistical plans with funding from donors",
-                "Obs_Value = 0;  Observation value represents the number of countries with national statistical plans that are fully funded",
-                "Observation value represents the number of countries with national statistical plans that are under implementation",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

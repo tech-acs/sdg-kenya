@@ -57,8 +57,8 @@
             "constraints": {
               "enum": [
                 "FAO, Global Forest Resources Assessment",
-                "Data submitted by FSC and PEFC secretariats (certifying bodies) to FAO, Global Forest Resources Assessment",
                 "No data on certified forest area in the FSC and PEFC records, value is therefore assumed to be zero",
+                "Data submitted by FSC and PEFC secretariats (certifying bodies) to FAO, Global Forest Resources Assessment",
                 ""
               ]
             },

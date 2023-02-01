@@ -1,21 +1,21 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Constant USD,5,2
+Constant USD,4,2
 Hectares,6,2
-Index,3,1
-Kilograms per constant USD,38,3
+Index,4,1
+Kilograms per constant USD,41,4
 Kilograms,5,2
 Local currency,1,1
-Metric Tons,88,5
-Million of cubic metres per annum,6,1
-Number,228,17
+Metric Tons,98,6
+Number,249,16
 Passenger kilometres,3,1
-Per 100 population,4,1
+Per 100 population,5,1
 "Per 1,000 live births",7,2
 "Per 10,000 population",4,1
-"Per 100,000 population",27,5
-Percent,165,22
-Ratio,7,2
-Square kilometers,8,2
-Tonne kilometres,5,1
+"Per 100,000 population",24,5
+Percent,168,21
+Ratio,21,2
+Square kilometers,15,2
+Tonne kilometres,4,1
 Tonnes per hectare,1,1
-USD,12,5
+Twenty-foot equivalent units (TEUs),1,1
+USD,17,5

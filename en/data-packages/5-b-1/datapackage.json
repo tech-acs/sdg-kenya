@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KENYA NATIONAL BUREAU OF STATISTICS",
+                "Kenya National Bureau of Statistics",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {

@@ -21,6 +21,7 @@
               "enum": [
                 "C",
                 "M",
+                "E",
                 ""
               ]
             }
@@ -32,6 +33,7 @@
               "enum": [
                 "ICAO",
                 "the International Transport Forum at the OECD (ITF-OECD)",
+                "Source: UNCTAD Review of Maritime Transport, 2021 and UNCTADstat (http://stats.unctad.org/teu).",
                 ""
               ]
             }
@@ -43,6 +45,7 @@
               "enum": [
                 "Freight volume (tonne kilometres) [9.1.2]",
                 "Passenger volume (passenger kilometres) [9.1.2]",
+                "Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2]",
                 ""
               ]
             }
@@ -56,6 +59,7 @@
                 "Mode of transport: Inland waterway transport",
                 "Mode of Transport: Rail",
                 "Mode of Transport: Road",
+                "Mode of Transport: Maritime",
                 ""
               ]
             }
@@ -67,6 +71,7 @@
               "enum": [
                 "Tonne kilometres",
                 "Passenger kilometres",
+                "Twenty-foot equivalent units (TEUs)",
                 ""
               ]
             }
@@ -78,6 +83,7 @@
               "enum": [
                 "Country Data",
                 "Modeled",
+                "Estimated",
                 ""
               ]
             }
@@ -89,12 +95,13 @@
               "enum": [
                 "ICAO",
                 "the International Transport Forum at the OECD (ITF-OECD)",
+                "Source: UNCTAD Review of Maritime Transport, 2021 and UNCTADstat (http://stats.unctad.org/teu).",
                 ""
               ]
             }
           },
           {
-            "name": "Observation-level footnotes",
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -104,7 +111,7 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "Observation-level footnotes",
             "type": "string",
             "constraints": {
               "enum": [

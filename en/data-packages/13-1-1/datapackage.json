@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Obs_Value = 0;  Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.",
                 "Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.",
+                "Obs_Value = 0;  Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.",
                 ""
               ]
             },
@@ -34,11 +34,12 @@
               "enum": [
                 "Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",
                 "Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",
+                "Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",
+                "Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",
                 "Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",
                 "Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",
                 "Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",
                 "Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",
-                "Number of people whose livelihoods were disrupted or destroyed, attributed to disasters [1.5.1, 11.5.1, 13.1.1]",
                 "Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",
                 ""
               ]
@@ -56,18 +57,6 @@
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.",
-                "Obs_Value = 0;  Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

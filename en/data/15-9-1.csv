@@ -1,3 +1,5 @@
-Year,Composite breakdown,Value
-2021,,1
-2021,ABT2 status: National target reflecting ABT2 exists and progress is on track to achieve it,1
+Year,SOURCE_DETAIL,SDG Series,Composite breakdown,Source details,Value
+2021,CHM / WESR ,Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1],,CHM / WESR ,1
+2021,CHM / WESR ,Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1],"ABT2 status: National target reflecting ABT2  exists and progress is there, but at as insufficient rate",CHM / WESR ,1
+2021,UNSD/UNEP Questionnaire on Environment Statistics,"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",,UNSD/UNEP Questionnaire on Environment Statistics,1
+2021,UNSD/UNEP Questionnaire on Environment Statistics,"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",Level/Status: Regular compilation and dissemination,UNSD/UNEP Questionnaire on Environment Statistics,1

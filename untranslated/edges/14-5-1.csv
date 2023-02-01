@@ -1,2 +1,6 @@
 From,To
 SDG Series,Unit of measure
+Unit of measure,UPPER_BOUND
+UPPER_BOUND,LOWER_BOUND
+LOWER_BOUND,Upper bound value
+Upper bound value,Lower bound value

@@ -33,6 +33,7 @@
             "constraints": {
               "enum": [
                 "CA",
+                "C",
                 "M",
                 ""
               ]
@@ -40,61 +41,71 @@
             "title": "NATURE"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Height/length modality (standing/lying) was not collected ",
+                "Reduced age range Age 0-5 months not covered; unadjusted",
+                "Figure is a modelled estimate. For primary sources, please refer to the metadata.",
+                "The estimates for the year 2020 do not account for the full impact of COVID-19.  Household survey data on child height and age were not collected in 2020 due to physical distancing policies. One of the covariates used in the country model takes the impact of COVID-19 partially into account. , Figure is a modelled estimate. For primary sources, please refer to the metadata.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "UPPER_BOUND",
             "type": "string",
             "constraints": {
               "enum": [
-                "8.1",
-                "2.9",
-                "3.7",
-                "3.6",
-                "3.9",
-                "3.5",
-                "142.9",
-                "56",
-                "73.7",
-                "81.6",
-                "87.2",
-                "74.2",
-                "9.3",
-                "9.1",
-                "8.8",
-                "8.5",
-                "8.2",
+                "8.4",
+                "7.3",
                 "7.9",
-                "7.5",
-                "7.1",
-                "6.8",
+                "8",
+                "4.6",
+                "464.8",
+                "440.6",
+                "487.5",
+                "525.6",
+                "326.8",
+                "8.2",
+                "8.5",
+                "8.6",
+                "7.8",
+                "7.4",
+                "7",
+                "6.6",
                 "6.4",
-                "6.1",
+                "6.2",
+                "6",
                 "5.9",
-                "5.6",
-                "5.5",
-                "5.3",
-                "5.1",
-                "5",
-                "4.9",
-                "157.4",
-                "155.6",
-                "152.2",
-                "147.8",
-                "143.3",
-                "139.2",
-                "135.2",
-                "131.4",
-                "127.7",
-                "124.7",
-                "122.5",
-                "121.4",
-                "120.5",
-                "119.6",
-                "118.2",
-                "116.2",
-                "114.6",
-                "111.3",
-                "107.4",
-                "104",
-                "102",
+                "6.1",
+                "6.3",
+                "6.5",
+                "6.8",
+                "7.1",
+                "455.5",
+                "488.4",
+                "508.6",
+                "516.7",
+                "515.3",
+                "506.7",
+                "491.1",
+                "475.5",
+                "461.2",
+                "448.1",
+                "436.6",
+                "429.2",
+                "422.8",
+                "418.2",
+                "417.1",
+                "420.8",
+                "427.2",
+                "438",
+                "453.6",
+                "474.2",
+                "499.5",
                 ""
               ]
             },
@@ -106,57 +117,52 @@
             "constraints": {
               "enum": [
                 "6.5",
-                "2",
-                "2.7",
-                "2.9",
-                "2.8",
-                "2.4",
-                "114.3",
-                "39.7",
-                "53.8",
-                "64.4",
-                "63.3",
-                "50.8",
-                "6",
-                "5.9",
-                "5.8",
-                "5.6",
-                "5.5",
                 "5.3",
-                "5.1",
+                "6.1",
+                "6",
+                "3.8",
+                "360.1",
+                "317.3",
+                "381",
+                "398.3",
+                "264.1",
+                "5.6",
+                "5.8",
+                "5.9",
+                "5.2",
                 "4.9",
-                "4.7",
                 "4.5",
-                "4.3",
-                "4.1",
+                "4.2",
                 "3.9",
                 "3.7",
-                "3.6",
-                "3.4",
+                "3.5",
+                "3.3",
                 "3.2",
                 "3.1",
                 "3",
-                "100.7",
-                "100.4",
-                "99.2",
-                "97.3",
-                "95.3",
-                "93.6",
-                "91.9",
-                "90.2",
-                "88.3",
-                "86.7",
-                "85.4",
-                "84.6",
-                "83.5",
-                "82.1",
-                "80",
-                "77",
-                "74",
-                "69.7",
-                "64.9",
-                "60.2",
-                "56.1",
+                "2.9",
+                "2.8",
+                "312",
+                "336.1",
+                "350.8",
+                "355.7",
+                "352.9",
+                "344.9",
+                "331",
+                "315.3",
+                "299.7",
+                "285",
+                "270.7",
+                "257.8",
+                "245.1",
+                "233.4",
+                "223.4",
+                "215.3",
+                "208.1",
+                "203",
+                "199.8",
+                "198",
+                "197.1",
                 ""
               ]
             },
@@ -167,12 +173,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimbabwe demographic and health survey 2005-06. Demographic and Health Surveys. Calverton, Maryland: CSO and Macro International Inc., 2007",
-                "Zimbabwe multiple indicator monitoring survey (MIMS), 2009. Report August 2010. Harare, Zimbabwe: ZIMSTAT, 2010",
-                "Zimbabwe demographic and health survey 2010-11. Demographic and Health Surveys. Calverton, Maryland: ZIMSTAT and ICF International Inc., 2012",
-                "Zimbabwe Multiple Indicator Cluster Survey 2014, Final Report. Harare, Zimbabwe",
-                "Zimbabwe Demographic and Health Survey 2015: Final Report. Rockville, Maryland, USA: Zimbabwe National Statistics Agency (ZIMSTAT) and ICF International.",
-                "Zimbabwe Multiple Indicator  Cluster Survey 2019, Survey Findings Report. Harare, Zimbabwe: ZIMSTAT and UNICEF",
+                "Kenya multiple indicator cluster survey 2000 (MICS). Government  of Kenya and Unicef. Nairobi, Kenya, 2002",
+                "Kenya demographic and health survey 2003. Demographic and Health Surveys. Calverton, Maryland: CBS, MOH, and ORC Macro, 2004",
+                "Kenya integrated household budget survey (KIHBS), 2005/06: Revised edition, basic report. Nairobi, Kenya 2006",
+                "Kenya demographic and health survey 2008-09. Demographic and Health Surveys. Calverton, Maryland: KNBS and ICF Macro, 2010",
+                "Kenya 2011 National Micronutrient Survey",
+                "Kenya demographic and health Survey (2014 KDHS): Final Report. Demongraphic and Health Surveys. Nairobi, Kenya: KNBS, Ministry of Health, NACC, KEMRI, NCPD, 2015",
                 "Source: Joint Child Malnutrition Estimates (2021 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group.",
                 ""
               ]
@@ -223,14 +229,26 @@
             "title": "Nature of data points"
           },
           {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Reduced age range Age 0-5 months not covered; unadjusted",
+                "The estimates for the year 2020 do not account for the full impact of COVID-19.  Household survey data on child height and age were not collected in 2020 due to physical distancing policies. One of the covariates used in the country model takes the impact of COVID-19 partially into account. , Figure is a modelled estimate. For primary sources, please refer to the metadata.",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
             "name": "Upper bound value",
             "type": "string",
             "constraints": {
               "enum": [
-                "3.5",
-                "74.2",
-                "4.9",
-                "102",
+                "4.6",
+                "326.8",
+                "7.1",
+                "499.5",
                 ""
               ]
             },
@@ -241,10 +259,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2.4",
-                "50.8",
-                "2.7",
-                "56.1",
+                "3.8",
+                "264.1",
+                "2.8",
+                "197.1",
                 ""
               ]
             },
@@ -255,37 +273,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimbabwe Multiple Indicator  Cluster Survey 2019, Survey Findings Report. Harare, Zimbabwe: ZIMSTAT and UNICEF",
+                "Kenya demographic and health Survey (2014 KDHS): Final Report. Demongraphic and Health Surveys. Nairobi, Kenya: KNBS, Ministry of Health, NACC, KEMRI, NCPD, 2015",
                 "Source: Joint Child Malnutrition Estimates (2021 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group.",
                 ""
               ]
             },
             "title": "Source details"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oedema data was not considered in the analysis ",
-                "The estimates for the year 2020 do not account for the full impact of COVID-19.  Household survey data on child height and age were not collected in 2020 due to physical distancing policies. One of the covariates used in the country model takes the impact of COVID-19 partially into account. , Figure is a modelled estimate. For primary sources, please refer to the metadata.",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oedema data was not considered in the analysis ",
-                "Figure is a modelled estimate. For primary sources, please refer to the metadata.",
-                "The estimates for the year 2020 do not account for the full impact of COVID-19.  Household survey data on child height and age were not collected in 2020 due to physical distancing policies. One of the covariates used in the country model takes the impact of COVID-19 partially into account. , Figure is a modelled estimate. For primary sources, please refer to the metadata.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

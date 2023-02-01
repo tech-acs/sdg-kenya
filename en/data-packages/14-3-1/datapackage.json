@@ -12,8 +12,191 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UpperBound = NaN;  LowerBound = NaN;  Mooring Name: Coral Garden | LATITUDE: -4.00 | LONGITUDE: 39.75; Upper and lower bounds where not provided.",
+                "Mooring Name:  Diani | LATITUDE: -4.34 | LONGITUDE: 39.58",
+                "Mooring Name: Diani | LATITUDE: -4.344 | LONGITUDE: 39.579",
+                "Mooring Name:  Gazi | LATITUDE: -4.46 | LONGITUDE: 39.53",
+                "Mooring Name: Gazi | LATITUDE: -4.456 | LONGITUDE: 39.527",
+                "UpperBound = NaN;  LowerBound = NaN;  Mooring Name:  Kilifi bay | LATITUDE: -3.62 | LONGITUDE: 39.88",
+                "Mooring Name:  Kuruwitu | LATITUDE: -3.81| LONGITUDE: 39.84",
+                "Mooring Name: Kuruwitu | LATITUDE: -3.812 | LONGITUDE: 39.837",
+                "Mooring Name:  Malindi | LATITUDE: -3.23 | LONGITUDE: 40.14",
+                "Mooring Name: Malindi | LATITUDE: -3.235 | LONGITUDE: 40.137",
+                "Mooring Name:  Nyali | LATITUDE: -4.06 | LONGITUDE: 39.72",
+                "Mooring Name:  Shimoni | LATITUDE: -4.46 | LONGITUDE: 39.53",
+                "Mooring Name: Shimoni | LATITUDE: -4.665 | LONGITUDE: 39.344",
+                "Mooring Name: Kilifi | LATITUDE: -3.624 | LONGITUDE: 39.884",
+                "Mooring Name: Lamu | LATITUDE: -2.217 | LONGITUDE: 40.979",
+                "Mooring Name: Mombasa | LATITUDE: -4.002 | LONGITUDE: 39.750",
+                "Mooring Name: Vanga | LATITUDE: -4.675 | LONGITUDE: 39.268",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Custom Breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Custom code 01",
+                "Custom code 02",
+                "Custom code 03",
+                "Custom code 04",
+                "Custom code 05",
+                "Custom code 06",
+                "Custom code 07",
+                "Custom code 08",
+                "Custom code 09",
+                "Custom code 10",
+                "Custom code 11",
+                "Custom code 12",
+                ""
+              ]
+            },
+            "title": "Custom Breakdown"
+          },
+          {
+            "name": "Label for custom breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Coral Garden",
+                "Diani",
+                "Gazi",
+                "Kilifi bay",
+                "Kuruwitu",
+                "Malindi",
+                "Nyali",
+                "Shimoni",
+                "Kilifi",
+                "Lamu",
+                "Mombasa",
+                "Vanga",
+                ""
+              ]
+            },
+            "title": "Label for custom breakdown"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UpperBound = NaN;  LowerBound = NaN;  Mooring Name: Coral Garden | LATITUDE: -4.00 | LONGITUDE: 39.75; Upper and lower bounds where not provided.",
+                "Mooring Name: Diani | LATITUDE: -4.344 | LONGITUDE: 39.579",
+                "Mooring Name: Gazi | LATITUDE: -4.456 | LONGITUDE: 39.527",
+                "UpperBound = NaN;  LowerBound = NaN;  Mooring Name:  Kilifi bay | LATITUDE: -3.62 | LONGITUDE: 39.88",
+                "Mooring Name: Kuruwitu | LATITUDE: -3.812 | LONGITUDE: 39.837",
+                "Mooring Name: Malindi | LATITUDE: -3.235 | LONGITUDE: 40.137",
+                "Mooring Name:  Nyali | LATITUDE: -4.06 | LONGITUDE: 39.72",
+                "Mooring Name: Shimoni | LATITUDE: -4.665 | LONGITUDE: 39.344",
+                "Mooring Name: Kilifi | LATITUDE: -3.624 | LONGITUDE: 39.884",
+                "Mooring Name: Lamu | LATITUDE: -2.217 | LONGITUDE: 40.979",
+                "Mooring Name: Mombasa | LATITUDE: -4.002 | LONGITUDE: 39.750",
+                "Mooring Name: Vanga | LATITUDE: -4.675 | LONGITUDE: 39.268",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "8.021",
+                "8.123",
+                "8.076",
+                "8.067",
+                "7.908",
+                "8.063",
+                "7.983",
+                "8.104",
+                "7.903",
+                "8.019",
+                "8.049",
+                "7.993",
+                "7.989",
+                "8.065",
+                "8.015",
+                ""
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7.804",
+                "7.947",
+                "7.881",
+                "7.923",
+                "7.892",
+                "7.924",
+                "7.814",
+                "7.946",
+                "7.894",
+                "7.901",
+                "7.918",
+                "7.944",
+                "7.95",
+                "8.012",
+                "7.89",
+                ""
+              ]
+            },
+            "title": "LOWER_BOUND"
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "8.123",
+                "8.067",
+                "8.063",
+                "8.104",
+                "7.903",
+                "8.049",
+                "7.993",
+                "7.989",
+                "8.065",
+                "8.015",
+                ""
+              ]
+            },
+            "title": "Upper bound value"
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7.947",
+                "7.923",
+                "7.924",
+                "7.946",
+                "7.894",
+                "7.918",
+                "7.944",
+                "7.95",
+                "8.012",
+                "7.89",
+                ""
+              ]
+            },
+            "title": "Lower bound value"
           },
           {
             "name": "Value",

@@ -15,6 +15,114 @@
             "type": "integer"
           },
           {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "G",
+                "C",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Third quarter of the specified year.",
+                "Third quarter of the specified year. Global SmaRT Average: 5.20%.",
+                "Third quarter of the specified year. Global SmaRT Average: 5:80%.",
+                "Third quarter of the specified year. Global SmaRT Average: 4.65%.",
+                "Third quarter of the specified year. Global SmaRT Average: 4.47%.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "World Development Indicators database, World Bank.",
+                "Remittance Prices Worldwide database, World Bank.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted [10.c.1]",
+                "Average remittance costs of sending $200 in a corridor as a proportion of the amount remitted [10.c.1]",
+                "SmaRT average remittance costs of sending $200 in a corridor as a proportion of the amount remitted [10.c.1]",
+                "Average remittance costs of sending $200 for a sending country as a proportion of the amount remitted [10.c.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Custom Breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Custom code 646",
+                "Custom code 728",
+                "Custom code 800",
+                "Custom code 834",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global monitoring data",
+                "Country Data",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Third quarter of the specified year.",
+                "Third quarter of the specified year. Global SmaRT Average: 4.47%.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "World Development Indicators database, World Bank.",
+                "Remittance Prices Worldwide database, World Bank.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Label for custom breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rwanda",
+                "South Sudan",
+                "Uganda",
+                "United Republic of Tanzania",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

@@ -26,6 +26,17 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised",
+                "Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -51,6 +62,7 @@
                 "Craft and related trades workers",
                 "Plant and machine operators, and assemblers",
                 "Elementary occupations",
+                "Not elsewhere classified",
                 ""
               ]
             }
@@ -58,6 +70,17 @@
           {
             "name": "Observation status",
             "type": "string"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES)",
+                "Repository: ILO-STATISTICS - Micro data processing | Local currency: KEN - Kenyan shilling(KES) | Break in series: Methodology revised",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

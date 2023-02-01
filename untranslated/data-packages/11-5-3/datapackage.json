@@ -15,16 +15,39 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.",
+                "Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Number of disruptions to basic services attributed to disasters [11.5.3]",
                 "Number of damaged critical infrastructure attributed to disasters [11.5.3]",
-                "Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters [11.5.3]",
                 "Number of destroyed or damaged educational facilities attributed to disasters [11.5.3]",
+                "Number of disruptions to educational services attributed to disasters [11.5.3]",
                 "Number of destroyed or damaged health facilities attributed to disasters [11.5.3]",
+                "Number of disruptions to health services attributed to disasters [11.5.3]",
                 "Number of disruptions to other basic services attributed to disasters [11.5.3]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.",
+                "Obs_Value = 0;  Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.",
                 ""
               ]
             }

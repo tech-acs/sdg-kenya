@@ -12,58 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data reference period: Noncalendar year | Coverage of occupational injuries: Reported injuries",
-                "Data reference period: Noncalendar year | Coverage of occupational injuries: Reported injuries | Type of rate: Incidence rate (per 100'000 persons insured)",
-                "Data reference period: End of the year | Coverage of occupational injuries: Compensated injuries | Type of cases of occupational injuries: Cases of occupational injury | Time period for occurrence of death: Deaths occurring within 1 year",
-                "Data reference period: End of the year | Coverage of occupational injuries: Compensated injuries | Type of cases of occupational injuries: Cases of occupational injury | Minimum period of absence from work: No minimum period of absence",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fatal occupational injuries among employees (rate) [8.8.1]",
-                "Non-fatal occupational injuries among employees (rate) [8.8.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data reference period: End of the year | Coverage of occupational injuries: Compensated injuries | Type of cases of occupational injuries: Cases of occupational injury | Time period for occurrence of death: Deaths occurring within 1 year",
-                "Data reference period: End of the year | Coverage of occupational injuries: Compensated injuries | Type of cases of occupational injuries: Cases of occupational injury | Minimum period of absence from work: No minimum period of absence",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

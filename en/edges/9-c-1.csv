@@ -1,3 +1,5 @@
 From,To
 NATURE,SOURCE_DETAIL
 SOURCE_DETAIL,SDG Series
+SDG Series,Observation-level footnotes
+Observation-level footnotes,COMMENT_OBS

@@ -21,6 +21,7 @@
               "enum": [
                 "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]",
                 "Protected marine area (Exclusive Economic Zones) (square kilometres) [14.5.1]",
+                "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas [14.5.1]",
                 ""
               ]
             }
@@ -37,8 +38,48 @@
             }
           },
           {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "40.4447",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "40.4447",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "40.4447",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "40.4447",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

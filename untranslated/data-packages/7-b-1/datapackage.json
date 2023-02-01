@@ -31,8 +31,10 @@
             "constraints": {
               "enum": [
                 "Type of renewable technology: Bioenergy",
+                "Type of renewable technology: Geothermal energy",
                 "Type of renewable technology: Hydropower",
                 "Type of renewable technology: Solar energy",
+                "Type of renewable technology: Wind energy",
                 ""
               ]
             }

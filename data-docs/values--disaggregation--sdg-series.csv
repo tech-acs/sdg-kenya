@@ -1,24 +1,23 @@
 Value,Disaggregation combinations using this value,Number of indicators
 Above-ground biomass in forest (tonnes per hectare) [15.2.1],1,1
 Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1],4,1
-"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",225,1
+"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",174,1
 "Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio) [4.5.1]",2,1
-"Adjusted gender parity index for the proportion of teachers with the minimum required qualifications, by education level (ratio) [4.5.1]",3,1
-"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",215,1
-Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1],2,1
+"Adjusted gender parity index for the proportion of teachers with the minimum required qualifications, by education level (ratio) [4.5.1]",8,1
+"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",174,1
 Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1],2,1
-"Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",105,1
+"Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",84,1
 Age-standardized mortality rate attributed to ambient air pollution [3.9.1],1,1
 Age-standardized mortality rate attributed to household air pollution [3.9.1],1,1
 Age-standardized mortality rate attributed to household and ambient air pollution [3.9.1],1,1
-Agriculture orientation index for government expenditures [2.a.1],3,1
+Agriculture orientation index for government expenditures [2.a.1],4,1
 Agriculture share of Government Expenditure [2.a.1],3,1
 Agriculture value added share of GDP [2.a.1],2,1
 Amount of tracked exported Environmentally Sound Technologies [17.7.1],1,1
 Amount of tracked imported Environmentally Sound Technologies [17.7.1],1,1
 Amount of tracked re-exported Environmentally Sound Technologies [17.7.1],1,1
-"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",3,1
-"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",3,1
+"Amount of United States dollars committed to public-private partnerships for infrastructure, USD nominal [17.17.1]",2,1
+"Amount of United States dollars committed to public-private partnerships for infrastructure, USD real [17.17.1]",2,1
 Annual broad money growth (%) [17.13.1],1,1
 Annual forest area change rate (%) [15.2.1],1,1
 Annual GDP growth (%) [17.13.1],1,1
@@ -28,10 +27,22 @@ Annual growth of imports of goods and services (%) [17.13.1],1,1
 Annual growth of the general government final consumption expenditure (%) [17.13.1],1,1
 Annual growth of the gross capital formation (%) [17.13.1],1,1
 "Annual inflation, consumer prices (%) [17.13.1]",1,1
-Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],3,1
-Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],3,1
+Average income of large-scale food producers [2.3.2],3,1
+Average income of small-scale food producers [2.3.2],3,1
+Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],8,1
+Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas [14.5.1],1,1
+Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],8,1
+Average remittance costs of sending $200 for a sending country as a proportion of the amount remitted [10.c.1],1,1
+Average remittance costs of sending $200 in a corridor as a proportion of the amount remitted [10.c.1],4,1
+Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted [10.c.1],1,1
 "Average tariff applied by developed countries, most-favored nation status, by type of product (%)  [17.12.1]",6,1
-"Average tariff applied by developed countries, preferential status, by type of product (%)  [17.12.1]",7,1
+"Average tariff applied by developed countries, preferential status, by type of product (%)  [17.12.1]",6,1
+Bank capital to assets ratio (%) [17.13.1],1,1
+Beach litter originating from national land-based sources that ends in the beach (%) [14.1.1],1,1
+Beach litter originating from national land-based sources that ends in the beach (Tonnes) [14.1.1],1,1
+Beach litter originating from national land-based sources that ends in the ocean (%) [14.1.1],1,1
+Beach litter originating from national land-based sources that ends in the ocean (Tonnes) [14.1.1],1,1
+Beach litter per square kilometer (Number) [14.1.1],1,1
 Broad money to total reserves ratio [17.13.1],1,1
 Carbon dioxide emissions from fuel combustion [9.4.1],2,1
 Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant United States dollars) [9.4.1],1,1
@@ -40,24 +51,25 @@ Cash surplus/deficit as a proportion of GDP [17.13.1],1,1
 Children moderately or severely overweight (number) [2.2.2],21,1
 Children moderately or severely stunted (number) [2.2.1],21,1
 Children moderately or severely wasted (number) [2.2.2],6,1
+"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",2,1
+"Chlorophyll-a deviations, remote sensing  [14.1.1]",1,1
 Compliance with the Basel Convention on hazardous waste and other chemicals [12.4.1],1,1
 Compliance with the Montreal Protocol on hazardous waste and other chemicals [12.4.1],1,1
 Compliance with the Rotterdam Convention on hazardous waste and other chemicals [12.4.1],1,1
 Compliance with the Stockholm Convention on hazardous waste and other chemicals [12.4.1],1,1
+Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],1,1
 Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1],1,1
 Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO) [15.6.1],1,1
+Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1],2,1
 Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2],1,1
-"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1]",2,1
+"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1]",1,1
 "Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO) [15.6.1]",1,1
-"Countries with an allocation from the national budget to manage the threat of invasive alien species (1 = YES, 0 = NO) [15.8.1]",1,1
 Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2],1,1
 Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2],1,1
+"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",2,1
 "Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO) [16.a.1]",1,1
-Countries with national statistical plans that are fully funded (1 = YES; 0 = NO) [17.18.3],1,1
-Countries with national statistical plans that are under implementation (1 = YES; 0 = NO) [17.18.3],1,1
-Countries with national statistical plans with funding from donors (1 = YES; 0 = NO) [17.18.3],1,1
-Countries with national statistical plans with funding from Government (1 = YES; 0 = NO) [17.18.3],1,1
 "Countries with no application for accreditation with the Paris Principles, D status  (1 = YES; 0 = NO) [16.a.1]",1,1
+Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],1,1
 "Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA) [6.b.1]",1,1
 "Countries with procedures in law or policy for participation by service users/communities in planning program in water resources planning and management, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA) [6.b.1]",1,1
 Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO) [12.1.1],1,1
@@ -73,27 +85,29 @@ Degree of integrated water resources management implementation (%) [6.5.1],1,1
 "Degree of integrated water resources management implementation, financing (%) [6.5.1]",1,1
 "Degree of integrated water resources management implementation, institutions and participation (%) [6.5.1]",1,1
 "Degree of integrated water resources management implementation, management instruments (%) [6.5.1]",1,1
+"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",4,1
+Detected victims of human trafficking (number) [16.2.2],1,1
 "Direct agriculture loss attributed to disasters [1.5.2, 11.5.2]",2,2
 "Direct economic loss attributed to disasters [1.5.2,11.5.2]",2,2
 "Direct economic loss attributed to disasters relative to GDP [1.5.2, 11.5.2]",2,2
+"Direct economic loss in the housing sector attributed to disasters, by hazard type [1.5.2, 11.5.2]",2,2
 "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters [1.5.2, 11.5.2]",2,2
-"Domestic material consumption [8.4.2,12.2.2]",36,2
-"Domestic material consumption per capita, by type of raw material [8.4.2,12.2.2]",36,2
-"Domestic material consumption per unit of GDP [8.4.2,12.2.2]",36,2
-"Electronic waste collected, per capita (KG) [12.4.2]",1,1
-Electronic waste collected (Tonnes) [12.4.2],1,1
-Electronic waste collection rate (%) [12.4.2],1,1
+"Direct economic loss to cultural heritage damaged or destroyed attributed to disasters [1.5.2, 11.5.2]",2,2
+"Direct economic loss to other damaged or destroyed productive assets attributed to disasters [1.5.2, 11.5.2]",2,2
+"Domestic material consumption [8.4.2,12.2.2]",38,2
+"Domestic material consumption per capita, by type of raw material [8.4.2,12.2.2]",38,2
+"Domestic material consumption per unit of GDP [8.4.2,12.2.2]",38,2
 "Electronic waste generated, per capita (Kg) [12.4.2]",1,1
 Electronic waste generated (Tonnes) [12.4.2],1,1
 Employed population below international poverty line [1.1.1],9,1
-Extent of human made wetlands (square kilometres) [6.6.1],1,1
+Exported beach litter originating from national land-based sources (Tonnes) [14.1.1],1,1
 Extent of inland wetlands (square kilometres) [6.6.1],1,1
 Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient (%)  [17.15.1],1,1
 "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education [5.6.2]",1,1
 External debt stocks as a proportion of GNI (%) [17.13.1],1,1
-Fatal occupational injuries among employees (rate) [8.8.1],7,1
-Fixed broadband subscriptions (number) [17.6.1],10,1
-Fixed broadband subscriptions per 100 inhabitants [17.6.1],4,1
+Fixed broadband subscriptions (number) [17.6.1],25,1
+Fixed broadband subscriptions per 100 inhabitants [17.6.1],5,1
+Floating plastic debris density (count per km2) [14.1.1],3,1
 Food waste [12.3.1],3,1
 Food waste per capita [12.3.1],3,1
 "Foreign direct investment, net inflows, as a proportion of GDP (%) [17.13.1]",1,1
@@ -103,14 +117,16 @@ Forest area (hectares) [15.1.1],1,1
 Fossil-fuel subsidies (consumption and production) [12.c.1],1,1
 Fossil-fuel subsidies (consumption and production) as a proportion of total GDP [12.c.1],1,1
 Fossil-fuel subsidies (consumption and production) per capita [12.c.1],1,1
-Freight volume (tonne kilometres) [9.1.2],5,1
-Gender parity index for youth/adults with information and communications technology (ICT) skills [4.5.1],11,1
+Freight volume (tonne kilometres) [9.1.2],4,1
+"Hazardous waste generated, per capita (Kg) [12.4.2]",1,1
+"Hazardous waste generated, per unit of GDP [12.4.2]",1,1
+Hazardous waste generated (Tonnes) [12.4.2],1,1
+Hazardous waste treated and by type of treatment (Tonnes) [12.4.2],3,1
+"Hazardous waste treated or disposed, rate (%) [12.4.2]",1,1
+Hazardous waste treated or disposed (Tonnes) [12.4.2],1,1
 "Health worker density, by type of occupation (per 10,000 population) [3.c.1]",4,1
 "Health worker distribution, by sex and type of occupation [3.c.1]",4,1
-Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables) [12.b.1],1,1
-Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Total number of tables) [12.b.1],1,1
-Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables) [12.b.1],1,1
-Indicator of Food Price Anomalies (IFPA) [2.c.1],3,1
+Indicator of Food Price Anomalies (IFPA) [2.c.1],2,1
 "Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index [2.c.1]",1,1
 Infant deaths (number) [3.2.1],3,1
 Infant mortality rate [3.2.1],3,1
@@ -127,100 +143,106 @@ Land area (hectares) [15.1.1],3,1
 "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 3: employment and economic benefits. [5.1.1]",1,1
 "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 4: marriage and family. [5.1.1]",1,1
 "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 2: violence against women. [5.1.1]",1,1
-"Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO) [15.8.1]",2,1
+"Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO) [15.8.1]",3,1
+Mangrove area baseline (square kilometres) [6.6.1],2,1
+Mangrove area gain (%) [6.6.1],2,1
+Mangrove area gain (square kilometres) [6.6.1],2,1
+Mangrove area loss (%) [6.6.1],2,1
+Mangrove area loss (square kilometres) [6.6.1],2,1
+Mangrove area (square kilometres) [6.6.1],2,1
+Mangrove total area change (%) [6.6.1],2,1
 Manufacturing value added as a proportion of GDP [9.2.1],2,1
 Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1],1,1
 Manufacturing value added per capita [9.2.1],2,1
 Merchandise trade as a proportion of GDP (%) [17.13.1],1,1
 "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",15,1
-Municipal waste collected (Tonnes) [12.4.2],1,1
-"Municipal waste treated, by type of treatment (%) [12.4.2]",6,1
+Municipal waste collected (Tonnes) [12.4.2],2,1
+Municipal waste generated (Tonnes) [12.4.2],2,1
 "National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1 = YES, 0 = NO) [15.8.1]",1,1
 Neonatal deaths (number) [3.2.2],1,1
 Neonatal mortality rate [3.2.2],1,1
-Non-fatal occupational injuries among employees (rate) [8.8.1],6,1
+Net open position in foreign exchange to capital (%) [10.5.1],1,1
+Non-performing loans net of provisions to capital (%) [10.5.1],1,1
+Non-performing loans to total gross loans (%) [10.5.1],1,1
 "Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",1,1
-"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral [16.7.1]",5,1
-"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber [16.7.1]",5,1
+"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral [16.7.1]",4,1
+"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber [16.7.1]",4,1
 "Number of commercial bank branches per 100,000 adults [8.10.1]",1,1
-Number of damaged critical infrastructure attributed to disasters [11.5.3],1,1
+Number of damaged critical infrastructure attributed to disasters [11.5.3],2,1
 "Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",3,3
 "Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",3,3
 Number of deaths attributed to suicide [3.4.2],15,1
 "Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",3,3
-Number of destroyed or damaged educational facilities attributed to disasters [11.5.3],1,1
+Number of destroyed or damaged educational facilities attributed to disasters [11.5.3],2,1
 Number of destroyed or damaged health facilities attributed to disasters [11.5.3],1,1
-"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",6,3
-Number of disruptions to basic services attributed to disasters [11.5.3],1,1
+"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",3,3
+Number of disruptions to basic services attributed to disasters [11.5.3],2,1
+Number of disruptions to educational services attributed to disasters [11.5.3],2,1
+Number of disruptions to health services attributed to disasters [11.5.3],2,1
 Number of disruptions to other basic services attributed to disasters [11.5.3],1,1
-"Number of local governments [1.5.4, 11.b.2, 13.1.3]",3,3
-"Number of local governments that adopt and implement local DRR strategies in line with national strategies [1.5.4, 11.b.2, 13.1.3]",3,3
-Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters [11.5.3],1,1
-"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",6,3
+"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",6,3
+Number of local breeds for which sufficient genetic resources are stored for reconstitution [2.5.1],2,1
+"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",6,3
+"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",3,3
 "Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",6,3
 "Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",6,3
-"Number of people whose livelihoods were disrupted or destroyed, attributed to disasters [1.5.1, 11.5.1, 13.1.1]",3,3
 "Number of policies, instruments and mechanism in place for sustainable consumption and production [12.1.1]",1,1
 Number of seats held by women in national parliaments [5.5.1],3,1
 "Number of speakers in parliament, by age and sex , Lower Chamber or Unicameral [16.7.1]",1,1
 "Number of speakers in parliament, by age and sex, Upper Chamber [16.7.1]",1,1
 Number of transboundary breeds for which sufficient genetic resources are stored for reconstitution [2.5.1],2,1
+Number of undernourish people [2.1.1],2,1
 Number of victims of intentional homicide [16.1.1],3,1
 "Number of victims of intentional homicide per 100,000 population [16.1.1]",3,1
+"Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral [16.7.1]",1,1
+"Number of youth in parliament (age 45 or below), Upper Chamber [16.7.1]",1,1
 Passenger volume (passenger kilometres) [9.1.2],3,1
-Plant genetic resources accessions stored ex situ (number) [2.5.1],3,1
+"Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested [3.d.2]",1,1
+Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested [3.d.2],1,1
+Plant genetic resources accessions stored ex situ (number) [2.5.1],4,1
 Population in moderate or severe food insecurity (number) [2.1.2],18,1
 Population in severe food insecurity (number) [2.1.2],18,1
 "Portfolio investment, net (Balance of Payments, current United States dollars) [17.13.1]",1,1
 Prevalence of moderate or severe food insecurity in the population [2.1.2],18,1
 Prevalence of severe food insecurity in the population [2.1.2],18,1
+Prevalence of undernourishment [2.1.1],2,1
 Proportion of adults (15 years and older) active in labor force with an account at a financial institution or mobile-money-service provider [8.10.2],1,1
 Proportion of adults (15 years and older) out of labor force with an account at a financial institution or mobile-money-service provider [8.10.2],1,1
 Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],11,1
 Proportion of bodies of water with good ambient water quality [6.3.2],1,1
-Proportion of children engaged in economic activity [8.7.1],3,1
-Proportion of children engaged in economic activity and household chores [8.7.1],3,1
-Proportion of children moderately or severely overweight [2.2.2],21,1
+Proportion of children moderately or severely overweight [2.2.2],18,1
 Proportion of children moderately or severely stunted [2.2.1],21,1
 Proportion of children moderately or severely wasted [2.2.2],6,1
 Proportion of children/households receiving child/family cash benefit [1.3.1],1,1
 Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],1,1
-Proportion of employed population covered in the event of work injury [1.3.1],3,1
+Proportion of employed population covered in the event of work injury [1.3.1],1,1
 Proportion of forest area with a long-term management plan [15.2.1],1,1
 Proportion of forest area within legally established protected areas [15.2.1],1,1
-"Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies [1.5.4, 11.b.2, 13.1.3]",3,3
-"Proportion of members of developing countries in international organizations, by organization [10.6.1, 16.8.1]",102,2
-Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],2,1
-Proportion of people with secure tenure rights to land out of total adult population [1.4.2],2,1
+Proportion of groundwater bodies with good ambient water quality [6.3.2],1,1
+"Proportion of members of developing countries in international organizations, by organization [10.6.1, 16.8.1]",100,2
+Proportion of mothers with newborns receiving maternity cash benefit [1.3.1],1,1
+Proportion of open water bodies with good ambient water quality [6.3.2],2,1
+Proportion of poor population receiving social assistance cash benefit [1.3.1],1,1
 Proportion of population above statutory pensionable age receiving a pension [1.3.1],1,1
-Proportion of population below international poverty line [1.1.1],10,1
-Proportion of population covered by at least a 2G mobile network [9.c.1],3,1
-Proportion of population covered by at least a 3G mobile network [9.c.1],2,1
-Proportion of population covered by at least a 4G mobile network [9.c.1],2,1
+Proportion of population below international poverty line [1.1.1],11,1
+Proportion of population covered by at least a 2G mobile network [9.c.1],6,1
+Proportion of population covered by at least a 3G mobile network [9.c.1],4,1
+Proportion of population covered by at least a 4G mobile network [9.c.1],4,1
 Proportion of population covered by at least one social protection benefit [1.3.1],1,1
-Proportion of population covered by labour market programs [1.3.1],2,1
 Proportion of population covered by social assistance programs [1.3.1],2,1
 Proportion of population covered by social insurance programs [1.3.1],2,1
-Proportion of population practicing open defecation [6.2.1],4,1
+Proportion of population practicing open defecation [6.2.1],3,1
 Proportion of population using basic drinking water services [1.4.1],3,1
 Proportion of population using basic sanitation services [1.4.1],3,1
-Proportion of population using safely managed sanitation services [6.2.1],3,1
+Proportion of population using safely managed sanitation services [6.2.1],1,1
 Proportion of population with basic handwashing facilities on premises [6.2.1],3,1
-Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2],1,1
-Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2],1,1
+Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2],2,1
+Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2],2,1
 Proportion of population with severe disabilities receiving disability cash benefit [1.3.1],1,1
 Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient [17.15.1],1,1
 Proportion of results indicators drawn from country-led results frameworks - data by recipient (%) [17.15.1],1,1
 Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient (%) [17.15.1],1,1
 Proportion of river water bodies with good ambient water quality [6.3.2],1,1
-Proportion of safely treated domestic wastewater flows [6.3.1],1,1
-"Proportion of schools with access to access to single-sex basic sanitation, by education level [4.a.1]",3,1
-Proportion of schools with access to adapted infrastructure and materials for students with disabilities [4.a.1],3,1
-"Proportion of schools with access to basic drinking water, by education level [4.a.1]",3,1
-"Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",4,1
-"Proportion of schools with access to electricity, by education level [4.a.1]",5,1
-"Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",4,1
-"Proportion of schools with basic handwashing facilities, by education level [4.a.1]",3,1
 Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1],3,1
 Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],1,1
 "Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) [3.b.1]",1,1
@@ -231,28 +253,37 @@ Proportion of transboundary aquifers with an operational arrangement for water c
 Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2],1,1
 Proportion of transboundary river and lake basins with an operational arrangement for water cooperation [6.5.2],1,1
 Proportion of unemployed persons receiving unemployment cash benefit [1.3.1],3,1
-"Proportion of voting rights of developing countries in international organizations, by organization [10.6.1, 16.8.1]",102,2
+"Proportion of voting rights of developing countries in international organizations, by organization [10.6.1, 16.8.1]",100,2
 Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],1,1
-Proportion of wastewater treated [6.3.1],1,1
 Proportion of women aged 15-49 years with anaemia [2.2.3],20,1
 "Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",20,1
 "Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",20,1
 Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],1,1
 Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],1,1
-Proportion of women in managerial positions [5.5.2],3,1
-Proportion of women in senior and middle management positions [5.5.2],2,1
-Proportion of women who make their own informed decisions regarding contraceptive use (% of women aged 15-49 years) [5.6.1],3,1
-Proportion of women who make their own informed decisions regarding reproductive health care (% of women aged 15-49 years) [5.6.1],3,1
-Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],3,1
-"Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years) [5.6.1]",3,1
+Proportion of women in managerial positions [5.5.2],2,1
+Proportion of women in senior and middle management positions [5.5.2],1,1
+Proportion of women who make their own informed decisions regarding contraceptive use (% of women aged 15-49 years) [5.6.1],1,1
+Proportion of women who make their own informed decisions regarding reproductive health care (% of women aged 15-49 years) [5.6.1],1,1
+Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],1,1
+"Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years) [5.6.1]",1,1
+"Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral [16.7.1]",1,1
+"Proportion of youth in parliament (age 45 or below), Upper Chamber [16.7.1]",1,1
+Proportions of positions in the judiciary compared to national distributions [16.7.1],4,1
+"Proportions of positions in the judiciary compared to national distributions, Constitutional Court [16.7.1]",2,1
+"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",2,1
+"Proportions of positions in the judiciary compared to national distributions, Lower Courts [16.7.1]",2,1
 Protected marine area (Exclusive Economic Zones) (square kilometres) [14.5.1],1,1
 "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]",2,1
 "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",2,1
-"Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species  management (1 = YES, 0 = NO) [15.8.1]",1,1
+"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]",2,1
+"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",2,1
+Regulatory capital to assets (%) [10.5.1],1,1
+Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],1,1
 Reservoir maximum water area (% of total land area) [6.6.1],1,1
 Reservoir maximum water area (square kilometres) [6.6.1],1,1
 Reservoir minimum water area (% of total land area) [6.6.1],1,1
 Reservoir minimum water area (square kilometres) [6.6.1],1,1
+Return on assets (%) [10.5.1],1,1
 "(S.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 1: Maternity Care [5.6.2]",1,1
 "(S.1.C.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 1: Maternity Care [5.6.2]",1,1
 "(S.1.C.2) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 2: Life Saving Commodities [5.6.2]",1,1
@@ -271,6 +302,7 @@ Reservoir minimum water area (square kilometres) [6.6.1],1,1
 "(S.4.C.12) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 12: HIV Confidentiality [5.6.2]",1,1
 "(S.4.C.13) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 13: HPV Vaccine [5.6.2]",1,1
 "Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",1,1
+SmaRT average remittance costs of sending $200 in a corridor as a proportion of the amount remitted [10.c.1],13,1
 Suicide mortality rate [3.4.2],15,1
 Tax revenue as a proportion of GDP (%) [17.13.1],1,1
 Total government revenue as a proportion of GDP [17.1.1],1,1
@@ -281,14 +313,10 @@ Total government revenue as a proportion of GDP [17.1.1],1,1
 "Total official flows (disbursement) for Aid for Trade, by recipient countries [8.a.1]",1,1
 Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country [15.6.1],1,1
 Total reserves in months of imports (ratio) [17.13.1],1,1
-"Total waste generation, by activity (Tonnes) [12.4.2]",8,1
-Total wastewater generated (million m3/year) [6.3.1],5,1
-Total wastewater treated (million m3/year) [6.3.1],1,1
+"Total waste generation, by activity (Tonnes) [12.4.2]",4,1
 Under-five deaths (number) [3.2.1],3,1
 Under-five mortality rate [3.2.1],3,1
-Unemployment rate [8.5.2],36,1
-"Unemployment rate, by disability [8.5.2]",18,1
 Wetlands area (% of total land area) [6.6.1],1,1
 Wetlands area (square kilometres) [6.6.1],1,1
 "Worldwide weighted tariff-average, most-favoured-nation status [17.10.1]",7,1
-"Worldwide weighted tariff-average, preferential status [17.10.1]",8,1
+"Worldwide weighted tariff-average, preferential status [17.10.1]",7,1

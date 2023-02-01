@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of children engaged in economic activity [8.7.1]",
-                "Proportion of children engaged in economic activity and household chores [8.7.1]",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {

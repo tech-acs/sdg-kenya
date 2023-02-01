@@ -5,5 +5,5 @@ SDG Series,Composite breakdown
 Composite breakdown,Unit of measure
 Unit of measure,Nature of data points
 Nature of data points,Source details
-Source details,Observation-level footnotes
-Observation-level footnotes,COMMENT_OBS
+Source details,COMMENT_OBS
+COMMENT_OBS,Observation-level footnotes

@@ -1,22 +1,22 @@
-Year,NATURE,SOURCE_DETAIL,COMMENT_OBS,Value
-2000,C,"PTC, ZISPA, ITU estimate.",,0.40143
-2001,C,"PTC, ZISPA, ITU estimate.",,0.79985
-2002,E,ITU estimate.,,1.1
-2003,E,ITU estimate.,,1.8
-2004,E,ITU estimate.,,2.1
-2005,E,ITU estimate.,,2.4
-2006,E,ITU estimate.,,2.4
-2007,E,ITU estimate.,,3.0
-2008,E,ITU estimate.,,3.5
-2009,E,ITU estimate.,,4.0
-2010,E,ITU estimate.,,6.4
-2011,E,ITU estimate.,,8.4
-2012,E,ITU estimate.,,12.0
-2013,E,ITU estimate.,,15.5
-2014,C,Zimbabwe National Statistics Agency (ZIMSTAT),Population age 3+.,16.36474
-2015,E,ITU estimate.,,22.74282
-2016,E,ITU Estimate.,,23.11999
-2017,E,ITU estimate.,,24.4
-2018,E,ITU estimate.,,25.0
-2019,E,ITU estimate.,,25.1
-2020,C,Zimbabwe National Statistics Agency (ZIMSTAT),,29.3
+Year,NATURE,SOURCE_DETAIL,Value
+2000,E,"Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",0.31806
+2001,E,"Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",0.61978
+2002,E,"Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",1.20777
+2003,E,"Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",2.9419
+2004,E,"Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",3.02353
+2005,E,"Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",3.1019
+2006,E,ITU estimate.,3.6
+2007,E,ITU estimate.,4.4
+2008,E,ITU estimate.,5.2
+2009,C,Kenya National Bureau of Statistics,6.1
+2010,C,National Bureau of Statistics and Communications Commission of Kenya.,7.2
+2011,E,ITU estimate.,8.8
+2012,E,ITU estimate.,10.5
+2013,E,ITU estimate.,13.0
+2014,E,ITU estimate.,16.5
+2015,C,KENYA NATIONAL BUREAU OF STATISTICS,16.58785
+2016,E,ITU,16.6
+2017,E,ITU estimate.,17.8271
+2018,E,ITU estimate.,19.5
+2019,C,Kenya National Bureau of Statistics,22.56512
+2020,E,ITU estimate.,29.5

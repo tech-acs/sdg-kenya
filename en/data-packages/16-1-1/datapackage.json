@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "World Health Organization (WHO)",
-                "World Health Organization Mortality Database",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "SDG Series",
             "type": "string",
             "constraints": {
@@ -62,18 +50,6 @@
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "World Health Organization (WHO)",
-                "World Health Organization Mortality Database",
-                ""
-              ]
-            },
-            "title": "Source details"
           },
           {
             "name": "Value",

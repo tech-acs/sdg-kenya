@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimbabwe Human Rights Commission",
+                "Kenya National Commission on Human Rights ",
                 ""
               ]
             },
@@ -43,7 +43,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimbabwe Human Rights Commission",
+                "Kenya National Commission on Human Rights ",
                 ""
               ]
             },

@@ -37,17 +37,6 @@
             }
           },
           {
-            "name": "Nature of data points",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Country Data",
-                "Modeled",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

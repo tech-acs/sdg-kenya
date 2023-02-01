@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KENYA NATIONAL BUREAU OF STATISTICS",
+                "Kenya National Bureau of Statistics",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {

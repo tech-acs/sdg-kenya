@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Skill: Functional literacy",
+                "Skill: Functional numeracy",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

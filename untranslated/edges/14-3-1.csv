@@ -1,1 +1,8 @@
 From,To
+COMMENT_OBS,Custom Breakdown
+Custom Breakdown,Label for custom breakdown
+Label for custom breakdown,Observation-level footnotes
+Observation-level footnotes,UPPER_BOUND
+UPPER_BOUND,LOWER_BOUND
+LOWER_BOUND,Upper bound value
+Upper bound value,Lower bound value

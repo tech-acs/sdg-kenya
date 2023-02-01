@@ -20,26 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Data reference period: June | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts",
                 "Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised",
                 "Repository: ILO-STATISTICS - Micro data processing",
-                "Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised",
                 ""
               ]
             },
             "title": "COMMENT_OBS"
           },
           {
-            "name": "SDG Series",
+            "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Unemployment rate [8.5.2]",
-                "Unemployment rate, by disability [8.5.2]",
+                "Source: HIES - Household Budget Survey",
+                "Source: PC - Population Census",
                 ""
               ]
             },
-            "title": "SDG Series"
+            "title": "SOURCE_DETAIL"
           },
           {
             "name": "Sex",
@@ -65,18 +63,6 @@
               ]
             },
             "title": "Age"
-          },
-          {
-            "name": "Disability status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Persons with disability",
-                "Persons without disability",
-                ""
-              ]
-            },
-            "title": "Disability status"
           },
           {
             "name": "Value",

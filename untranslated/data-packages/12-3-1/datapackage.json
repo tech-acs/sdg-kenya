@@ -19,8 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Low Confidence",
-                "Very Low Confidence",
+                "Medium Confidence",
                 ""
               ]
             }
@@ -64,8 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Low Confidence",
-                "Very Low Confidence",
+                "Medium Confidence",
                 ""
               ]
             }

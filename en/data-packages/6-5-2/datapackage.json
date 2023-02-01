@@ -29,11 +29,22 @@
             "title": "SDG Series"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  ",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Observation-level footnotes",
             "type": "string",
             "constraints": {
               "enum": [
-                "Obs_Value = NaN;  Further information needed for transboundary aquifers",
+                "Obs_Value = 0;  ",
                 ""
               ]
             },

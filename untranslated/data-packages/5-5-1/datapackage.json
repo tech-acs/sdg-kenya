@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data based on most recent election results (2018). Data cover only election results for contested seats (98% of all positions).",
+                "Administrative data on most recent election results (2017).",
                 "Annual data as of 1 Feb of given year.",
                 "Data are as at 1 January of reporting year | single or lower chambers of national parliaments.",
                 "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year based on the number of seats filled in parliament at the time",
@@ -82,7 +82,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data based on most recent election results (2018). Data cover only election results for contested seats (98% of all positions).",
+                "Administrative data on most recent election results (2017).",
                 "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year based on the number of seats filled in parliament at the time",
                 "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year, figures correspond to the number of seats filled in parliament at the given time.",
                 "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year",

@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2005,2005,2005,2005,2005,2005],"SDG Series":["Average income of large-scale food producers [2.3.2]","Average income of large-scale food producers [2.3.2]","Average income of large-scale food producers [2.3.2]","Average income of small-scale food producers [2.3.2]","Average income of small-scale food producers [2.3.2]","Average income of small-scale food producers [2.3.2]"],"Sex":[null,"Female","Male",null,"Female","Male"],"Value":[1127.5242,1129.6869,1126.7739,490.07,437.12,519.98]},"edges":{"From":["SDG Series"],"To":["Sex"]}}

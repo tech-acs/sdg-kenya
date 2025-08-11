@@ -68,8 +68,8 @@ src_dir: ''
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
     reference_area: 404
-    dimension_query:
-       TIME_PERIOD: '2015:2024'
+    # dimension_query:
+    #    TIME_PERIOD: '2001:2024'
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
 
@@ -92,6 +92,8 @@ translations:
   - class: TranslationInputYaml
     source: translations
 
+indicator_options:
+  observation_attributes: [] 
 # -------------------------------
 # Frictionless / validation tuning
 # -------------------------------
@@ -100,10 +102,14 @@ translations:
 # FIRST fix upstream or in a small sanitize step. If you must allow decorations
 # temporarily, uncomment "bare_number: false" below.
 datapackage:
+  package_properties:
+    missingValues: ['', '..', 'NA', 'N/A', '-']   # treat these as blanks
   field_properties:
     Value:
       type: number
-      # bare_number: false   # <-- uncomment ONLY if your Value includes % or separators
+      bare_number: false     # allow %, group chars, etc.
+      decimal_char: '.'
+      group_char: ','
 
 # Reporting status extra fields
 # -----------------------------

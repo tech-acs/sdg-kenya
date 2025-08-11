@@ -92,26 +92,6 @@ translations:
   - class: TranslationInputYaml
     source: translations
 
-indicator_options:
-  non_disaggregation_columns:
-    - Year
-    - Units
-    - Series
-    - Value
-    - GeoCode
-    - Observation status
-    - Unit multiplier
-    - Unit measure
-    - UNIT_MEASURE
-    - SERIES
-    - COMMENT_TS
-    - DATA_LAST_UPDATE
-  # SDMX feeds typically use these uppercase columns:
-  series_column: SERIES
-  unit_column: UNIT_MEASURE
-  observation_attributes:
-    - COMMENT_OBS
-    - SOURCE_DETAIL
 # -------------------------------
 # Frictionless / validation tuning
 # -------------------------------

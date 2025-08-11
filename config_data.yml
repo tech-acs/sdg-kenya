@@ -73,7 +73,7 @@ logging:
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
     reference_area: 231
-    dsd: https://unstats.un.org/SDGAPI/v1/sdmx/rest/datastructure/UNSD/SDG_GLOBAL/1.0?references=all
+    dsd: https://data.un.org/WS/rest/datastructure/IAEG-SDGs/SDG/latest/?references=all
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE
@@ -83,7 +83,7 @@ inputs:
     import_series_attributes: true
     import_observation_attributes: true
     import_codes: true
-    import_names: false    # <— add this
+    import_names: false
     request_params:
       headers:
         User-Agent: Open-SDG-Build-1

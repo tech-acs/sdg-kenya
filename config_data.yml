@@ -72,7 +72,7 @@ logging:
 
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
-    reference_area: 231
+    reference_area: 12
     dsd: https://data.un.org/WS/rest/datastructure/IAEG-SDGs/SDG/latest/?references=all
     drop_dimensions:
       - FREQ

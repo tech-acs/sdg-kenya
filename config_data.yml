@@ -33,6 +33,8 @@ schema_file: metadata_schema.yml
 # The default, '', points to the root of this repository.
 src_dir: ''
 
+alter_data: scripts/alter_data.py
+
 # Inputs
 # ------
 # The allows control over the inputs of data and metadata. This can be omitted
@@ -71,9 +73,6 @@ logging:
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
     reference_area: 231
-    data_alterations:              
-      - module: scripts.alter_data
-        function: alter_data
         
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL

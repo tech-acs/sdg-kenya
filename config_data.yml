@@ -70,7 +70,6 @@ inputs:
     # reference_area: 404
   - class: InputSdmxMl_Structure
     source: https://data.un.org/ws/rest/data/IAEG-SDGs,DF_SDG_GLH/...231...........?startPeriod=2000&endPeriod=2022
-    dsd: https://unstats.un.org/SDGAPI/v1/sdmx/rest/datastructure/UNSD/SDG_GLOBAL
     dimension_map:
       REF_AREA|KN: ''
     drop_dimensions:

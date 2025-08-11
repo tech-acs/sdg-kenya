@@ -81,7 +81,7 @@ inputs:
       - TIME_PERIOD
     drop_singleton_dimensions: false
     import_series_attributes: true
-    import_observation_attributes: false
+    import_observation_attributes: true
     import_codes: true
     import_names: false
     request_params:

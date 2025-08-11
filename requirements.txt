@@ -4,7 +4,7 @@ git+https://github.com/dougmet/yamlmd
 
 # The following line has been added as a work around for the build error where the latest frictionless is installed
 # once the 2.2.0 is tagged on sdg-build, this shall not be necessary
-# frictionless==4.40.8
+frictionless==4.40.8
 
 git+https://github.com/open-sdg/sdg-build@2.1.0
 packaging

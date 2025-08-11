@@ -66,9 +66,25 @@ src_dir: ''
 #     meta_suffix: __GLOBAL
 
 inputs:
-  - class: InputSdmxMl_UnitedNationsApi
-    reference_area: 404
-    import_observation_attributes: false
+  # - class: InputSdmxMl_UnitedNationsApi
+    # reference_area: 404
+  - class: InputSdmxMl_Structure
+    source: https://data.un.org/ws/rest/data/IAEG-SDGs,DF_SDG_GLH/...231...........?startPeriod=2000&endPeriod=2022
+    dsd: https://unstats.un.org/SDGAPI/v1/sdmx/rest/datastructure/UNSD/SDG_GLOBAL
+    dimension_map:
+      REF_AREA|KN: ''
+    drop_dimensions:
+      - FREQ
+      - REPORTING_TYPE
+      - NATURE
+      - TIME_PERIOD
+    drop_singleton_dimensions: false
+    import_series_attributes: true
+    import_observation_attributes: true
+    import_codes: true
+    request_params: 
+      headers: 
+        User-Agent: Open-SDG-Build-1
 
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL

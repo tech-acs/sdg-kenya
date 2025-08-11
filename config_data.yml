@@ -33,7 +33,7 @@ schema_file: metadata_schema.yml
 # The default, '', points to the root of this repository.
 src_dir: ''
 
-alter_data: scripts/alter_data.py
+# alter_data: scripts/alter_data.py
 
 # Inputs
 # ------
@@ -70,11 +70,12 @@ alter_data: scripts/alter_data.py
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
     reference_area: 231
-    dimension_query:
-      REPORTING_TYPE: N
-    data_alterations:
-      - module: scripts.alter_data
-        function: alter_data
+    dsd: https://registry.sdmx.org/sdmx/v2/structure/dataflow/IAEG-SDGs/all/+/?format=sdmx-2.1&references=all&prettyPrint=true
+    # dimension_query:
+    #   REPORTING_TYPE: N
+    # data_alterations:
+    #   - module: scripts.alter_data
+    #     function: alter_data
 
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL

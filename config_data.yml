@@ -6,7 +6,7 @@
 # The following should be changed according to the hosting environment. In the most
 # common environment, Github Pages, you would need to set this according to the name
 # of this repository, after a preceding slash. Eg: /my-repository-name
-docs_baseurl: /sdg-kenya
+docs_baseurl: /sdg-algeria
 
 # Languages
 # ---------
@@ -90,6 +90,18 @@ translations:
   - class: TranslationInputYaml
     source: translations
 
+# -------------------------------
+# Frictionless / validation tuning
+# -------------------------------
+# By default, keep Value strictly numeric (recommended).
+# If your API produces decorated numbers (e.g., "12%" or "1,234"),
+# FIRST fix upstream or in a small sanitize step. If you must allow decorations
+# temporarily, uncomment "bare_number: false" below.
+datapackage:
+  field_properties:
+    Value:
+      type: number
+      # bare_number: false   # <-- uncomment ONLY if your Value includes % or separators
 
 # Reporting status extra fields
 # -----------------------------

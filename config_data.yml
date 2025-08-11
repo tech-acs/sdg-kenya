@@ -6,11 +6,11 @@
 # The following should be changed according to the hosting environment. In the most
 # common environment, Github Pages, you would need to set this according to the name
 # of this repository, after a preceding slash. Eg: /my-repository-name
-docs_baseurl: /sdg-kenya
+docs_baseurl: /sdg-algeria
 
 # Languages
 # ---------
-# This tells sdg-build to perform "translated builds" for each of the specified
+# This tells sdg-build to perform "translated builds" for each of the specified 
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - en
@@ -32,6 +32,8 @@ schema_file: metadata_schema.yml
 # This identifies the directory that holds the 'data' and 'meta' folders.
 # The default, '', points to the root of this repository.
 src_dir: ''
+
+# alter_data: scripts/alter_data.py
 
 # Inputs
 # ------
@@ -65,9 +67,27 @@ src_dir: ''
 #   - class: InputSdmxMeta
 #     meta_suffix: __GLOBAL
 
+logging:
+  - debug
+
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
-    reference_area: 404
+    reference_area: 231
+    dsd: https://data.un.org/WS/rest/datastructure/IAEG-SDGs/SDG/latest/?references=all
+    drop_dimensions:
+      - FREQ
+      - REPORTING_TYPE
+      - NATURE
+      - TIME_PERIOD
+    drop_singleton_dimensions: false
+    import_series_attributes: true
+    import_observation_attributes: false
+    import_codes: true
+    import_names: false
+    request_params:
+      headers:
+        User-Agent: Open-SDG-Build-1
+        
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
 
@@ -85,7 +105,7 @@ translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 2.1.0
+    tag: 2.3.0
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations

@@ -71,20 +71,7 @@ logging:
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
     reference_area: 231
-    dsd: https://unstats.un.org/SDGAPI/v1/sdmx/rest/datastructure/UNSD/SDG_GLOBAL/1.0?references=all
-    drop_dimensions:
-      - FREQ
-      - REPORTING_TYPE
-      - NATURE
-      - TIME_PERIOD
-    drop_singleton_dimensions: false
-    import_series_attributes: true
-    import_observation_attributes: true
-    import_codes: true
-    request_params:
-      headers:
-        User-Agent: Open-SDG-Build-1
-    data_alterations:              # ⬅️ add this
+    data_alterations:              
       - module: scripts.alter_data
         function: alter_data
         

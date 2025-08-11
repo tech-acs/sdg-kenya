@@ -65,6 +65,9 @@ src_dir: ''
 #   - class: InputSdmxMeta
 #     meta_suffix: __GLOBAL
 
+logging:
+  - debug
+
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
     reference_area: 231
@@ -78,9 +81,13 @@ inputs:
     import_series_attributes: true
     import_observation_attributes: true
     import_codes: true
-    request_params: 
-      headers: 
-        User-Agent: Open-SDG-Build-1 
+    request_params:
+      headers:
+        User-Agent: Open-SDG-Build-1
+    data_alterations:              # ⬅️ add this
+      - module: scripts.alter_data
+        function: alter_data
+        
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
 

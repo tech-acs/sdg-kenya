@@ -66,6 +66,9 @@ src_dir: ''
 #     git_data_dir: data
 #   - class: InputSdmxMeta
 #     meta_suffix: __GLOBAL
+data_alterations:
+  - module: scripts.alter_data
+    function: alter_data
 
 inputs:
   - class: InputSdmxMl_UnitedNationsApi

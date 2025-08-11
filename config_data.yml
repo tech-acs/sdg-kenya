@@ -68,6 +68,8 @@ src_dir: ''
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
     reference_area: 404
+    dimension_query:
+       TIME_PERIOD: '2015:2024'
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
 

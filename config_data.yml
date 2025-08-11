@@ -33,7 +33,7 @@ schema_file: metadata_schema.yml
 # The default, '', points to the root of this repository.
 src_dir: ''
 
-alter_data: scripts/alter_data.py
+# alter_data: scripts/alter_data.py
 
 # Inputs
 # ------

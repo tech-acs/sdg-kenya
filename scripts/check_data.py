@@ -1,6 +1,5 @@
 from sdg.open_sdg import open_sdg_check
-
-from scripts.alter_data import alter_data
+from alter_data import alter_data
 
 validation_successful = open_sdg_check(
     config='config_data.yml',

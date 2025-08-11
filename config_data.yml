@@ -33,7 +33,7 @@ schema_file: metadata_schema.yml
 # The default, '', points to the root of this repository.
 src_dir: ''
 
-alter_data: scripts/alter_data.py
+# alter_data: scripts/alter_data.py
 
 # Inputs
 # ------
@@ -81,7 +81,7 @@ inputs:
       - TIME_PERIOD
     drop_singleton_dimensions: false
     import_series_attributes: true
-    import_observation_attributes: true
+    import_observation_attributes: false
     import_codes: true
     import_names: false
     request_params:

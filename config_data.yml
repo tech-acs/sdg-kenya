@@ -8,20 +8,20 @@ src_dir: ''
 
 # If you have a small sanitize step, keep this hook name the same as your script.
 # (Optional) Remove if you don't have scripts/alter_data.py
-data_alterations:
-  - module: scripts.alter_data
-    function: alter_data
+# data_alterations:
+#   - module: scripts.alter_data
+#     function: alter_data
 
 # --- SDMX inputs: UN SDG Global Database ---
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
     # UN M49 (REF_AREA) code for Algeria = 012
-    reference_area: 012
+    reference_area: 231
     # DSD from UN SDG SDMX REST; include references to ensure codelists/dimensions
     dsd: https://unstats.un.org/SDGAPI/v1/sdmx/rest/datastructure/UNSD/SDG_GLOBAL/1.0?references=all
     # Pull NATIONAL series only (avoids mixing in global/regional series)
-    dimension_query:
-      REPORTING_TYPE: N
+    # dimension_query:
+    #   REPORTING_TYPE: N
     # If you want to limit to most recent values only, you can also add:
     # time_agg: latest
 

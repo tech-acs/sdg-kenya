@@ -1,34 +1,19 @@
-import numpy as np
+# scripts/alter_data.py
 import pandas as pd
 
-_DIGIT_TRANS = str.maketrans("٠١٢٣٤٥٦٧٨٩۰۱۲۳۴۵۶۷۸۹", "01234567890123456789")
+# Open SDG will import this function and call it for every indicator.
+def alter_data(df, indicator_id, meta=None, **kwargs):
+    # 1) Trim leading/trailing spaces across all text columns
+    for col in df.select_dtypes(include=['object']).columns:
+        df[col] = df[col].str.strip()
 
-def _clean(df: pd.DataFrame) -> pd.DataFrame:
-    # Trim all text cols (fixes COMMENT_OBS / SOURCE_DETAIL / Observation-level footnotes)
-    for c in df.select_dtypes(include=["object"]).columns:
-        df[c] = (df[c].astype(str)
-                       .str.replace("\u00A0", " ", regex=False)  # NBSP
-                       .str.strip())
-    if "Value" in df.columns:
-        t = (df["Value"].astype(str)
-             .str.translate(_DIGIT_TRANS)
-             .str.replace("\u00A0", " ", regex=False)
-             .str.strip()
-             .replace({"": np.nan, "nan": np.nan, "NaN": np.nan,
-                       "N/A": np.nan, "n/a": np.nan, "..": np.nan,
-                       "—": np.nan, "–": np.nan}))
-        t = t.str.replace(r"^[<>]=?\s*", "", regex=True)  # remove <, >, <=, >=
-        t = t.str.replace("−", "-", regex=False)          # unicode minus
-        t = t.str.replace("%", "", regex=False)
-        t = t.str.replace(",", "", regex=False)           # 1,234 -> 1234
-        t = t.str.replace(r"^(-?\d+),(\d+)$", r"\1.\2", regex=True)  # 12,3 -> 12.3
-        df["Value"] = pd.to_numeric(t, errors="coerce")
+    # 2) Make Value truly numeric (drop common placeholders)
+    if 'Value' in df.columns:
+        placeholders = ['..', '.', ':', '—', '–', '-', '…', 'NA', 'N/A', 'n/a', '']
+        df['Value'] = df['Value'].replace(placeholders, None)
+        df['Value'] = pd.to_numeric(df['Value'], errors='coerce')
+        df = df[df['Value'].notna()].copy()
+        # keep as float
+        df['Value'] = df['Value'].astype(float)
+
     return df
-
-# Works across sdg-build versions (param order differs)
-def alter_data(arg1, arg2=None, **kwargs):
-    if hasattr(arg1, "columns"):   # (df, context)
-        return _clean(arg1.copy())
-    elif hasattr(arg2, "columns"): # (indicator_id, df)
-        return _clean(arg2.copy())
-    return arg1

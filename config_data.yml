@@ -73,7 +73,7 @@ logging:
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
     reference_area: 231
-    sd: https://unstats.un.org/SDGAPI/v1/sdmx/rest/datastructure/UNSD/SDG_GLOBAL/1.0?references=all
+    dsd: https://unstats.un.org/SDGAPI/v1/sdmx/rest/datastructure/UNSD/SDG_GLOBAL/1.0?references=all
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE

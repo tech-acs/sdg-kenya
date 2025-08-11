@@ -66,13 +66,9 @@ src_dir: ''
 #     meta_suffix: __GLOBAL
 
 inputs:
-  # - class: InputSdmxMl_UnitedNationsApi
-  #   reference_area: 404
   - class: InputSdmxMl_UnitedNationsApi
     reference_area: 231
     dsd: https://unstats.un.org/SDGAPI/v1/sdmx/rest/datastructure/UNSD/SDG_GLOBAL/1.0?references=all
-    dimension_map:
-      REF_AREA|ET: ''
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE

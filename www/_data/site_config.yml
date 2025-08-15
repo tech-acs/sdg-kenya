@@ -1,8 +1,8 @@
 ﻿analytics:
-  ua: ''
-  gtag: ''
-  gtm: ''
-  ga_prod: ''
+  ua: ""
+  gtag: ""
+  gtm: ""
+  ga_prod: ""
 breadcrumbs:
   goal:
     - path: /
@@ -22,23 +22,23 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Cabo Verde
-  adjective: Cabo Verdean
+  name: Cameroon
+  adjective: Cameroonian
 create_goals:
   previous_next_links: false
   goals: []
 create_indicators:
   previous_next_links: false
 create_pages:
-  - filename: ''
+  - filename: ""
     folder: /goals
     layout: goals
     title: general.goals
-  - filename: ''
+  - filename: ""
     folder: /reporting-status
     layout: reportingstatus
     title: status.reporting_status
-  - filename: ''
+  - filename: ""
     folder: /search
     layout: search
     title: search.search
@@ -47,12 +47,12 @@ custom_js:
   - /assets/js/custom.js
 data_edit_url: data
 data_fields:
-  units: ''
-  series: ''
+  units: ""
+  series: ""
 date_formats: []
 disclaimer:
-  phase: ''
-  message: ''
+  phase: ""
+  message: ""
   hidden: true
 email_contacts:
   questions: test@example.com
@@ -63,19 +63,19 @@ footer_language_toggle: none
 footer_menu:
   - path: /contact-us
     translation_key: menu.contact_us
-  - path: 'https://twitter.com/MyTwitterAccount'
+  - path: "https://twitter.com/MyTwitterAccount"
     translation_key: general.twitter
-  - path: 'https://facebook.com/MyFacebookAccount'
+  - path: "https://facebook.com/MyFacebookAccount"
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
 frontpage_cards:
   - title: frontpage.download_all
-    content: ''
+    content: ""
     include: components/download-all-data.html
-    button_label: ''
-    button_link: ''
-    rule_color: ''
+    button_label: ""
+    button_link: ""
+    rule_color: ""
   # - title: Lorem ipsum
   #   content: |
   #     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
@@ -98,13 +98,13 @@ frontpage_goals_grid:
 frontpage_introduction_banner:
   title: frontpage.intro_title
   description: frontpage.intro_body
-goal_image_base: 'https://open-sdg.org/sdg-translations/assets/img/goals'
-goal_image_extension: ''
+goal_image_base: "https://open-sdg.org/sdg-translations/assets/img/goals"
+goal_image_extension: ""
 goals_page:
   title: general.goals
   description: goal.description
-graph_color_headline: '#004466'
-graph_color_headline_high_contrast: '#55a6e5'
+graph_color_headline: "#004466"
+graph_color_headline_high_contrast: "#55a6e5"
 graph_color_set: accessible
 graph_color_list: []
 graph_color_number: 0
@@ -117,7 +117,7 @@ indicator_config_form:
   enabled: true
   dropdowns: []
   repository_link: /tree/develop/indicator-config
-  translation_link: ''
+  translation_link: ""
 indicator_data_form:
   enabled: true
   repository_link: /tree/develop/data
@@ -125,18 +125,18 @@ indicator_metadata_form:
   enabled: true
   dropdowns: []
   repository_link: /tree/develop/meta
-  translation_link: ''
-  language: ''
+  translation_link: ""
+  language: ""
   scopes:
     - national
     - global
   exclude_fields: []
   translated: false
 indicator_tabs:
-  tab_1: ''
-  tab_2: ''
-  tab_3: ''
-  tab_4: ''
+  tab_1: ""
+  tab_2: ""
+  tab_3: ""
+  tab_4: ""
 languages:
   - en
 languages_public: []
@@ -146,31 +146,31 @@ map_options:
   disaggregation_controls: false
   minZoom: 5
   maxZoom: 10
-  tileURL: ''
+  tileURL: ""
   tileOptions:
-    id: ''
-    accessToken: ''
-    attribution: ''
+    id: ""
+    accessToken: ""
+    attribution: ""
   colorRange: chroma.brewer.BuGn
-  noValueColor: '#f0f0f0'
+  noValueColor: "#f0f0f0"
   styleNormal:
     weight: 1
     opacity: 1
     fillOpacity: 0.7
-    color: '#888888'
-    dashArray: ''
+    color: "#888888"
+    dashArray: ""
   styleHighlighted:
     weight: 1
     opacity: 1
     fillOpacity: 0.7
-    color: '#111111'
-    dashArray: ''
+    color: "#111111"
+    dashArray: ""
   styleStatic:
     weight: 2
     opacity: 1
     fillOpacity: 0
-    color: '#172d44'
-    dashArray: '5,5'
+    color: "#172d44"
+    dashArray: "5,5"
 menu:
   - path: /goals
     translation_key: general.goals
@@ -197,11 +197,11 @@ metadata_tabs:
     description: indicator.global_metadata_blurb
   - scope: sources
     title: indicator.sources
-    description: ''
+    description: ""
 news:
   category_links: false
 progress_status:
-  status_heading: ''
+  status_heading: ""
   status_types: []
 remote_data_prefix: _build
 reporting_status:
@@ -218,15 +218,15 @@ reporting_status:
     - value: notapplicable
       label: status.not_applicable
       hide_on_goal_pages: false
-repository_url_data: 'https://github.com/tech-acs/sdg-cabo-verde'
-repository_url_site: 'https://github.com/tech-acs/sdg-cabo-verde'
+repository_url_data: "https://github.com/tech-acs/sdg-cameroon"
+repository_url_site: "https://github.com/tech-acs/sdg-cameroon"
 search_index_boost: []
 search_index_extra_fields: []
 site_config_form:
   enabled: false
   dropdowns: []
   repository_link: /tree/develop/_data
-  translation_link: ''
+  translation_link: ""
 time_series_attributes:
   - field: COMMENT_TS
     label: indicator.footnote
@@ -234,4 +234,4 @@ time_series_attributes:
     label: metadata_fields.national_data_update_url
 validate_indicator_config: false
 validate_site_config: false
-x_axis_label: ''
+x_axis_label: ""

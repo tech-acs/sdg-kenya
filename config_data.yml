@@ -5,7 +5,7 @@
 # The following should be changed according to the hosting environment. In the most
 # common environment, Github Pages, you would need to set this according to the name
 # of this repository, after a preceding slash. Eg: /my-repository-name
-docs_baseurl: /sdg-equatorial-guinea
+docs_baseurl: /sdg-eritrea
 
 # Languages
 # ---------
@@ -71,7 +71,7 @@ logging:
 
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
-    reference_area: 226
+    reference_area: 232
     dsd: https://data.un.org/WS/rest/datastructure/IAEG-SDGs/SDG/latest/?references=all
     drop_dimensions:
       - FREQ

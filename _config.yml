@@ -6,7 +6,7 @@ remote_theme: open-sdg/open-sdg@2.3.2
 # Replace this title as needed.
 title: general.site_title
 url: ""
-baseurl: "/sdg-benin"
+baseurl: "/sdg-botswana"
 environment: staging
 source: www
 

@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Botswana
-  adjective: Botswanan
+  name: Burkina Faso
+  adjective: Burkinabé
 create_goals:
   previous_next_links: false
   goals: []
@@ -218,8 +218,8 @@ reporting_status:
     - value: notapplicable
       label: status.not_applicable
       hide_on_goal_pages: false
-repository_url_data: 'https://github.com/tech-acs/sdg-botswana'
-repository_url_site: 'https://github.com/tech-acs/sdg-botswana'
+repository_url_data: 'https://github.com/tech-acs/sdg-burkina-faso'
+repository_url_site: 'https://github.com/tech-acs/sdg-burkina-faso'
 search_index_boost: []
 search_index_extra_fields: []
 site_config_form:

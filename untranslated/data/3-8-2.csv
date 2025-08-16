@@ -1,0 +1,5 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2005,A,0,"Survey-based estimate, using household total consumption expenditure in the denominator",Kenya - Integrated Household Budget Survey 2015-2016,SH_XPD_EARN10,404,PT,2024-12-03T00:00:00,2015,5.55
+2015,A,0,"Survey-based estimate, using household total consumption expenditure in the denominator",Kenya - Integrated Household Budget Survey 2015-2016,SH_XPD_EARN10,404,PT,2024-12-03T00:00:00,2015,5.19
+2005,A,0,"Survey-based estimate, using household total consumption expenditure in the denominator",Kenya - Integrated Household Budget Survey 2015-2016,SH_XPD_EARN25,404,PT,2024-12-03T00:00:00,2015,1.56
+2015,A,0,"Survey-based estimate, using household total consumption expenditure in the denominator",Kenya - Integrated Household Budget Survey 2015-2016,SH_XPD_EARN25,404,PT,2024-12-03T00:00:00,2015,1.4

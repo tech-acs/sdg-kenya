@@ -1,0 +1,3 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,AGE,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2006,A,0,"National Assessment (NA): Kenya National Adult Literacy Survey Report 2007; Proficient = Level 5, Level 4, Level 3; Not Proficient = Level 2, Level 1, Level 0 Data extracted on 25 February 2025.",SE_ADT_FUNS,404,Y16T65,SKILL_LTRCY,PT,2025-03-05T00:00:00,2006,61.5
+2006,A,0,"National Assessment (NA): Kenya National Adult Literacy Survey Report 2007; Proficient = Level 5, Level 4, Level 3; Not Proficient = Level 2, Level 1, Level 0 Data extracted on 25 February 2025.",SE_ADT_FUNS,404,Y16T65,SKILL_NMRCY,PT,2025-03-05T00:00:00,2006,64.6

@@ -1,0 +1,79 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,CUST_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,CUST_BREAKDOWN_LB,Value
+2011,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,404,None,PT,2024-03-13T00:00:00,2023,,13.1
+2015,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,404,None,PT,2024-03-13T00:00:00,2023,,8.83
+2017,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,404,None,PT,2024-03-13T00:00:00,2023,,7.93
+2018,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,404,None,PT,2024-03-13T00:00:00,2023,,8.36
+2019,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,404,None,PT,2024-03-13T00:00:00,2023,,7.68
+2020,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,404,None,PT,2024-03-13T00:00:00,2023,,8.45
+2021,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,404,None,PT,2024-03-13T00:00:00,2023,,9.24
+2022,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,404,None,PT,2024-03-13T00:00:00,2023,,7.47
+2023,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,404,None,PT,2024-03-13T00:00:00,2023,,8.75
+2016,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,10.55
+2017,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,7.06
+2018,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,11.56
+2019,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,11.15
+2020,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,8.27
+2021,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,5.53
+2022,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,8.62
+2023,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,7.66
+2016,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C728,PT,2024-03-13T00:00:00,2023,South Sudan,10.51
+2017,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C728,PT,2024-03-13T00:00:00,2023,South Sudan,10.97
+2018,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C728,PT,2024-03-13T00:00:00,2023,South Sudan,12.05
+2019,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C728,PT,2024-03-13T00:00:00,2023,South Sudan,12.27
+2020,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C728,PT,2024-03-13T00:00:00,2023,South Sudan,10.7
+2021,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C728,PT,2024-03-13T00:00:00,2023,South Sudan,9.91
+2022,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C728,PT,2024-03-13T00:00:00,2023,South Sudan,13.55
+2023,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C728,PT,2024-03-13T00:00:00,2023,South Sudan,10.91
+2016,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,10.03
+2017,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,9.39
+2018,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,10.67
+2019,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,11.05
+2020,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,9.37
+2021,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,9.64
+2022,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,13.62
+2023,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,10.25
+2016,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,10.03
+2017,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,9.39
+2018,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,10.75
+2019,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,10.91
+2020,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,9.39
+2021,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,9.92
+2022,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,13.32
+2023,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,10.48
+2016,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,5.95993
+2017,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,4.99827
+2018,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,6.36322
+2019,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,6.32025
+2020,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,5.12047
+2021,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,5.13
+2022,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,3.88333
+2023,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C646,PT,2024-03-13T00:00:00,2023,Rwanda,5.39
+2020,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C728,PT,2024-03-13T00:00:00,2023,South Sudan,4.98322
+2021,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C728,PT,2024-03-13T00:00:00,2023,South Sudan,5.29
+2022,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C728,PT,2024-03-13T00:00:00,2023,South Sudan,2.57
+2023,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C728,PT,2024-03-13T00:00:00,2023,South Sudan,6.47
+2016,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,7.5595
+2017,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,4.99827
+2018,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,5.52621
+2019,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,6.27694
+2020,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,5.98287
+2021,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,4.76333
+2022,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,4.51667
+2023,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C800,PT,2024-03-13T00:00:00,2023,Uganda,4.5
+2016,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,7.5595
+2017,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,7.63023
+2018,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,5.65296
+2019,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,5.82121
+2020,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,6.41359
+2021,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,3.85667
+2022,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,5.09
+2023,A,0,Third quarter of the specified year.,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,404,C834,PT,2024-03-13T00:00:00,2023,United Republic of Tanzania,4.68333
+2011,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,404,None,PT,2024-02-29T00:00:00,2023,,9.72
+2015,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,404,None,PT,2024-02-29T00:00:00,2023,,11.04
+2017,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,404,None,PT,2024-02-29T00:00:00,2023,,9.48
+2018,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,404,None,PT,2024-02-29T00:00:00,2023,,11.12
+2019,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,404,None,PT,2024-02-29T00:00:00,2023,,11.31
+2020,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,404,None,PT,2024-02-29T00:00:00,2023,,9.54
+2021,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,404,None,PT,2024-02-29T00:00:00,2023,,9.23
+2022,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,404,None,PT,2024-02-29T00:00:00,2023,,12.82
+2023,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,404,None,PT,2024-02-29T00:00:00,2023,,10.15

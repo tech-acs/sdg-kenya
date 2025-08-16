@@ -1,0 +1,6 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2005,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,IC_GEN_MGTL,404,F,Y_GE15,PT,2025-03-15T00:00:00,2019,24.78
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,IC_GEN_MGTL,404,F,Y_GE15,PT,2025-03-15T00:00:00,2019,49.62
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,IC_GEN_MGTL_19ICLS,404,F,Y_GE15,PT,2025-03-15T00:00:00,2019,49.29
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,IC_GEN_MGTN,404,F,Y_GE15,PT,2025-03-15T00:00:00,2019,49.62
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,IC_GEN_MGTN_19ICLS,404,F,Y_GE15,PT,2025-03-15T00:00:00,2019,49.29

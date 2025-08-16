@@ -1,0 +1,51 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
+2000,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,82.0
+2001,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,80.0
+2002,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,84.0
+2003,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,73.0
+2004,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,73.0
+2005,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,76.0
+2006,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,80.0
+2007,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,81.0
+2008,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,88.0
+2009,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,88.0
+2010,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,90.0
+2011,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,96.0
+2012,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,94.0
+2013,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,87.0
+2014,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,92.0
+2015,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,89.0
+2016,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,88.0
+2017,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,81.0
+2018,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,91.0
+2019,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,93.0
+2020,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,93.0
+2021,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,95.0
+2022,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,94.0
+2023,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_DTP3,404,PT,2025-03-26T00:00:00,2023,,93.0
+2020,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_HPV,404,PT,2025-03-17T00:00:00,2023,The HPV vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),16.0
+2021,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_HPV,404,PT,2025-03-17T00:00:00,2023,The HPV vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),45.0
+2022,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_HPV,404,PT,2025-03-17T00:00:00,2023,The HPV vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),17.0
+2023,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_HPV,404,PT,2025-03-17T00:00:00,2023,The HPV vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),33.0
+2015,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_MCV2,404,PT,2025-03-17T00:00:00,2023,MCV2 have not been introduced in the national immunization schedule in the given country (or  group of countries),28.0
+2016,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_MCV2,404,PT,2025-03-17T00:00:00,2023,MCV2 have not been introduced in the national immunization schedule in the given country (or  group of countries),35.0
+2017,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_MCV2,404,PT,2025-03-17T00:00:00,2023,MCV2 have not been introduced in the national immunization schedule in the given country (or  group of countries),41.0
+2018,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_MCV2,404,PT,2025-03-17T00:00:00,2023,MCV2 have not been introduced in the national immunization schedule in the given country (or  group of countries),53.0
+2019,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_MCV2,404,PT,2025-03-17T00:00:00,2023,MCV2 have not been introduced in the national immunization schedule in the given country (or  group of countries),60.0
+2020,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_MCV2,404,PT,2025-03-17T00:00:00,2023,MCV2 have not been introduced in the national immunization schedule in the given country (or  group of countries),67.0
+2021,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_MCV2,404,PT,2025-03-17T00:00:00,2023,MCV2 have not been introduced in the national immunization schedule in the given country (or  group of countries),71.0
+2022,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_MCV2,404,PT,2025-03-17T00:00:00,2023,MCV2 have not been introduced in the national immunization schedule in the given country (or  group of countries),70.0
+2023,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_MCV2,404,PT,2025-03-17T00:00:00,2023,MCV2 have not been introduced in the national immunization schedule in the given country (or  group of countries),76.0
+2011,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_PCV3,404,PT,2025-03-17T00:00:00,2023,The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),85.0
+2012,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_PCV3,404,PT,2025-03-17T00:00:00,2023,The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),82.0
+2013,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_PCV3,404,PT,2025-03-17T00:00:00,2023,The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),77.0
+2014,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_PCV3,404,PT,2025-03-17T00:00:00,2023,The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),84.0
+2015,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_PCV3,404,PT,2025-03-17T00:00:00,2023,The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),80.0
+2016,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_PCV3,404,PT,2025-03-17T00:00:00,2023,The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),83.0
+2017,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_PCV3,404,PT,2025-03-17T00:00:00,2023,The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),78.0
+2018,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_PCV3,404,PT,2025-03-17T00:00:00,2023,The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),89.0
+2019,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_PCV3,404,PT,2025-03-17T00:00:00,2023,The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),93.0
+2020,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_PCV3,404,PT,2025-03-17T00:00:00,2023,The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),92.0
+2021,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_PCV3,404,PT,2025-03-17T00:00:00,2023,The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),94.0
+2022,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_PCV3,404,PT,2025-03-17T00:00:00,2023,The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),93.0
+2023,A,0,"WHO/UNICEF coverage estimates 2023 revision, July 2024",SH_ACS_PCV3,404,PT,2025-03-17T00:00:00,2023,The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries),91.0

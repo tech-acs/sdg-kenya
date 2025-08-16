@@ -1,0 +1,4 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2005,A,0,Source: Kenya National Bureau of Statistics: Basic report on Well-being in Kenya. Poverty line is absolute. Government estimate.,"Poverty and Inequality Platform, World Bank",SI_POV_NAHC,404,PT,2025-08-11T00:00:00,2021,46.8
+2015,A,0,Source: Kenya National Bureau of Statistics: Basic report on Well-being in Kenya. Poverty line is absolute. Government estimate.,"Poverty and Inequality Platform, World Bank",SI_POV_NAHC,404,PT,2025-08-11T00:00:00,2021,36.1
+2021,A,0,Source: Kenya National Bureau of Statistics: Basic report on Well-being in Kenya. Poverty line is absolute. Government estimate.,"Poverty and Inequality Platform, World Bank",SI_POV_NAHC,404,PT,2025-08-11T00:00:00,2021,38.6

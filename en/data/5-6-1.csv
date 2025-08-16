@@ -1,0 +1,9 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2014,A,0,Based on women aged 15-49 years married or in union who are currently using any contraceptives.,"DHS 2022. UNFPA Global Database, 2025.",SH_FPL_INFM,404,F,Y15T49,PT,2025-03-10T00:00:00,2022,56.0
+2022,A,0,Based on women aged 15-49 years married or in union who are currently using any contraceptives.,"DHS 2022. UNFPA Global Database, 2025.",SH_FPL_INFM,404,F,Y15T49,PT,2025-03-10T00:00:00,2022,64.8
+2014,A,0,Based on women aged 15-49 years married or in union who are currently using any contraceptives.,"DHS 2022. UNFPA Global Database, 2024.",SH_FPL_INFMCU,404,F,Y15T49,PT,2025-03-10T00:00:00,2022,89.4
+2022,A,0,Based on women aged 15-49 years married or in union who are currently using any contraceptives.,"DHS 2022. UNFPA Global Database, 2024.",SH_FPL_INFMCU,404,F,Y15T49,PT,2025-03-10T00:00:00,2022,92.3
+2014,A,0,Based on women aged 15-49 years married or in union who are currently using any contraceptives.,"DHS 2022. UNFPA Global Database, 2024.",SH_FPL_INFMRH,404,F,Y15T49,PT,2025-03-10T00:00:00,2022,80.5
+2022,A,0,Based on women aged 15-49 years married or in union who are currently using any contraceptives.,"DHS 2022. UNFPA Global Database, 2024.",SH_FPL_INFMRH,404,F,Y15T49,PT,2025-03-10T00:00:00,2022,86.8
+2014,A,0,Based on women aged 15-49 years married or in union who are currently using any contraceptives.,"DHS 2022. UNFPA Global Database, 2024.",SH_FPL_INFMSR,404,F,Y15T49,PT,2025-03-10T00:00:00,2022,77.2
+2022,A,0,Based on women aged 15-49 years married or in union who are currently using any contraceptives.,"DHS 2022. UNFPA Global Database, 2024.",SH_FPL_INFMSR,404,F,Y15T49,PT,2025-03-10T00:00:00,2022,76.8

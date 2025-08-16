@@ -1,0 +1,7 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2022,A,0,Total population is restricted to household head and wife due to data limitations.,Demographic and Health Survey,SP_LGL_LNDDOC,404,None,PT,2024-11-07T00:00:00,2022,10.1746
+2022,A,0,Total population is restricted to household head and wife due to data limitations.,Demographic and Health Survey,SP_LGL_LNDDOC,404,F,PT,2024-11-07T00:00:00,2022,5.17718
+2022,A,0,Total population is restricted to household head and wife due to data limitations.,Demographic and Health Survey,SP_LGL_LNDDOC,404,M,PT,2024-11-07T00:00:00,2022,16.7429
+2022,A,0,Total population is restricted to household head and wife due to data limitations.,Demographic and Health Survey,SP_LGL_LNDSTR,404,None,PT,2024-11-07T00:00:00,2022,60.32243
+2022,A,0,Total population is restricted to household head and wife due to data limitations.,Demographic and Health Survey,SP_LGL_LNDSTR,404,F,PT,2024-11-07T00:00:00,2022,52.99801
+2022,A,0,Total population is restricted to household head and wife due to data limitations.,Demographic and Health Survey,SP_LGL_LNDSTR,404,M,PT,2024-11-07T00:00:00,2022,69.9492

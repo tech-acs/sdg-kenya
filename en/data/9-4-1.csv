@@ -1,0 +1,93 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,ACTIVITY,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,BASE_PER,Value
+2000,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,8.06
+2001,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,7.31
+2002,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,7.01
+2003,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,6.06
+2004,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,6.8
+2005,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,7.65
+2006,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,8.63
+2007,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,8.55
+2008,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,8.96
+2009,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,10.73
+2010,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,11.5
+2011,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,11.62
+2012,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,10.57
+2013,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,11.42
+2014,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,13.08
+2015,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,14.19
+2016,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,15.23
+2017,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,16.29
+2018,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,16.27
+2019,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,16.56
+2020,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,15.7
+2021,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,17.44
+2022,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,None,T,2025-02-19T00:00:00,2022,,17.76
+2000,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,1.36
+2001,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,1.49
+2002,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,1.66
+2003,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,1.41
+2004,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,1.56
+2005,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,1.71
+2006,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,2.05
+2007,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,1.9
+2008,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,1.98
+2009,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,1.8
+2010,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,2.11
+2011,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,2.5
+2012,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,1.71
+2013,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,1.7
+2014,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,2.16
+2015,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,2.45
+2016,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,2.54
+2017,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,2.47
+2018,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,2.66
+2019,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,2.42
+2020,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,2.43
+2021,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,2.87
+2022,A,6,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2,404,ISIC4_C10T32X19,T,2025-02-19T00:00:00,2022,,3.27
+2000,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.069
+2001,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.06
+2002,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.058
+2003,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.048
+2004,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.052
+2005,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.055
+2006,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.059
+2007,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.055
+2008,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.057
+2009,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.066
+2010,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.066
+2011,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.063
+2012,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.055
+2013,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.057
+2014,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.062
+2015,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.064
+2016,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.066
+2017,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.068
+2018,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.065
+2019,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.063
+2020,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.059
+2021,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.061
+2022,A,0,"IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",EN_ATM_CO2GDP,404,None,KG_PER_CON_USD,2025-02-19T00:00:00,2022,2021,0.06
+2000,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.318
+2001,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.343
+2002,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.381
+2003,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.306
+2004,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.324
+2005,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.339
+2006,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.383
+2007,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.34
+2008,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.35
+2009,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.333
+2010,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.369
+2011,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.406
+2012,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.277
+2013,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.262
+2014,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.327
+2015,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.35
+2016,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.356
+2017,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.344
+2018,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.358
+2019,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.317
+2020,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.319
+2021,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.352
+2022,A,0,"UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",EN_ATM_CO2MVA,404,ISIC4_C,KG_PER_CON_USD,2025-03-04T00:00:00,2022,2015,0.39

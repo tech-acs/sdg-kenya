@@ -1,0 +1,11 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
+2015,A,0,Kenya National Bureau of Statistics,IT_MOB_OWN,404,None,PT,2025-03-06T00:00:00,2023,Aged 3 and older.,44.8
+2016,A,0,Kenya National Bureau of Statistics,IT_MOB_OWN,404,None,PT,2025-03-06T00:00:00,2023,Aged 3 and older.,44.8
+2019,A,0,Kenya National Bureau of Statistics,IT_MOB_OWN,404,None,PT,2025-03-06T00:00:00,2023,Aged 3 and older.,47.3
+2023,A,0,Kenya National Bureau of Statistics,IT_MOB_OWN,404,None,PT,2025-03-06T00:00:00,2023,Aged 3 and older.,53.7
+2015,A,0,Kenya National Bureau of Statistics,IT_MOB_OWN,404,F,PT,2025-03-06T00:00:00,2023,Aged 3 and older.,43.7
+2019,A,0,Kenya National Bureau of Statistics,IT_MOB_OWN,404,F,PT,2025-03-06T00:00:00,2023,Aged 3 and older.,47.0
+2023,A,0,Kenya National Bureau of Statistics,IT_MOB_OWN,404,F,PT,2025-03-06T00:00:00,2023,Aged 3 and older.,52.9
+2015,A,0,Kenya National Bureau of Statistics,IT_MOB_OWN,404,M,PT,2025-03-06T00:00:00,2023,Aged 3 and older.,46.0
+2019,A,0,Kenya National Bureau of Statistics,IT_MOB_OWN,404,M,PT,2025-03-06T00:00:00,2023,Aged 3 and older.,47.6
+2023,A,0,Kenya National Bureau of Statistics,IT_MOB_OWN,404,M,PT,2025-03-06T00:00:00,2023,Aged 3 and older.,54.5

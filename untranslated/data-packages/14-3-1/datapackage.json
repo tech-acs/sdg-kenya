@@ -1,0 +1,217 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mooring Name: Coral Garden | LATITUDE: -4.00 | LONGITUDE: 39.75; Upper and lower bounds where not provided.",
+                "Mooring Name:  Diani | LATITUDE: -4.34 | LONGITUDE: 39.58",
+                "Mooring Name:  Gazi | LATITUDE: -4.46 | LONGITUDE: 39.53",
+                "Mooring Name:  Kilifi bay | LATITUDE: -3.62 | LONGITUDE: 39.88",
+                "Mooring Name: Kuruwitu | LATITUDE: -3.812 | LONGITUDE: 39.837",
+                "Mooring Name: Malindi | LATITUDE: -3.235 | LONGITUDE: 40.137",
+                "Mooring Name:  Nyali | LATITUDE: -4.06 | LONGITUDE: 39.72",
+                "Mooring Name: Shimoni | LATITUDE: -4.665 | LONGITUDE: 39.344",
+                "Mooring Name: Kilifi | LATITUDE: -3.620 | LONGITUDE: 39.884",
+                "Mooring Name: Lamu | LATITUDE: -2.217 | LONGITUDE: 40.979",
+                "Mooring Name: Mombasa | LATITUDE: -4.002 | LONGITUDE: 39.750",
+                "Mooring Name: Vanga | LATITUDE: -4.675 | LONGITUDE: 39.268",
+                "Mooring Name: Mombasa_Coral Garden | LATITUDE: -4.000 | LONGITUDE: 39.750",
+                "Mooring Name: Mombasa_Nyali | LATITUDE: -4.061 | LONGITUDE: 39.724",
+                "Mooring Name: Shimoni_Chanjale | LATITUDE: -4.668 | LONGITUDE: 39.344",
+                "Mooring Name: Shimoni_Wasini | LATITUDE: -4.654 | LONGITUDE: 39.364",
+                "Mooring Name: Lamu_Iweni | LATITUDE: -2.217 | LONGITUDE: 40.979",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "8.400",
+                "8.010",
+                "8.040",
+                "8.430",
+                "8.350",
+                "7.903",
+                "8.049",
+                "8.06667",
+                "7.989",
+                "8.065",
+                "8.100",
+                "8.16",
+                "8.160",
+                "8.320",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7.870",
+                "7.480",
+                "7.970",
+                "8.170",
+                "8.180",
+                "7.894",
+                "7.918",
+                "7.36",
+                "7.95",
+                "8.012",
+                "8.020",
+                "7.90606",
+                "8.010",
+                "7.790",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Intergovernmental Oceanographic Commission (IOC) of UNESCO",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "404",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "CUST_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C01",
+                "C02",
+                "C03",
+                "C04",
+                "C05",
+                "C06",
+                "C07",
+                "C08",
+                "C09",
+                "C10",
+                "C11",
+                "C12",
+                "C13",
+                "C14",
+                "C15",
+                "C16",
+                "C17",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "CUST_BREAKDOWN_LB",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Coral Garden",
+                "Diani",
+                "Gazi",
+                "Kilifi bay",
+                "Kuruwitu",
+                "Malindi",
+                "Nyali",
+                "Shimoni",
+                "Kilifi",
+                "Lamu",
+                "Mombasa",
+                "Vanga",
+                "Mombasa_Coral Garden",
+                "Mombasa_Nyali",
+                "Shimoni_Chanjale",
+                "Shimoni_Wasini",
+                "Lamu_Iweni",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020",
+                "2024",
+                "2021",
+                "2023",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-3-1",
+  "title": "Average marine acidity (pH) measured at agreed suite of representative sampling stations"
+}

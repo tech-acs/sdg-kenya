@@ -1,0 +1,3 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,INCOME_WEALTH_QUANTILE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2021,A,0,Estimated from consumption data. Growth rates are for the period of 2015-2021.,World Bank,SI_HEI_TOTL,404,None,PT,2025-08-12T00:00:00,2021,-3.09
+2021,A,0,Estimated from consumption data. Growth rates are for the period of 2015-2021.,World Bank,SI_HEI_TOTL,404,B40,PT,2025-08-12T00:00:00,2021,-1.18

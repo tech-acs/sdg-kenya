@@ -1,0 +1,8 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
+2010,A,0,Data gathered from the latest version of NBSAP,ER_IAS_LEGIS,404,BOOL,2024-09-26T00:00:00,2022,2022 dataset disaggregated into relevant themes,0
+2016,A,0,Data gathered from the latest version of NBSAP,ER_IAS_LEGIS,404,BOOL,2024-09-26T00:00:00,2022,2022 dataset disaggregated into relevant themes,1
+2020,A,0,Data gathered from the latest version of NBSAP,ER_IAS_LEGIS,404,BOOL,2024-09-26T00:00:00,2022,2022 dataset disaggregated into relevant themes,1
+2022,A,0,Data gathered from the latest version of NBSAP,ER_IAS_LEGIS,404,BOOL,2024-09-26T00:00:00,2022,2022 dataset disaggregated into relevant themes,1
+2016,A,0,Data gathered from the latest version of NBSAP,ER_IAS_NBSAP,404,BOOL,2024-09-26T00:00:00,2022,Reference to Target 9 was a requirement,0
+2020,A,0,Data gathered from the latest version of NBSAP,ER_IAS_NBSAP,404,BOOL,2024-09-26T00:00:00,2022,Reference to Target 9 was a requirement,0
+2022,A,0,Data gathered from the latest version of NBSAP,ER_IAS_NBSAP,404,BOOL,2024-09-26T00:00:00,2022,Reference to Target 9 was a requirement,0

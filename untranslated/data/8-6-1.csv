@@ -1,0 +1,19 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2005,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET,404,None,Y15T24,PT,2025-03-15T00:00:00,2021,22.7
+2016,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET,404,None,Y15T24,PT,2025-03-15T00:00:00,2021,13.73
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET,404,None,Y15T24,PT,2025-03-15T00:00:00,2021,19.67
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET,404,None,Y15T24,PT,2025-03-15T00:00:00,2021,18.73
+2005,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET,404,F,Y15T24,PT,2025-03-15T00:00:00,2021,29.98
+2016,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET,404,F,Y15T24,PT,2025-03-15T00:00:00,2021,18.24
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET,404,F,Y15T24,PT,2025-03-15T00:00:00,2021,24.29
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET,404,F,Y15T24,PT,2025-03-15T00:00:00,2021,24.97
+2005,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET,404,M,Y15T24,PT,2025-03-15T00:00:00,2021,15.36
+2016,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET,404,M,Y15T24,PT,2025-03-15T00:00:00,2021,9.2
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET,404,M,Y15T24,PT,2025-03-15T00:00:00,2021,14.97
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET,404,M,Y15T24,PT,2025-03-15T00:00:00,2021,12.21
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET_19ICLS,404,None,Y15T24,PT,2025-03-15T00:00:00,2021,28.97
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET_19ICLS,404,None,Y15T24,PT,2025-03-15T00:00:00,2021,26.27
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET_19ICLS,404,F,Y15T24,PT,2025-03-15T00:00:00,2021,34.03
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET_19ICLS,404,F,Y15T24,PT,2025-03-15T00:00:00,2021,32.82
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET_19ICLS,404,M,Y15T24,PT,2025-03-15T00:00:00,2021,23.83
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_NEET_19ICLS,404,M,Y15T24,PT,2025-03-15T00:00:00,2021,19.41

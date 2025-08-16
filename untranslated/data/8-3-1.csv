@@ -1,0 +1,19 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,ACTIVITY,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM,404,None,Y_GE15,None,PT,2025-03-15T00:00:00,2019,86.49
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM,404,None,Y_GE15,ISIC4_A,PT,2025-03-15T00:00:00,2019,97.11
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM,404,None,Y_GE15,ISIC4_BTU,PT,2025-03-15T00:00:00,2019,81.12
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM,404,F,Y_GE15,None,PT,2025-03-15T00:00:00,2019,90.19
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM,404,F,Y_GE15,ISIC4_A,PT,2025-03-15T00:00:00,2019,97.68
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM,404,F,Y_GE15,ISIC4_BTU,PT,2025-03-15T00:00:00,2019,86.01
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM,404,M,Y_GE15,None,PT,2025-03-15T00:00:00,2019,83.13
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM,404,M,Y_GE15,ISIC4_A,PT,2025-03-15T00:00:00,2019,96.52
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM,404,M,Y_GE15,ISIC4_BTU,PT,2025-03-15T00:00:00,2019,76.94
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM_19ICLS,404,None,Y_GE15,None,PT,2025-03-15T00:00:00,2019,79.28
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM_19ICLS,404,None,Y_GE15,ISIC4_A,PT,2025-03-15T00:00:00,2019,94.15
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM_19ICLS,404,None,Y_GE15,ISIC4_BTU,PT,2025-03-15T00:00:00,2019,74.21
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM_19ICLS,404,F,Y_GE15,None,PT,2025-03-15T00:00:00,2019,82.75
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM_19ICLS,404,F,Y_GE15,ISIC4_A,PT,2025-03-15T00:00:00,2019,94.69
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM_19ICLS,404,F,Y_GE15,ISIC4_BTU,PT,2025-03-15T00:00:00,2019,78.24
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM_19ICLS,404,M,Y_GE15,None,PT,2025-03-15T00:00:00,2019,76.82
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM_19ICLS,404,M,Y_GE15,ISIC4_A,PT,2025-03-15T00:00:00,2019,93.71
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_ISV_IFEM_19ICLS,404,M,Y_GE15,ISIC4_BTU,PT,2025-03-15T00:00:00,2019,71.48

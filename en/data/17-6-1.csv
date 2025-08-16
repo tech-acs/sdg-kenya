@@ -1,0 +1,119 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
+2005,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.01508
+2006,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.04802
+2007,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.04663
+2008,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.00837
+2009,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.04504
+2010,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.01651
+2011,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.12663
+2012,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.12383
+2013,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.16481
+2014,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.22109
+2015,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.28692
+2016,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.27566
+2017,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.58601
+2018,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.73993
+2019,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.95929
+2020,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,1.29112
+2021,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,1.48254
+2022,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,1.47647
+2023,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,None,PER_100_POP,2025-03-03T00:00:00,2023,,2.38883
+2010,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.00998
+2011,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.06468
+2012,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.07178
+2013,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.08192
+2014,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.18686
+2015,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0666
+2016,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.13468
+2017,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.233
+2018,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.1947
+2019,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.02088
+2020,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.02823
+2021,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.02448
+2022,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.02373
+2023,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.02327
+2010,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,1.2e-05
+2011,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,5.61e-05
+2012,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0001
+2013,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.00107
+2014,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.00493
+2015,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.22032
+2016,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.13377
+2017,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.35301
+2018,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.54523
+2019,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.54384
+2020,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.74755
+2021,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.74703
+2022,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.87742
+2023,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,1.13118
+2010,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0
+2011,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0
+2012,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0
+2013,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0
+2014,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0
+2015,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0
+2016,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0
+2019,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.39456
+2020,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.51534
+2021,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.71104
+2022,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.57532
+2023,A,0,Data based on the ITU DataHub,IT_NET_BBND,404,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,1.23438
+2005,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",5399.0
+2006,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",17723.0
+2007,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",17737.0
+2008,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",3282.0
+2009,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",18200.0
+2010,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",6866.0
+2011,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",54144.0
+2012,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",54348.0
+2013,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",74144.0
+2014,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",101813.0
+2015,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",135107.0
+2016,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",132702.0
+2017,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",288303.0
+2018,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",371498.0
+2019,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",491183.0
+2020,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",674191.0
+2021,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",788996.0
+2022,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",801021.0
+2023,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,None,NUMBER,2025-03-24T00:00:00,2023,"More fixed-broadband service providers joining the market, expanding the market.",1321952.0
+2010,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Subscribers moving to fast and more reliable speeds.,4151.0
+2011,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Subscribers moving to fast and more reliable speeds.,27657.0
+2012,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Subscribers moving to fast and more reliable speeds.,31503.0
+2013,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Subscribers moving to fast and more reliable speeds.,36853.0
+2014,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Subscribers moving to fast and more reliable speeds.,86050.0
+2015,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Subscribers moving to fast and more reliable speeds.,31361.0
+2016,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Subscribers moving to fast and more reliable speeds.,64836.0
+2017,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Subscribers moving to fast and more reliable speeds.,114631.0
+2018,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Subscribers moving to fast and more reliable speeds.,97752.0
+2019,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Subscribers moving to fast and more reliable speeds.,10693.0
+2020,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Subscribers moving to fast and more reliable speeds.,14743.0
+2021,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Subscribers moving to fast and more reliable speeds.,13027.0
+2022,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Subscribers moving to fast and more reliable speeds.,12873.0
+2023,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Subscribers moving to fast and more reliable speeds.,12877.0
+2010,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,2022 value reviewed,5.0
+2011,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,2022 value reviewed,24.0
+2012,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,2022 value reviewed,44.0
+2013,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,2022 value reviewed,482.0
+2014,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,2022 value reviewed,2272.0
+2015,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,2022 value reviewed,103746.0
+2016,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,2022 value reviewed,64398.0
+2017,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,2022 value reviewed,173672.0
+2018,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,2022 value reviewed,273746.0
+2019,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,2022 value reviewed,278463.0
+2020,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,2022 value reviewed,390351.0
+2021,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,2022 value reviewed,397561.0
+2022,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,2022 value reviewed,476023.0
+2023,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,2022 value reviewed,625984.0
+2010,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,This is already taken care of below. 2022 value reviewed,0.0
+2011,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,This is already taken care of below. 2022 value reviewed,0.0
+2012,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,This is already taken care of below. 2022 value reviewed,0.0
+2013,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,This is already taken care of below. 2022 value reviewed,0.0
+2014,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,This is already taken care of below. 2022 value reviewed,0.0
+2015,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,This is already taken care of below. 2022 value reviewed,0.0
+2016,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,This is already taken care of below. 2022 value reviewed,0.0
+2019,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,This is already taken care of below. 2022 value reviewed,202027.0
+2020,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,This is already taken care of below. 2022 value reviewed,269097.0
+2021,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,This is already taken care of below. 2022 value reviewed,378408.0
+2022,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,This is already taken care of below. 2022 value reviewed,312125.0
+2023,A,0,Communications Authority  of Kenya,IT_NET_BBNDN,404,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,This is already taken care of below. 2022 value reviewed,683091.0

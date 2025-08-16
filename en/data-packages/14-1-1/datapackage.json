@@ -1,0 +1,202 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "D",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",
+                "Kenya Marine and Fisheries Research Institute",
+                "World Environment Situation Room",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "404",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "CUST_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "C104",
+                "C116",
+                "C144",
+                "C156",
+                "C175",
+                "C232",
+                "C262",
+                "C356",
+                "C36",
+                "C360",
+                "C364",
+                "C404",
+                "C450",
+                "C458",
+                "C480",
+                "C50",
+                "C508",
+                "C512",
+                "C586",
+                "C608",
+                "C626",
+                "C638",
+                "C682",
+                "C704",
+                "C706",
+                "C710",
+                "C729",
+                "C764",
+                "C834",
+                "C887",
+                ""
+              ]
+            },
+            "title": "CUST_BREAKDOWN"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "FCC_E",
+                "FCC_H",
+                "FCC_M",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "DATA_LAST_UPDATE"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2010-2021",
+                "2010-2022",
+                "2010-2020",
+                "2023",
+                "2022",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
+            "name": "CUST_BREAKDOWN_LB",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Myanmar",
+                "Cambodia",
+                "Sri Lanka",
+                "China",
+                "Mayotte",
+                "Eritrea",
+                "Djibouti",
+                "India",
+                "Australia",
+                "Indonesia",
+                "Iran (Islamic Republic of)",
+                "Kenya",
+                "Madagascar",
+                "Malaysia",
+                "Mauritius",
+                "Bangladesh",
+                "Mozambique",
+                "Oman",
+                "Pakistan",
+                "Philippines",
+                "Timor-Leste",
+                "Réunion",
+                "Saudi Arabia",
+                "Viet Nam",
+                "Somalia",
+                "South Africa",
+                "Sudan",
+                "Thailand",
+                "United Republic of Tanzania",
+                "Yemen",
+                ""
+              ]
+            },
+            "title": "CUST_BREAKDOWN_LB"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-1-1",
+  "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
+}

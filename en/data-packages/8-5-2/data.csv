@@ -1,0 +1,67 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,DISABILITY_STATUS,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2005,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,None,Y_GE15,None,PT,2025-03-15T00:00:00,2021,9.96
+2009,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,None,Y_GE15,None,PT,2025-03-15T00:00:00,2021,9.6
+2016,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,None,Y_GE15,None,PT,2025-03-15T00:00:00,2021,2.76
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,None,Y_GE15,None,PT,2025-03-15T00:00:00,2021,5.01
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,None,Y_GE15,None,PT,2025-03-15T00:00:00,2021,5.69
+2005,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,None,Y_GE25,None,PT,2025-03-15T00:00:00,2021,6.87
+2016,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,None,Y_GE25,None,PT,2025-03-15T00:00:00,2021,1.56
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,None,Y_GE25,None,PT,2025-03-15T00:00:00,2021,3.35
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,None,Y_GE25,None,PT,2025-03-15T00:00:00,2021,4.31
+2005,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,None,Y15T24,None,PT,2025-03-15T00:00:00,2021,19.65
+2016,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,None,Y15T24,None,PT,2025-03-15T00:00:00,2021,7.36
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,None,Y15T24,None,PT,2025-03-15T00:00:00,2021,12.85
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,None,Y15T24,None,PT,2025-03-15T00:00:00,2021,12.43
+2005,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,F,Y_GE15,None,PT,2025-03-15T00:00:00,2021,10.13
+2009,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,F,Y_GE15,None,PT,2025-03-15T00:00:00,2021,9.4
+2016,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,F,Y_GE15,None,PT,2025-03-15T00:00:00,2021,2.94
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,F,Y_GE15,None,PT,2025-03-15T00:00:00,2021,5.26
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,F,Y_GE15,None,PT,2025-03-15T00:00:00,2021,7.56
+2005,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,F,Y_GE25,None,PT,2025-03-15T00:00:00,2021,6.9
+2016,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,F,Y_GE25,None,PT,2025-03-15T00:00:00,2021,1.8
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,F,Y_GE25,None,PT,2025-03-15T00:00:00,2021,3.47
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,F,Y_GE25,None,PT,2025-03-15T00:00:00,2021,5.67
+2005,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,F,Y15T24,None,PT,2025-03-15T00:00:00,2021,20.61
+2016,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,F,Y15T24,None,PT,2025-03-15T00:00:00,2021,7.43
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,F,Y15T24,None,PT,2025-03-15T00:00:00,2021,13.84
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,F,Y15T24,None,PT,2025-03-15T00:00:00,2021,17.15
+2005,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,M,Y_GE15,None,PT,2025-03-15T00:00:00,2021,9.81
+2009,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,M,Y_GE15,None,PT,2025-03-15T00:00:00,2021,9.9
+2016,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,M,Y_GE15,None,PT,2025-03-15T00:00:00,2021,2.58
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,M,Y_GE15,None,PT,2025-03-15T00:00:00,2021,4.78
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,M,Y_GE15,None,PT,2025-03-15T00:00:00,2021,3.9
+2005,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,M,Y_GE25,None,PT,2025-03-15T00:00:00,2021,6.84
+2016,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,M,Y_GE25,None,PT,2025-03-15T00:00:00,2021,1.33
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,M,Y_GE25,None,PT,2025-03-15T00:00:00,2021,3.23
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,M,Y_GE25,None,PT,2025-03-15T00:00:00,2021,2.97
+2005,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,M,Y15T24,None,PT,2025-03-15T00:00:00,2021,18.88
+2016,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,M,Y15T24,None,PT,2025-03-15T00:00:00,2021,7.29
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,M,Y15T24,None,PT,2025-03-15T00:00:00,2021,11.98
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM,404,M,Y15T24,None,PT,2025-03-15T00:00:00,2021,8.21
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,None,Y_GE15,None,PT,2025-03-15T00:00:00,2021,8.45
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,None,Y_GE15,None,PT,2025-03-15T00:00:00,2021,8.73
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,None,Y_GE25,None,PT,2025-03-15T00:00:00,2021,5.45
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,None,Y_GE25,None,PT,2025-03-15T00:00:00,2021,6.52
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,None,Y15T24,None,PT,2025-03-15T00:00:00,2021,25.81
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,None,Y15T24,None,PT,2025-03-15T00:00:00,2021,20.37
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,F,Y_GE15,None,PT,2025-03-15T00:00:00,2021,10.3
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,F,Y_GE15,None,PT,2025-03-15T00:00:00,2021,12.76
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,F,Y_GE25,None,PT,2025-03-15T00:00:00,2021,6.73
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,F,Y_GE25,None,PT,2025-03-15T00:00:00,2021,9.66
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,F,Y15T24,None,PT,2025-03-15T00:00:00,2021,28.36
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,F,Y15T24,None,PT,2025-03-15T00:00:00,2021,27.81
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,M,Y_GE15,None,PT,2025-03-15T00:00:00,2021,7.17
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,M,Y_GE15,None,PT,2025-03-15T00:00:00,2021,5.5
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,M,Y_GE25,None,PT,2025-03-15T00:00:00,2021,4.59
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,M,Y_GE25,None,PT,2025-03-15T00:00:00,2021,4.06
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,M,Y15T24,None,PT,2025-03-15T00:00:00,2021,23.62
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,SL_TLF_UEM_19ICLS,404,M,Y15T24,None,PT,2025-03-15T00:00:00,2021,13.59
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,PC - Population Census,SL_TLF_UEMDIS,404,None,Y_GE15,None,PT,2025-03-15T00:00:00,2019,3.17
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,PC - Population Census,SL_TLF_UEMDIS,404,None,Y_GE15,PD,PT,2025-03-15T00:00:00,2019,0.41
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,PC - Population Census,SL_TLF_UEMDIS,404,None,Y_GE15,PWD,PT,2025-03-15T00:00:00,2019,3.26
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,PC - Population Census,SL_TLF_UEMDIS,404,F,Y_GE15,None,PT,2025-03-15T00:00:00,2019,2.21
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,PC - Population Census,SL_TLF_UEMDIS,404,F,Y_GE15,PD,PT,2025-03-15T00:00:00,2019,0.3
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,PC - Population Census,SL_TLF_UEMDIS,404,F,Y_GE15,PWD,PT,2025-03-15T00:00:00,2019,2.29
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,PC - Population Census,SL_TLF_UEMDIS,404,M,Y_GE15,None,PT,2025-03-15T00:00:00,2019,4.13
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,PC - Population Census,SL_TLF_UEMDIS,404,M,Y_GE15,PD,PT,2025-03-15T00:00:00,2019,0.58
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,PC - Population Census,SL_TLF_UEMDIS,404,M,Y_GE15,PWD,PT,2025-03-15T00:00:00,2019,4.23

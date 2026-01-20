@@ -55,7 +55,7 @@ disclaimer:
   message: ""
   hidden: true
 email_contacts:
-  questions: test@example.com
+  questions: ecastats@un.org
   suggestions: test@example.com
   functional: test@example.com
 environment: staging
@@ -63,10 +63,8 @@ footer_language_toggle: none
 footer_menu:
   - path: /contact-us
     translation_key: menu.contact_us
-  - path: "https://twitter.com/MyTwitterAccount"
+  - path: "https://x.com/ECAStats/status/1770005130219233374"
     translation_key: general.twitter
-  - path: "https://facebook.com/MyFacebookAccount"
-    translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
 frontpage_cards:

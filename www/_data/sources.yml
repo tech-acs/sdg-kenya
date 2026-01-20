@@ -1,0 +1,3 @@
+- name: United Nations Global SDG Database
+  url: https://unstats.un.org/sdgs/unsdg/
+  description: Global SDG indicator data compiled by the UN system.

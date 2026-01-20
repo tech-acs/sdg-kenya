@@ -39,6 +39,8 @@ jobs:
         python-version: 3.8
     - name: Install dependencies
       run: make install
+    - name: Apply default source to indicator-config
+      run: python scripts/apply_default_sources.py
     - name: Build the site
       run: make build.production
     - name: Deploy to GitHub Pages

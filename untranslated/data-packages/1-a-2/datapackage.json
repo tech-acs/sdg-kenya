@@ -35,20 +35,11 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "General Government Sector",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
+                "UIS Dynamic Template (mined data) based on 2024/2025 PROGRAMME BASED BUDGET OF THE NATIONAL GOVERNMENT OF KENYA (http://www.parliament.go.ke/sites/default/files/2024-05/FY%202024-2025-Programme%20Based%20Budget-1011-2141.pdf) Data extracted on 31 October 2025.",
                 "IMF",
                 ""
               ]
@@ -81,7 +72,18 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2025",
                 "2023",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "General Government Sector",
                 ""
               ]
             }

@@ -50,6 +50,7 @@
             "constraints": {
               "enum": [
                 "Kenya - Integrated Household Budget Survey 2015-2016",
+                "Kenya - Integrated Household Budget Survey 2005-2006",
                 ""
               ]
             }
@@ -69,6 +70,72 @@
             }
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "Y_GE60",
+                "Y0T59",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "R",
+                "U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "HH_ADTONLY",
+                "HH_ADTWCHLDADO",
+                "HH_ADTWOLDER",
+                "HH_MULTIGEN",
+                "HH_ONLYOLDER",
+                ""
+              ]
+            }
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
@@ -82,6 +149,7 @@
             "constraints": {
               "enum": [
                 "2015",
+                "2005",
                 ""
               ]
             }

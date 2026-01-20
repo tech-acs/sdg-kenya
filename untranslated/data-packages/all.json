@@ -387,7 +387,7 @@
             "constraints": {
               "enum": [
                 "2020",
-                "2023",
+                "2024",
                 "2010-2020",
                 ""
               ]
@@ -980,15 +980,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2020",
-                "2018",
+                "2023",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -3359,6 +3358,100 @@
       "title": "CO2 emission per unit of value added"
     },
     {
+      "path": "13-2-2/data.csv",
+      "name": "13-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data reported as at 20 November 2025",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNFCCC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "404",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2022",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Total greenhouse gas emissions per year"
+    },
+    {
       "path": "11-6-2/data.csv",
       "name": "11-6-2",
       "profile": "tabular-data-resource",
@@ -4271,21 +4364,12 @@
             "constraints": {
               "enum": [
                 "None",
-                "MF_AGG3A",
-                "MF_AGG3B",
                 "MF1",
-                "MF11",
-                "MF121",
-                "MF122",
-                "MF13",
-                "MF14",
                 "MF2",
-                "MF21",
-                "MF22",
                 "MF3",
                 "MF4",
-                "MF41",
-                "MF421",
+                "MF5",
+                "MF6",
                 ""
               ]
             }
@@ -4303,6 +4387,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2024",
                 "2023",
                 ""
               ]
@@ -4390,21 +4475,12 @@
             "constraints": {
               "enum": [
                 "None",
-                "MF_AGG3A",
-                "MF_AGG3B",
                 "MF1",
-                "MF11",
-                "MF121",
-                "MF122",
-                "MF13",
-                "MF14",
                 "MF2",
-                "MF21",
-                "MF22",
                 "MF3",
                 "MF4",
-                "MF41",
-                "MF421",
+                "MF5",
+                "MF6",
                 ""
               ]
             }
@@ -4422,6 +4498,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2024",
                 "2023",
                 ""
               ]
@@ -4718,6 +4795,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = NaN.  Obs_Value = NaN.  Not Available",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
@@ -4755,16 +4842,6 @@
             "constraints": {
               "enum": [
                 "2021",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NaN = A figure was not provided",
                 ""
               ]
             }
@@ -5241,8 +5318,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2025",
                 "2024",
-                "2022",
                 ""
               ]
             }
@@ -6124,6 +6201,7 @@
             "constraints": {
               "enum": [
                 "Ministry of Livestock Development",
+                "Ministry of Agriculture and Livestock",
                 ""
               ]
             }
@@ -6155,7 +6233,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2024",
+                "2025",
                 ""
               ]
             }
@@ -7548,7 +7626,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UNESCO Institute for Statistics.  Data extracted on 25 February 2025.",
+                "UNESCO Institute for Statistics.  Data extracted on 31 October 2025.",
                 ""
               ]
             }
@@ -7656,7 +7734,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UNESCO Institute for Statistics.  Data extracted on 25 February 2025.",
+                "UNESCO Institute for Statistics.  Data extracted on 31 October 2025.",
                 ""
               ]
             }
@@ -7761,7 +7839,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UNESCO Institute for Statistics.  Data extracted on 25 February 2025.",
+                "UNESCO Institute for Statistics.  Data extracted on 31 October 2025.",
                 ""
               ]
             }
@@ -9574,6 +9652,102 @@
       "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space"
     },
     {
+      "path": "1-a-2/data.csv",
+      "name": "1-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UIS Dynamic Template (mined data) based on 2024/2025 PROGRAMME BASED BUDGET OF THE NATIONAL GOVERNMENT OF KENYA (http://www.parliament.go.ke/sites/default/files/2024-05/FY%202024-2025-Programme%20Based%20Budget-1011-2141.pdf) Data extracted on 31 October 2025.",
+                "IMF",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "404",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2025",
+                "2023",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "General Government Sector",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of total government spending on essential services (education, health and social protection)"
+    },
+    {
       "path": "4-a-1/data.csv",
       "name": "4-a-1",
       "profile": "tabular-data-resource",
@@ -9612,7 +9786,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
+                "Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.",
                 ""
               ]
             }
@@ -9636,7 +9810,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "AGG_2_3",
                 "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3",
                 ""
               ]
             }
@@ -9654,7 +9831,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2016",
+                "2023",
                 ""
               ]
             }
@@ -9820,6 +9997,205 @@
       "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
     },
     {
+      "path": "4-5-1/data.csv",
+      "name": "4-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Literacy definition: Literacy is defined as the ability to read easily or with difficulty a letter or a newspaper.",
+                "Aged 3 and older. Target population is 15 years and above (3 and above for other indicators)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Source: Multiple Indicator Cluster Survey (UNICEF MICS2) Data extracted on 31 October 2025.",
+                "Kenya  DHS 2022. A literacy test was administered to women aged 15-49 and men 15-54 whose highest level of educational attendance was upper secondary schooling or lower. Data extracted on 31 October 2025.",
+                "Kenya  DHS 2022. A literacy test was administered to women aged 15-49 and men 15-54 whose highest level of educational attendance was upper secondary schooling or lower. Literacy status was imputed via a statistical model for older age groups not covered by the assessment. Data extracted on 31 October 2025.",
+                "Kenya Housing Survey 2023/24. The survey collected data on school attendance and educational attainment for age 3 and above. Data extracted on 31 October 2025.",
+                "Kenya  DHS 2022.  The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 31 October 2025.",
+                "KENYA NATIONAL BUREAU OF STATISTICS",
+                "UIS based on KEN - HS - Continuous household survey: ILO Harmonized Microdata, https://ilostat.ilo.org/- Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 31 October 2025.",
+                "Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.",
+                "SOURCE: UIS Education Survey Data extracted on 31 October 2025.",
+                "Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 31 October 2025.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "404",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y15T24",
+                "Y15T99",
+                "Y25T64",
+                "Y65T99",
+                "None",
+                "Y15T64",
+                "Y25T54",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "R",
+                "U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3",
+                "AGG_2_3",
+                "ISCED11_02",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SKILL_LTRCY",
+                "None",
+                "SKILL_DLDONLD",
+                "SKILL_GSPUR",
+                "SKILL_INTBNK",
+                "SKILL_SNTWK",
+                "SKILL_MATH",
+                "SKILL_READ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2000",
+                "2022",
+                "2024",
+                "2015",
+                "2019",
+                "2023",
+                "2008",
+                "2014",
+                "2012",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
+    },
+    {
       "path": "4-3-1/data.csv",
       "name": "4-3-1",
       "profile": "tabular-data-resource",
@@ -9858,9 +10234,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UIS based on UIS based on KEN - HS - Continuous household survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 25 February 2025.",
-                "UIS based on UIS based on KEN - HIES - Household Budget Survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None - Unreliable - Low reliability Data extracted on 25 February 2025.",
-                "UIS based on KOR - LFS - Economically Active Popul - Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None. Reference period: not specified - Low reliability Data extracted on 25 February 2025.",
+                "UIS based on KEN - HS - Continuous household survey: ILO Harmonized Microdata, https://ilostat.ilo.org/- Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 31 October 2025.",
                 ""
               ]
             }
@@ -9899,7 +10273,6 @@
                 "Y15T24",
                 "Y15T64",
                 "Y25T54",
-                "Y55T64",
                 ""
               ]
             }
@@ -9917,9 +10290,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2021",
-                "2016",
-                "2005",
+                "2022",
                 ""
               ]
             }
@@ -9967,106 +10338,11 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "National Assessment (NA): Kenya National Adult Literacy Survey Report 2007; Proficient = Level 5, Level 4, Level 3; Not Proficient = Level 2, Level 1, Level 0 Data extracted on 25 February 2025.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "404",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y16T65",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SKILL_LTRCY",
-                "SKILL_NMRCY",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2006",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Youth/adult literacy rate"
-    },
-    {
-      "path": "4-5-1/data.csv",
-      "name": "4-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
+                "Literacy definition: Literacy is defined as the ability to read easily or with difficulty a letter or a newspaper.",
                 ""
               ]
             }
@@ -10076,11 +10352,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kenya  DHS 2022.  The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
-                "KENYA NATIONAL BUREAU OF STATISTICS",
-                "UIS based on UIS based on KEN - HS - Continuous household survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 25 February 2025.",
-                "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
-                "Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 25 February 2025.",
+                "Source: Multiple Indicator Cluster Survey (UNICEF MICS2) Data extracted on 31 October 2025.",
                 ""
               ]
             }
@@ -10116,52 +10388,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "None",
                 "Y15T24",
-                "Y15T64",
-                "Y25T54",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "R",
-                "U",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISCED11_1",
-                "ISCED11_2",
-                "ISCED11_3",
-                "None",
-                "AGG_2_3",
-                "ISCED11_02",
+                "Y15T99",
+                "Y25T64",
+                "Y65T99",
                 ""
               ]
             }
@@ -10171,13 +10401,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "None",
-                "SKILL_DLDONLD",
-                "SKILL_GSPUR",
-                "SKILL_INTBNK",
-                "SKILL_SNTWK",
-                "SKILL_MATH",
-                "SKILL_READ",
+                "SKILL_LTRCY",
                 ""
               ]
             }
@@ -10195,26 +10419,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
-                "2015",
-                "2019",
-                "2021",
-                "2009",
-                "2008",
-                "2014",
-                "2012",
-                "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "This data point is NOT APPLICABLE for the submitting nation.",
-                "Aged 3 and older. Target population is 15 years and above (3 and above for other indicators)",
+                "2000",
                 ""
               ]
             }
@@ -10225,7 +10430,7 @@
           }
         ]
       },
-      "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
+      "title": "Youth/adult literacy rate"
     },
     {
       "path": "4-2-1/data.csv",
@@ -10382,7 +10587,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
+                "Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.",
                 ""
               ]
             }
@@ -10426,7 +10631,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2009",
+                "2023",
                 ""
               ]
             }
@@ -10478,7 +10683,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kenya  DHS 2022.  The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "Kenya Housing Survey 2023/24. The survey collected data on school attendance and educational attainment for age 3 and above. Data extracted on 31 October 2025.",
+                "Kenya  DHS 2022.  The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 31 October 2025.",
                 ""
               ]
             }
@@ -10561,17 +10767,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2024",
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "This data point is NOT APPLICABLE for the submitting nation.",
                 ""
               ]
             }
@@ -10623,7 +10820,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 25 February 2025.",
+                "Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 31 October 2025.",
                 ""
               ]
             }
@@ -10740,7 +10937,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
+                "Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.",
                 ""
               ]
             }
@@ -10798,10 +10995,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2009",
-                "2014",
-                "2012",
-                "2008",
+                "2023",
                 ""
               ]
             }
@@ -10999,7 +11193,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2024",
+                "2023",
                 ""
               ]
             }
@@ -13605,100 +13799,6 @@
       "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
     },
     {
-      "path": "1-a-2/data.csv",
-      "name": "1-a-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "General Government Sector",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IMF",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "404",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of total government spending on essential services (education, health and social protection)"
-    },
-    {
       "path": "1-b-1/data.csv",
       "name": "1-b-1",
       "profile": "tabular-data-resource",
@@ -14011,7 +14111,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "WHO Global Health Observatory (GHO), May 2023 update",
+                "WHO Global Health Observatory (GHO),December 2025 update",
                 ""
               ]
             }
@@ -14043,7 +14143,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2021",
+                "2023",
                 ""
               ]
             }
@@ -14986,7 +15086,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UNAIDS 2024 HIV ESTIMATES",
+                "UNAIDS 2025 HIV ESTIMATES",
                 ""
               ]
             }
@@ -15044,7 +15144,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             }
@@ -15289,6 +15389,206 @@
       "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
     },
     {
+      "path": "2-2-4/data.csv",
+      "name": "2-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "O",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "41.1",
+                "44",
+                "50.2",
+                "49",
+                "34.7",
+                "39.6",
+                "19.7",
+                "34.5",
+                "39.7",
+                "52.3",
+                "68.2",
+                "33.5",
+                "53.5",
+                "40.9",
+                "40.4",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "30.8",
+                "37.8",
+                "38.4",
+                "37.7",
+                "25.4",
+                "34.3",
+                "12.8",
+                "25.2",
+                "29.7",
+                "38.9",
+                "51.8",
+                "28.5",
+                "42",
+                "33.2",
+                "33.4",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kenya Demographic and Health Survey 2022",
+                "NA",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "404",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M12T15",
+                "M12T23",
+                "M16T19",
+                "M20T23",
+                "M6T11",
+                "M6T23",
+                "Y15T49",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "R",
+                "U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2022",
+                "2024",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NaN = A figure was not provided",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Prevalence of minimum dietary diversity, by population group (children aged 6 to 23.9 months and non-pregnant women aged 15 to 49 years)"
+    },
+    {
       "path": "3-c-1/data.csv",
       "name": "3-c-1",
       "profile": "tabular-data-resource",
@@ -15399,6 +15699,168 @@
         ]
       },
       "title": "Health worker density and distribution"
+    },
+    {
+      "path": "3-8-2/data.csv",
+      "name": "3-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Survey-based estimate, using household total consumption expenditure in the denominator",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kenya - Integrated Household Budget Survey 2015-2016",
+                "Kenya - Integrated Household Budget Survey 2005-2006",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "404",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "Y_GE60",
+                "Y0T59",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "R",
+                "U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "HH_ADTONLY",
+                "HH_ADTWCHLDADO",
+                "HH_ADTWOLDER",
+                "HH_MULTIGEN",
+                "HH_ONLYOLDER",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2015",
+                "2005",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
     },
     {
       "path": "3-a-1/data.csv",
@@ -15579,7 +16041,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",
+                "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2025)",
                 ""
               ]
             }
@@ -15623,7 +16085,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2024",
                 ""
               ]
             }
@@ -17202,100 +17664,6 @@
         ]
       },
       "title": "Number of people requiring interventions against neglected tropical diseases"
-    },
-    {
-      "path": "3-8-2/data.csv",
-      "name": "3-8-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Survey-based estimate, using household total consumption expenditure in the denominator",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya - Integrated Household Budget Survey 2015-2016",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "404",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2015",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
     },
     {
       "path": "2-3-2/data.csv",
@@ -19741,7 +20109,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",
+                "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2025)",
                 ""
               ]
             }
@@ -19785,7 +20153,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2024",
                 ""
               ]
             }
@@ -22584,28 +22952,6 @@
       "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
     },
     {
-      "path": "2-2-4/data.csv",
-      "name": "2-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Prevalence of minimum dietary diversity, by population group (children aged 6 to 23.9 months and non-pregnant women aged 15 to 49 years)"
-    },
-    {
       "path": "2-3-1/data.csv",
       "name": "2-3-1",
       "profile": "tabular-data-resource",
@@ -22868,28 +23214,6 @@
         ]
       },
       "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
-    },
-    {
-      "path": "13-2-2/data.csv",
-      "name": "13-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Total greenhouse gas emissions per year"
     },
     {
       "path": "13-2-1/data.csv",

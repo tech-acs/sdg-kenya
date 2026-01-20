@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 25 February 2025.",
+                "Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 31 October 2025.",
                 ""
               ]
             }

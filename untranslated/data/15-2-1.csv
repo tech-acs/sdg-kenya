@@ -7,18 +7,19 @@ Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE
 2018,A,0,Officially reported data,FAO. Global Forest Resources Assessment 2020,AG_LND_FRSTBIOPHA,404,T_PER_HA,2025-03-21T00:00:00,2020,200.38
 2019,A,0,Officially reported data,FAO. Global Forest Resources Assessment 2020,AG_LND_FRSTBIOPHA,404,T_PER_HA,2025-03-21T00:00:00,2020,200.38
 2020,A,0,Officially reported data,FAO. Global Forest Resources Assessment 2020,AG_LND_FRSTBIOPHA,404,T_PER_HA,2025-03-21T00:00:00,2020,200.38
-2000,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-03-21T00:00:00,2023,0.0
-2005,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-03-21T00:00:00,2023,2.36
-2010,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-03-21T00:00:00,2023,0.2
-2015,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-03-21T00:00:00,2023,0.0
-2016,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-03-21T00:00:00,2023,0.0
-2017,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-03-21T00:00:00,2023,0.0
-2018,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-03-21T00:00:00,2023,0.0
-2019,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-03-21T00:00:00,2023,0.0
-2020,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-03-21T00:00:00,2023,0.0
-2021,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-03-21T00:00:00,2023,0.0
-2022,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-03-21T00:00:00,2023,0.0
-2023,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-03-21T00:00:00,2023,0.0
+2000,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-09-18T00:00:00,2024,0.0
+2005,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-09-18T00:00:00,2024,2.36
+2010,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-09-18T00:00:00,2024,0.2
+2015,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-09-18T00:00:00,2024,0.0
+2016,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-09-18T00:00:00,2024,0.0
+2017,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-09-18T00:00:00,2024,0.0
+2018,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-09-18T00:00:00,2024,0.0
+2019,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-09-18T00:00:00,2024,0.0
+2020,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-09-18T00:00:00,2024,0.0
+2021,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-09-18T00:00:00,2024,0.0
+2022,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-09-18T00:00:00,2024,0.0
+2023,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-09-18T00:00:00,2024,0.0
+2024,A,3,No certified forest area,No data on certified forest area in the FSC and PEFC records,AG_LND_FRSTCERT,404,HA,2025-09-18T00:00:00,2024,0.0
 2010,A,0,Officially reported data,FAO. Global Forest Resources Assessment 2020,AG_LND_FRSTCHG,404,PT,2025-03-21T00:00:00,2010-2020,-0.91
 2020,A,0,Officially reported data,FAO. Global Forest Resources Assessment 2020,AG_LND_FRSTCHG,404,PT,2025-03-21T00:00:00,2010-2020,-0.01
 2000,A,0,Official country data,FAO. Global Forest Resources Assessment 2020,AG_LND_FRSTMGT,404,PT,2025-03-21T00:00:00,2020,4.34

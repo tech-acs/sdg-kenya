@@ -1,2 +1,16 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,EDUCATION_LEV,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2016,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_ELECT,404,ISCED11_1,PT,2025-03-05T00:00:00,2016,82.62217
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_CMPTR,404,AGG_2_3,PT,2025-12-04T00:00:00,2023,43.71036
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_CMPTR,404,ISCED11_1,PT,2025-12-04T00:00:00,2023,65.40343
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_CMPTR,404,ISCED11_2,PT,2025-12-04T00:00:00,2023,40.91524
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_CMPTR,404,ISCED11_3,PT,2025-12-04T00:00:00,2023,49.29617
+2016,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_ELECT,404,ISCED11_1,PT,2025-12-04T00:00:00,2023,82.62217
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_ELECT,404,ISCED11_1,PT,2025-12-04T00:00:00,2023,69.59516
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_ELECT,404,ISCED11_2,PT,2025-12-04T00:00:00,2023,68.02724
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_ELECT,404,ISCED11_3,PT,2025-12-04T00:00:00,2023,91.48877
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_H2O,404,ISCED11_1,PT,2025-12-04T00:00:00,2023,74.51223
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_H2O,404,ISCED11_2,PT,2025-12-04T00:00:00,2023,74.41806
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_H2O,404,ISCED11_3,PT,2025-12-04T00:00:00,2023,90.50061
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_INTNT,404,AGG_2_3,PT,2025-12-04T00:00:00,2023,30.55279
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_INTNT,404,ISCED11_1,PT,2025-12-04T00:00:00,2023,31.92016
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_INTNT,404,ISCED11_2,PT,2025-12-04T00:00:00,2023,19.27042
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_ACS_INTNT,404,ISCED11_3,PT,2025-12-04T00:00:00,2023,53.09966

@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UNESCO Institute for Statistics.  Data extracted on 25 February 2025.",
+                "UNESCO Institute for Statistics.  Data extracted on 31 October 2025.",
                 ""
               ]
             },

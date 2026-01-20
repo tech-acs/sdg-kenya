@@ -38,6 +38,17 @@
             "title": "UNIT_MULT"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = NaN.  Obs_Value = NaN.  Not Available",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
@@ -84,17 +95,6 @@
               ]
             },
             "title": "TIME_DETAIL"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NaN = A figure was not provided",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

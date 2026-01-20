@@ -54,6 +54,7 @@
             "constraints": {
               "enum": [
                 "Kenya - Integrated Household Budget Survey 2015-2016",
+                "Kenya - Integrated Household Budget Survey 2005-2006",
                 ""
               ]
             },
@@ -76,6 +77,77 @@
             "title": "REF_AREA"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "F",
+                "M",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "Y_GE60",
+                "Y0T59",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "R",
+                "U",
+                ""
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                ""
+              ]
+            },
+            "title": "INCOME_WEALTH_QUANTILE"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "HH_ADTONLY",
+                "HH_ADTWCHLDADO",
+                "HH_ADTWOLDER",
+                "HH_MULTIGEN",
+                "HH_ONLYOLDER",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
@@ -91,6 +163,7 @@
             "constraints": {
               "enum": [
                 "2015",
+                "2005",
                 ""
               ]
             },

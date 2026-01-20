@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "WHO Global Health Observatory (GHO), May 2023 update",
+                "WHO Global Health Observatory (GHO),December 2025 update",
                 ""
               ]
             }
@@ -71,7 +71,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2021",
+                "2023",
                 ""
               ]
             }

@@ -1,28 +1,31 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2001,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,None,PT,2025-03-05T00:00:00,2009,47.40714
-2002,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,None,PT,2025-03-05T00:00:00,2009,45.49507
-2003,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,None,PT,2025-03-05T00:00:00,2009,47.39524
-2004,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,None,PT,2025-03-05T00:00:00,2009,46.06953
-2005,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,None,PT,2025-03-05T00:00:00,2009,45.7998
-2006,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,None,PT,2025-03-05T00:00:00,2009,45.52892
-2007,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,None,PT,2025-03-05T00:00:00,2009,46.171
-2008,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,None,PT,2025-03-05T00:00:00,2009,43.42461
-2009,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,None,PT,2025-03-05T00:00:00,2009,47.05388
-2001,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,F,PT,2025-03-05T00:00:00,2009,47.65761
-2002,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,F,PT,2025-03-05T00:00:00,2009,45.53824
-2003,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,F,PT,2025-03-05T00:00:00,2009,48.59595
-2004,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,F,PT,2025-03-05T00:00:00,2009,46.39933
-2005,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,F,PT,2025-03-05T00:00:00,2009,46.09824
-2006,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,F,PT,2025-03-05T00:00:00,2009,44.93454
-2007,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,F,PT,2025-03-05T00:00:00,2009,45.25051
-2008,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,F,PT,2025-03-05T00:00:00,2009,43.14509
-2009,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,F,PT,2025-03-05T00:00:00,2009,46.727
-2001,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,M,PT,2025-03-05T00:00:00,2009,47.15709
-2002,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,M,PT,2025-03-05T00:00:00,2009,45.45196
-2003,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,M,PT,2025-03-05T00:00:00,2009,46.19672
-2004,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,M,PT,2025-03-05T00:00:00,2009,45.7405
-2005,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,M,PT,2025-03-05T00:00:00,2009,45.50229
-2006,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,M,PT,2025-03-05T00:00:00,2009,46.12085
-2007,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,M,PT,2025-03-05T00:00:00,2009,47.08675
-2008,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,M,PT,2025-03-05T00:00:00,2009,43.70255
-2009,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,404,M,PT,2025-03-05T00:00:00,2009,47.37882
+2001,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,None,PT,2025-12-04T00:00:00,2023,47.40714
+2002,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,None,PT,2025-12-04T00:00:00,2023,45.49507
+2003,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,None,PT,2025-12-04T00:00:00,2023,47.39524
+2004,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,None,PT,2025-12-04T00:00:00,2023,46.06953
+2005,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,None,PT,2025-12-04T00:00:00,2023,45.7998
+2006,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,None,PT,2025-12-04T00:00:00,2023,45.52892
+2007,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,None,PT,2025-12-04T00:00:00,2023,46.171
+2008,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,None,PT,2025-12-04T00:00:00,2023,43.42461
+2009,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,None,PT,2025-12-04T00:00:00,2023,47.05388
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,None,PT,2025-12-04T00:00:00,2023,92.1214
+2001,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,F,PT,2025-12-04T00:00:00,2023,47.65761
+2002,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,F,PT,2025-12-04T00:00:00,2023,45.53824
+2003,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,F,PT,2025-12-04T00:00:00,2023,48.59595
+2004,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,F,PT,2025-12-04T00:00:00,2023,46.39933
+2005,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,F,PT,2025-12-04T00:00:00,2023,46.09824
+2006,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,F,PT,2025-12-04T00:00:00,2023,44.93454
+2007,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,F,PT,2025-12-04T00:00:00,2023,45.25051
+2008,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,F,PT,2025-12-04T00:00:00,2023,43.14509
+2009,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,F,PT,2025-12-04T00:00:00,2023,46.727
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,F,PT,2025-12-04T00:00:00,2023,93.77074
+2001,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,M,PT,2025-12-04T00:00:00,2023,47.15709
+2002,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,M,PT,2025-12-04T00:00:00,2023,45.45196
+2003,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,M,PT,2025-12-04T00:00:00,2023,46.19672
+2004,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,M,PT,2025-12-04T00:00:00,2023,45.7405
+2005,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,M,PT,2025-12-04T00:00:00,2023,45.50229
+2006,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,M,PT,2025-12-04T00:00:00,2023,46.12085
+2007,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,M,PT,2025-12-04T00:00:00,2023,47.08675
+2008,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,M,PT,2025-12-04T00:00:00,2023,43.70255
+2009,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,M,PT,2025-12-04T00:00:00,2023,47.37882
+2023,A,0,Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.,SE_PRE_PARTN,404,M,PT,2025-12-04T00:00:00,2023,90.46803

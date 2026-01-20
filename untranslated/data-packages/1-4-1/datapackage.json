@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",
+                "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2025)",
                 ""
               ]
             }
@@ -83,7 +83,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2024",
                 ""
               ]
             }

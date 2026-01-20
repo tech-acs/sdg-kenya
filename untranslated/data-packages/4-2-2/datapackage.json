@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
+                "Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.",
                 ""
               ]
             }
@@ -83,7 +83,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2009",
+                "2023",
                 ""
               ]
             }

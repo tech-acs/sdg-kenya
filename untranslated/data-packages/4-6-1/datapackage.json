@@ -35,11 +35,21 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Literacy definition: Literacy is defined as the ability to read easily or with difficulty a letter or a newspaper.",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "National Assessment (NA): Kenya National Adult Literacy Survey Report 2007; Proficient = Level 5, Level 4, Level 3; Not Proficient = Level 2, Level 1, Level 0 Data extracted on 25 February 2025.",
+                "Source: Multiple Indicator Cluster Survey (UNICEF MICS2) Data extracted on 31 October 2025.",
                 ""
               ]
             }
@@ -59,11 +69,26 @@
             }
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y16T65",
+                "Y15T24",
+                "Y15T99",
+                "Y25T64",
+                "Y65T99",
                 ""
               ]
             }
@@ -74,7 +99,6 @@
             "constraints": {
               "enum": [
                 "SKILL_LTRCY",
-                "SKILL_NMRCY",
                 ""
               ]
             }
@@ -92,7 +116,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2006",
+                "2000",
                 ""
               ]
             }

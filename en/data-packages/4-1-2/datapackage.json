@@ -42,7 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kenya  DHS 2022.  The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "Kenya Housing Survey 2023/24. The survey collected data on school attendance and educational attainment for age 3 and above. Data extracted on 31 October 2025.",
+                "Kenya  DHS 2022.  The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 31 October 2025.",
                 ""
               ]
             },
@@ -134,22 +135,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2024",
                 "2022",
                 ""
               ]
             },
             "title": "TIME_DETAIL"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "This data point is NOT APPLICABLE for the submitting nation.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

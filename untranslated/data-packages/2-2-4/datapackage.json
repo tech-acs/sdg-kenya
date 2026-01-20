@@ -12,7 +12,185 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "O",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "41.1",
+                "44",
+                "50.2",
+                "49",
+                "34.7",
+                "39.6",
+                "19.7",
+                "34.5",
+                "39.7",
+                "52.3",
+                "68.2",
+                "33.5",
+                "53.5",
+                "40.9",
+                "40.4",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "30.8",
+                "37.8",
+                "38.4",
+                "37.7",
+                "25.4",
+                "34.3",
+                "12.8",
+                "25.2",
+                "29.7",
+                "38.9",
+                "51.8",
+                "28.5",
+                "42",
+                "33.2",
+                "33.4",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kenya Demographic and Health Survey 2022",
+                "NA",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "404",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M12T15",
+                "M12T23",
+                "M16T19",
+                "M20T23",
+                "M6T11",
+                "M6T23",
+                "Y15T49",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "R",
+                "U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2022",
+                "2024",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NaN = A figure was not provided",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

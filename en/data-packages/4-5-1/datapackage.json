@@ -38,15 +38,32 @@
             "title": "UNIT_MULT"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Literacy definition: Literacy is defined as the ability to read easily or with difficulty a letter or a newspaper.",
+                "Aged 3 and older. Target population is 15 years and above (3 and above for other indicators)",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kenya  DHS 2022.  The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "Source: Multiple Indicator Cluster Survey (UNICEF MICS2) Data extracted on 31 October 2025.",
+                "Kenya  DHS 2022. A literacy test was administered to women aged 15-49 and men 15-54 whose highest level of educational attendance was upper secondary schooling or lower. Data extracted on 31 October 2025.",
+                "Kenya  DHS 2022. A literacy test was administered to women aged 15-49 and men 15-54 whose highest level of educational attendance was upper secondary schooling or lower. Literacy status was imputed via a statistical model for older age groups not covered by the assessment. Data extracted on 31 October 2025.",
+                "Kenya Housing Survey 2023/24. The survey collected data on school attendance and educational attainment for age 3 and above. Data extracted on 31 October 2025.",
+                "Kenya  DHS 2022.  The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 31 October 2025.",
                 "KENYA NATIONAL BUREAU OF STATISTICS",
-                "UIS based on UIS based on KEN - HS - Continuous household survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 25 February 2025.",
-                "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
-                "Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 25 February 2025.",
+                "UIS based on KEN - HS - Continuous household survey: ILO Harmonized Microdata, https://ilostat.ilo.org/- Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 31 October 2025.",
+                "Source: UIS Dynamic template based on data provided by country Data extracted on 31 October 2025.",
+                "SOURCE: UIS Education Survey Data extracted on 31 October 2025.",
+                "Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 31 October 2025.",
                 ""
               ]
             },
@@ -86,8 +103,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "None",
                 "Y15T24",
+                "Y15T99",
+                "Y25T64",
+                "Y65T99",
+                "None",
                 "Y15T64",
                 "Y25T54",
                 ""
@@ -129,10 +149,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "None",
                 "ISCED11_1",
                 "ISCED11_2",
                 "ISCED11_3",
-                "None",
                 "AGG_2_3",
                 "ISCED11_02",
                 ""
@@ -145,6 +165,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "SKILL_LTRCY",
                 "None",
                 "SKILL_DLDONLD",
                 "SKILL_GSPUR",
@@ -172,31 +193,19 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2000",
                 "2022",
+                "2024",
                 "2015",
                 "2019",
-                "2021",
-                "2009",
+                "2023",
                 "2008",
                 "2014",
                 "2012",
-                "2023",
                 ""
               ]
             },
             "title": "TIME_DETAIL"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "This data point is NOT APPLICABLE for the submitting nation.",
-                "Aged 3 and older. Target population is 15 years and above (3 and above for other indicators)",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

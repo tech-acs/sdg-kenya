@@ -72,15 +72,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2020",
-                "2018",
+                "2023",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

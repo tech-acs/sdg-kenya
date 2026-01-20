@@ -1,5 +1,5 @@
 Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2007,A,0,Excluding Business enterprise;Excluding Private non-profit;Partial data,UNESCO Institute for Statistics.  Data extracted on 25 February 2025.,GB_POP_SCIERD,404,PER_1000000_POP,2025-03-05T00:00:00,2023,56.1911
-2010,A,0,Excluding Business enterprise;Excluding Private non-profit;Partial data,UNESCO Institute for Statistics.  Data extracted on 25 February 2025.,GB_POP_SCIERD,404,PER_1000000_POP,2025-03-05T00:00:00,2023,226.90023
-2022,A,0,Excluding Business enterprise;Excluding Private non-profit;Partial data,UNESCO Institute for Statistics.  Data extracted on 25 February 2025.,GB_POP_SCIERD,404,PER_1000000_POP,2025-03-05T00:00:00,2023,168.60477
-2023,A,0,Excluding Business enterprise;Excluding Private non-profit;Partial data,UNESCO Institute for Statistics.  Data extracted on 25 February 2025.,GB_POP_SCIERD,404,PER_1000000_POP,2025-03-05T00:00:00,2023,200.85225
+2007,A,0,Excluding Business enterprise;Excluding Private non-profit;Partial data,UNESCO Institute for Statistics.  Data extracted on 31 October 2025.,GB_POP_SCIERD,404,PER_1000000_POP,2025-12-04T00:00:00,2023,56.1911
+2010,A,0,Excluding Business enterprise;Excluding Private non-profit;Partial data,UNESCO Institute for Statistics.  Data extracted on 31 October 2025.,GB_POP_SCIERD,404,PER_1000000_POP,2025-12-04T00:00:00,2023,226.90023
+2022,A,0,Excluding Business enterprise;Excluding Private non-profit;Partial data,UNESCO Institute for Statistics.  Data extracted on 31 October 2025.,GB_POP_SCIERD,404,PER_1000000_POP,2025-12-04T00:00:00,2023,168.60477
+2023,A,0,Excluding Business enterprise;Excluding Private non-profit;Partial data,UNESCO Institute for Statistics.  Data extracted on 31 October 2025.,GB_POP_SCIERD,404,PER_1000000_POP,2025-12-04T00:00:00,2023,200.85225

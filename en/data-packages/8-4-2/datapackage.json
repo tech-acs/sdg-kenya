@@ -70,21 +70,12 @@
             "constraints": {
               "enum": [
                 "None",
-                "MF_AGG3A",
-                "MF_AGG3B",
                 "MF1",
-                "MF11",
-                "MF121",
-                "MF122",
-                "MF13",
-                "MF14",
                 "MF2",
-                "MF21",
-                "MF22",
                 "MF3",
                 "MF4",
-                "MF41",
-                "MF421",
+                "MF5",
+                "MF6",
                 ""
               ]
             },
@@ -105,6 +96,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2024",
                 "2023",
                 ""
               ]

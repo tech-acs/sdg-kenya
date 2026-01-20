@@ -1,1 +1,3 @@
-
+frontpage:
+  heading_short: "Kenya SDG Dashboard"
+  instructions_short: "SDGs dashboard leveraging OPN SDG platform"

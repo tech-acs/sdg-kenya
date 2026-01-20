@@ -22,6 +22,8 @@ jobs:
         python-version: 3.8
     - name: Install dependencies
       run: make install
+    - name: Add default source
+      run: python scripts/apply_default_sources.py
     - name: Build the site
       run: make build
     - name: Deploy to GitHub Pages
